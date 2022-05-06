@@ -50,20 +50,20 @@
             <fw type="pageNum">[189]</fw>
             <p rend="h1">I</p>
             <p>In den Zeiten, die wir vorwissenschaftliche nennen dürfen,<lb/> waren die Menschen um
-               die Erklärung des Traumes<ptr type="keyword" target="frd_kw_2748"/> nicht ver<lb
+               die Erklärung des <rs ref="#frd_kw_2748">Traumes</rs> nicht ver<lb
                   break="no"/>legen. Wenn sie ihn nach dem Erwachen erinnerten, galt er<lb/> ihnen
                als eine entweder gnädige oder feindselige Kundgebung<lb/> höherer, dämonischer und
                göttlicher Mächte. Mit dem Auf<lb break="no"/>blühen naturwissenschaftlicher
-               Denkweisen hat sich all diese<lb/> sinnreiche Mythologie<ptr type="keyword"
-                  target="frd_kw_1830"/> in Psychologie<ptr target="frd_kw_2136"/> umgesetzt, und heute<lb/> bezweifelt nur
-               mehr eine geringe Minderzahl unter den Gebil<lb break="no"/>deten, daß der Traum die
-               <hi rendition="#smallcaps">eigene psychische Leistung</hi><lb/> des Träumers<ptr target="frd_kw_2748"/>
+               Denkweisen hat sich all diese<lb/> sinnreiche <rs ref="#frd_kw_1830">Mythologie</rs> in
+               <rs type="keyword" ref="frd_kw_2136">Psychologie</rs> umgesetzt, und heute<lb/>
+               bezweifelt nur mehr eine geringe Minderzahl unter den Gebil<lb break="no"/>deten, daß der Traum die
+               <hi rendition="#smallcaps">eigene psychische Leistung</hi><lb/> des <rs ref="frd_kw_2748">Träumers</rs>
                ist.</p>
-            <p>Seit der Verwerfung der mythologischen<ptr type="keyword"
-               target="frd_kw_1830"/> Hypothese ist der<lb/> Traum<ptr target="frd_kw_2748"/> aber
+            <p>Seit der Verwerfung der <rs ref="#frd_kw_1830">mythologischen</rs>
+               Hypothese ist der<lb/> <rs ref="#frd_kw_2748">Traum</rs> aber
                erklärungsbedürftig geworden. Die Bedingungen seiner<lb/> Entstehung, seine Beziehung
-               zum Seelenleben des Wachens, seine<lb/> Abhängigkeit von Reizen, die sich während des
-               Schlafzustandes<lb/> zur Wahrnehmung drängen, die vielen dem wachen Denken an<lb
+               zum Seelenleben des <rs ref="#frd_kw_3169">Wachens</rs>, seine<lb/> Abhängigkeit von Reizen, die sich während des
+               <rs ref="#frd_kw_2337">Schlafzustandes</rs><lb/> zur <rs ref="#frd_kw_3186">Wahrnehmung</rs> drängen, die vielen dem wachen Denken an<lb
                   break="no"/>stößigen Eigentümlichkeiten seines Inhaltes, die Inkongruenz<lb/>
                zwischen seinen Vorstellungsbildern und den an sie geknüpften<lb/> Affekten, endlich
                die Flüchtigkeit des Traumes, die Art, wie das<lb/> wache Denken ihn als fremdartig
@@ -90,7 +90,7 @@
                bewahrt hat, findet ihren Aus<lb break="no"/>druck bei manchen Philosophen. Ihnen
                gilt als die Grundlage des<lb/> Traumlebens ein besonderer Zustand der
                Seelentätigkeit, den sie<lb/> sogar als eine Erhebung zu einer höheren Stufe feiern.
-               So urteilt<lb/> z. B. <hi rendition="#smallcaps"><rs tpye="person" ref="frd_person_03499">Schubert</rs></hi>: Der Traum sei eine
+               So urteilt<lb/> z. B. <hi rendition="#smallcaps"><rs type="person" ref="#frd_person_03499">Schubert</rs></hi>: Der Traum sei eine
                Befreiung des Geistes<lb/> von der Gewalt der äußeren Natur, eine Loslösung der
                Seele<lb/> von den Fesseln der Sinnlichkeit. Andere Denker gehen nicht so<lb/> weit,
                halten aber daran fest, daß die Träume wesentlich seelischen<lb/> Anregungen
