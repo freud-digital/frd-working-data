@@ -15,7 +15,17 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p/>
+            <listWit>
+               <witness xml:id="sfe-1901-01__1901.xml">E: Über den Traum. Hrsg. von L. Löwenfeld and H. Kurella. Wiesbaden: Bergmann 1901 (= Grenzfragen des Nerven- und Seelenlebens VIII), S. 307-344.</witness>
+               <witness xml:id="sfe-1901-01__1911.xml">D1: Über den Traum. 2. Aufl. Wiesbaden: Bergmann 1911. [Erw. Aufl. als Broschüre]
+               </witness>
+               <witness xml:id="sfe-1901-01__1921.xml">D2: Über den Traum. 3. Aufl. München und Wiesbaden: Bergmann 1921. 
+               </witness>
+               <witness xml:id="sfe-1901-01__1925.xml">C: Über den Traum. In: Gesammelte Schriften 3. Leipzig, Wien und Zürich: Internationaler Psychoanalytischer Verlag 1925, S. 189-256.
+               </witness>
+               <witness xml:id="sfe-1901-01__1931.xml">S: Über den Traum. In: Kleine Schriften zur Sexualtheorie und zur Traumlehre. Leipzig, Wien und Zürich: Internationaler Psychoanalytischer Verlag 1931, S. 246-307 [Kleinoktavausgabe].
+               </witness>
+            </listWit>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -48,31 +58,62 @@
                facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-25035/images/page-3.jpg"
                xml:id="faks__cdb41944-679a-49dc-8206-ba4941a6dada"/>
             <fw type="pageNum">[189]</fw>
-            <p rend="h1">I</p>
-            <p>In den Zeiten, die wir vorwissenschaftliche nennen dürfen,<lb/> waren die Menschen um
-               die Erklärung des <rs ref="#frd_kw_2748">Traumes</rs> nicht ver<lb
-                  break="no"/>legen. Wenn sie ihn nach dem Erwachen erinnerten, galt er<lb/> ihnen
-               als eine entweder gnädige oder feindselige Kundgebung<lb/> höherer, dämonischer und
-               göttlicher Mächte. Mit dem Auf<lb break="no"/>blühen naturwissenschaftlicher
-               Denkweisen hat sich all diese<lb/> sinnreiche <rs ref="#frd_kw_1830">Mythologie</rs> in
-               <rs type="keyword" ref="frd_kw_2136">Psychologie</rs> umgesetzt, und heute<lb/>
-               bezweifelt nur mehr eine geringe Minderzahl unter den Gebil<lb break="no"/>deten, daß der Traum die
-               <hi rendition="#smallcaps">eigene psychische Leistung</hi><lb/> des <rs ref="frd_kw_2748">Träumers</rs>
-               ist.</p>
-            <p>Seit der Verwerfung der <rs ref="#frd_kw_1830">mythologischen</rs>
-               Hypothese ist der<lb/> <rs ref="#frd_kw_2748">Traum</rs> aber
-               erklärungsbedürftig geworden. Die Bedingungen seiner<lb/> Entstehung, seine Beziehung
-               zum Seelenleben des <rs ref="#frd_kw_3169">Wachens</rs>, seine<lb/> Abhängigkeit von Reizen, die sich während des
-               <rs ref="#frd_kw_2337">Schlafzustandes</rs><lb/> zur <rs ref="#frd_kw_3186">Wahrnehmung</rs> drängen, die vielen dem wachen Denken an<lb
-                  break="no"/>stößigen Eigentümlichkeiten seines Inhaltes, die Inkongruenz<lb/>
-               zwischen seinen Vorstellungsbildern und den an sie geknüpften<lb/> <rs ref="#frd_kw_0052">Affekten</rs>, endlich
-               die Flüchtigkeit des Traumes, die Art, wie das<lb/> wache Denken ihn als fremdartig
-               beiseite schiebt, in der <rs ref="#frd_kw_0685">Erinnerung</rs><lb/> verstümmelt oder auslöscht: — all diese und
-               noch andere Pro<lb break="no"/>bleme verlangen seit vielen hundert Jahren nach
+            <p rend="h1">
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">I</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml">I.</rdg>
+                  <rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml"/>
+               </app></p>
+            <p>In
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">den</lem>
+                  <rdg wit="#sfe-1901-01__1921.xml #sfe-1901-01__1911.xml #sfe-1901-01__1901.xml"/>
+               </app> Zeiten, die wir vorwissenschaftliche nennen dürfen,<lb/> waren die Menschen um
+               die Erklärung des <rs ref="#frd_kw_2748">Traumes</rs> nicht ver<lb break="no"/>legen.
+               Wenn sie ihn nach dem Erwachen erinnerten, galt er<lb/> ihnen als eine entweder
+               gnädige oder feindselige Kundgebung<lb/> höherer, dämonischer und göttlicher<app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"/>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml"
+                     >,</rdg>
+               </app> Mächte. Mit dem Auf<lb break="no"/>blühen naturwissenschaftlicher Denkweisen
+               hat sich all diese<lb/> sinnreiche <rs ref="#frd_kw_1830">Mythologie</rs> in <rs
+                  type="keyword" ref="frd_kw_2136">Psychologie</rs> umgesetzt, und heute<lb/>
+               bezweifelt nur mehr eine geringe Minderzahl unter den Gebil<lb break="no"/>deten, <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+               </app>
+               der Traum die <hi rendition="#smallcaps">eigene psychische Leistung</hi><lb/> des <rs
+                  ref="frd_kw_2748">Träumers</rs> ist.</p>
+            <p>Seit der Verwerfung der <rs ref="#frd_kw_1830">mythologischen</rs> Hypothese ist der<lb/>
+               <rs ref="#frd_kw_2748">Traum</rs> aber erklärungsbedürftig geworden. Die Bedingungen
+               seiner<lb/> Entstehung, seine Beziehung zum Seelenleben des <rs ref="#frd_kw_3169"
+                  >Wachens</rs>, seine<lb/> Abhängigkeit von Reizen, die sich während des <rs
+                  ref="#frd_kw_2337">Schlafzustandes</rs><lb/> zur <rs ref="#frd_kw_3186"
+                  >Wahrnehmung</rs> drängen, die vielen dem wachen Denken 
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">an<lb break="no"/>stößigen</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">anstössigen</rdg>
+               </app>
+               Eigentümlichkeiten seines Inhaltes, die Inkongruenz<lb/> zwischen seinen
+               Vorstellungsbildern und den an sie geknüpften<lb/>
+               <rs ref="#frd_kw_0052">Affekten</rs>, endlich die Flüchtigkeit des Traumes, die Art,
+               wie das<lb/> wache Denken ihn als fremdartig <app>
+                  <lem wit="#sfe-1901-01__1925.xml">beiseite</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">bei Seite</rdg>
+                  <rdg wit="#sfe-1901-01__1931.xml">beiseiteschiebt</rdg>
+               </app> <app>
+                  <lem wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml">schiebt</lem>
+                  <rdg wit="#sfe-1901-01__1931.xml"/>
+               </app>, in der <rs
+                  ref="#frd_kw_0685">Erinnerung</rs><lb/> verstümmelt oder auslöscht: — all diese
+               und noch andere Pro<lb break="no"/>bleme verlangen seit vielen hundert Jahren nach
                Lösungen, die<lb/> bis heute nicht befriedigend gegeben werden konnten. Im Vorder<lb
                   break="no"/>grunde des Interesses steht aber die Frage nach der <hi
                   rendition="#smallcaps">Bedeutung</hi><lb/> des Traumes, die einen zweifachen Sinn
-               in sich schließt. Sie</p>
+               in sich <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">schließt</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">schliesst</rdg>
+               </app>. Sie</p>
          </div>
          <div xml:id="page__3773231a-f05e-4be6-9158-97bb021a3b2c">
             <pb n="4"
@@ -80,47 +121,122 @@
                xml:id="faks__df69b9f8-00bf-427a-a27e-e79237fbcf00"/>
             <fw type="pageNum">190</fw>
             <p prev="true">fragt erstens nach der psychischen Bedeutung des Träumens, nach<lb/> der
-               Stellung des Traumes zu anderen <rs ref="#frd_kw_2432">seelischen Vorgängen</rs> und<lb/> nach einer etwaigen
-               biologischen Funktion desselben, und zweitens<lb/> möchte sie wissen, ob der Traum
-               <hi rendition="#smallcaps">deutbar</hi> ist, ob der einzelne<lb/> <rs ref="#frd_kw_2766">Trauminhalt</rs>
-               einen „<hi rendition="#smallcaps">Sinn</hi>“ hat, wie wir ihn in anderen
-               psychischen<lb/> Kompositionen zu finden gewöhnt sind.</p>
-            <p>Drei Richtungen machen sich in der Würdigung des <rs ref="#frd_kw_2748">Traumes</rs><lb/> bemerkbar. Die eine
-               derselben, die gleichsam den Nachklang der<lb/> alten Überschätzung des Traumes
-               bewahrt hat, findet ihren Aus<lb break="no"/>druck bei manchen Philosophen. Ihnen
-               gilt als die Grundlage des<lb/> Traumlebens ein besonderer Zustand der
-               Seelentätigkeit, den sie<lb/> sogar als eine Erhebung zu einer höheren Stufe feiern.
-               So urteilt<lb/> z. B. <hi rendition="#smallcaps"><rs type="person" ref="#frd_person_03499">Schubert</rs></hi>: Der Traum sei eine
-               Befreiung des Geistes<lb/> von der Gewalt der äußeren Natur, eine Loslösung der
+               Stellung des Traumes zu anderen <rs ref="#frd_kw_2432">seelischen Vorgängen</rs>
+               und<lb/> nach einer etwaigen biologischen Funktion desselben, und zweitens<lb/>
+               möchte sie wissen, ob der Traum <hi rendition="#smallcaps">deutbar</hi> ist, ob der einzelne<lb/>
+               <rs ref="#frd_kw_2766">Trauminhalt</rs> einen „<hi rendition="#smallcaps">Sinn</hi>“
+               hat, wie wir ihn in anderen psychischen<lb/> Kompositionen zu finden gewöhnt
+               sind.</p>
+            <p>Drei Richtungen machen sich in der Würdigung des <rs ref="#frd_kw_2748"
+               >Traumes</rs><lb/> bemerkbar. Die eine derselben, die gleichsam den Nachklang
+               der<lb/> alten
+               <app>
+                  <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Überschätzung</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml">Ueberschätzung</rdg>
+               </app> des Traumes bewahrt hat, findet ihren Aus<lb break="no"
+               />druck bei manchen Philosophen. Ihnen gilt als die Grundlage des<lb/> Traumlebens
+               ein besonderer Zustand der <app>
+    <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Seelentätigkeit</lem>
+    <rdg wit="#sfe-1901-01__1901.xml">Seelenthätigkeit</rdg>
+</app>, den sie<lb/> sogar als eine Erhebung zu
+               einer höheren Stufe feiern. So
+               <app>
+                  <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">urteilt</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml">urtheilt</rdg>
+               </app>
+               <lb/> z. B. <hi rendition="#smallcaps"><rs
+                     type="person" ref="#frd_person_03499">Schubert</rs></hi>: Der Traum sei eine
+               Befreiung des Geistes<lb/> von der Gewalt der
+               <app>
+                  <lem wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">äusseren</lem>
+                  <rdg wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">äußeren</rdg>
+               </app>
+               Natur, eine Loslösung der
                Seele<lb/> von den Fesseln der Sinnlichkeit. Andere Denker gehen nicht so<lb/> weit,
-               halten aber daran fest, daß die Träume wesentlich seelischen<lb/> Anregungen
-               entspringen und Äußerungen seelischer Kräfte dar<lb break="no"/>stellen, die tagsüber
-               an ihrer freien Entfaltung behindert sind (der<lb/> <rs ref="#frd_kw_2770">Traumphantasie</rs> — <hi
-                  rendition="#smallcaps"><rs ref="#frd_person_03500">Scherner</rs></hi>,
-               <hi rendition="#smallcaps"><rs ref="#frd_person_03501">Volkelt</rs></hi>).
-               Eine Fähigkeit zur<lb/> Überleistung wenigstens auf gewissen Gebieten
-               (<rs ref="#frd_kw3413">Gedächtnis</rs>)<lb/> wird dem Traumleben von einer großen Anzahl von Beobachtern<lb/>
-               zugesprochen.</p>
-            <p>Im scharfen Gegensatz hiezu vertritt die Mehrzahl ärztlicher<lb/> Autoren eine
-               Auffassung, welche dem <rs ref="#frd_kw_2748">Traum</rs> kaum noch den Wert<lb/> eines psychischen Phänomens
-               beläßt. Die <rs ref="#frd_kw_3412">Erreger des Traumes</rs><lb/> sind nach ihnen ausschließlich
-               die <rs ref="#frd_kw_2221">Sinnes- und Leibreize</rs>, die ent<lb break="no"/>weder von außen den Schläfer treffen oder zufällig
-               in seinen<lb/> inneren Organen rege werden. Das Geträumte hat nicht mehr<lb/>
-               Anspruch auf Sinn und Bedeutung als etwa die Tonfolge, welche<lb/> die zehn Finger
-               eines der <rs ref="#frd_kw_1806">Musik</rs> ganz unkundigen Menschen<lb/> hervorrufen, wenn sie über die Tasten
-               des Instruments hin<lb break="no"/>laufen. Der Traum ist geradezu als <q who="#point_to_bibl_id, 35f" >„ein
-               körperlicher, in allen<lb/> Fällen unnützer, in vielen Fällen krankhafter Vorgang“</q> zu
-               kenn-</p>
+               halten aber daran fest,
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">daß</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">dass</rdg>
+               </app>
+               die Träume wesentlich seelischen<lb/> Anregungen
+               entspringen und
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Äußerungen</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml">Aeusserungen</rdg>
+                  <rdg wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Äusserungen</rdg>
+               </app>
+               seelischer Kräfte dar<lb break="no"/>stellen, die tagsüber
+               an ihrer freien Entfaltung behindert sind (der<lb/>
+               <rs ref="#frd_kw_2770">Traumphantasie</rs> — <hi rendition="#smallcaps"><rs
+                     ref="#frd_person_03500">Scherner</rs></hi>, <hi rendition="#smallcaps"><rs
+                     ref="#frd_person_03501">Volkelt</rs></hi>). Eine Fähigkeit zur<lb/>
+               <app>
+                  <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Überleistung</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml">Ueberleistung</rdg>
+               </app>
+               wenigstens auf gewissen Gebieten (<rs ref="#frd_kw3413"
+                  ><app>
+                     <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Gedächtnis</lem>
+                     <rdg wit="#sfe-1901-01__1901.xml">Gedächtniss</rdg>
+                  </app></rs>)<lb/> wird dem Traumleben von einer
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">großen</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">grossen</rdg>
+               </app>
+               Anzahl von Beobachtern<lb/> zugesprochen.</p>
+            <p>Im scharfen Gegensatz
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">hiezu</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">hierzu</rdg>
+               </app>
+               vertritt die Mehrzahl ärztlicher<lb/> Autoren eine
+               Auffassung, welche dem <rs ref="#frd_kw_2748">Traum</rs> kaum noch den
+               <app>
+                  <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Wert</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml">Werth</rdg>
+               </app>
+               <lb/>
+               eines psychischen Phänomens
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">beläßt</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">belässt</rdg>
+               </app>. Die <rs ref="#frd_kw_3412">Erreger des
+                  Traumes</rs><lb/> sind nach ihnen
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">ausschließlich</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">ausschliesslich</rdg>
+               </app>
+               die <rs ref="#frd_kw_2221">Sinnes- und Leibreize</rs>, die ent<lb break="no"/>weder von
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">außen</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">aussen</rdg>
+               </app>
+               den Schläfer treffen oder zufällig in seinen<lb/> inneren Organen rege werden. Das Geträumte hat
+               nicht mehr<lb/> Anspruch auf Sinn und Bedeutung als etwa die Tonfolge, welche<lb/>
+               die zehn Finger eines der <rs ref="#frd_kw_1806">Musik</rs> ganz unkundigen
+               Menschen<lb/> hervorrufen, wenn sie über die Tasten des
+               <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Instruments</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">Instrumentes</rdg>
+               </app>
+               hin<lb break="no"
+               />laufen. Der Traum ist geradezu als <q who="#point_to_bibl_id, 35f">„ein
+                  körperlicher, in allen<lb/> Fällen unnützer, in vielen Fällen krankhafter
+                  Vorgang“</q> zu kenn-</p>
          </div>
          <div xml:id="page__89a96049-fd7c-4fd1-826e-6a3b789919d3">
             <pb n="5"
                facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-25035/images/page-5.jpg"
                xml:id="faks__b5165e26-d27d-4775-9120-c4526343fe49"/>
             <fw type="pageNum">191</fw>
-            <p prev="true">zeichnen (<hi rendition="#smallcaps"><rs ref="#">Binz</rs></hi>). Alle Eigentümlichkeiten
-               des Traumlebens er<lb break="no"/>klären sich aus der zusammenhanglosen, durch
-               physiologische Reize<lb/> erzwungenen Arbeit einzelner Organe oder Zellgruppen des
-               sonst<lb/> in Schlaf versenkten Gehirns.</p>
+            <p prev="true">zeichnen (<hi rendition="#smallcaps"><rs ref="#">Binz</rs></hi>). Alle
+               <app>
+                  <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Eigentümlichkeiten</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml">Eigenthümlichkeiten</rdg>
+               </app>
+               des Traumlebens er<lb break="no"/>klären sich aus der
+               zusammenhanglosen, durch physiologische Reize<lb/> erzwungenen Arbeit einzelner
+               Organe oder Zellgruppen des sonst<lb/> in Schlaf versenkten Gehirns.</p>
             <p>Wenig beeinflußt durch dieses Urteil der Wissenschaft und<lb/> unbekümmert um die
                Quellen des Traumes, scheint die Volks<lb break="no"/>meinung an dem Glauben
                festzuhalten, daß der Traum denn doch<lb/> einen Sinn habe, der sich auf die
@@ -436,7 +552,11 @@
                Ausdrucksweise in die andere, aus<lb/> einer Ausdrucksweise, die uns ohne weiteres
                verständlich ist, in<lb/> eine andere, zu deren Verständnis wir erst durch Anleitung
                und<lb/> Bemühung vordringen können, obwohl auch sie als Leistung<lb/> unserer
-               Seelentätigkeit anerkannt werden muß. Mit Rücksicht<lb/> auf das Verhältnis von
+               <app>
+                  <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Seelentätigkeit</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml">Seelenthätigkeit</rdg>
+               </app>
+               anerkannt werden muß. Mit Rücksicht<lb/> auf das Verhältnis von
                latentem zu manifestem Trauminhalt<lb/> lassen sich die Träume in drei Kategorien
                bringen. Wir können<lb/> erstens solche Träume unterscheiden, die <hi
                   rendition="#smallcaps">sinnvoll</hi> und gleich<lb break="no"/>zeitig <hi
@@ -467,7 +587,10 @@
                   >verworren</hi><lb/> und <hi rendition="#smallcaps">sinnlos</hi> erscheinen. Die
                überwiegende Mehrzahl der Pro<lb break="no"/>dukte unseres Träumens zeigt diese
                Charaktere, welche die Gering<lb break="no"/>schätzung der Träume und die ärztliche
-               Theorie von der ein<lb break="no"/>geschränkten Seelentätigkeit begründet haben.
+               Theorie von der ein<lb break="no"/>geschränkten <app>
+    <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Seelentätigkeit</lem>
+    <rdg wit="#sfe-1901-01__1901.xml">Seelenthätigkeit</rdg>
+</app> begründet haben.
                Zumal in den<lb/> längeren und komplizierteren Traumkompositionen vermißt man<lb/>
                nur selten die deutlichsten Zeichen der Inkohärenz.</p>
             <p>Der Gegensatz von manifestem und latentem Trauminhalt hat<lb/> offenbar nur für die
@@ -1403,7 +1526,12 @@
                nicht zu entdecken. Halten wir an der Begriffsbestimmung<lb/> fest, daß „Traumarbeit“
                die Überführung der Traumgedanken in<lb/> den Trauminhalt bezeichnet, so müssen wir
                uns sagen, die Traum<lb break="no"/>arbeit sei nicht schöpferisch, sie entwickle
-               keine ihr eigentümliche<lb/> Phantasie, sie urteilt nicht, schließt nicht, sie
+               keine ihr eigentümliche<lb/> Phantasie, sie
+               <app>
+                  <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">urteilt</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml">urtheilt</rdg>
+               </app>
+               nicht, schließt nicht, sie
                leistet überhaupt<lb/> nichts anderes als das Material zu verdichten, verschieben
                und<lb/> auf Anschaulichkeit umzuarbeiten, wozu noch das inkonstante<lb/> letzte
                Stückchen deutender Bearbeitung hinzukommt. Man findet<lb/> zwar mancherlei im
@@ -2116,11 +2244,11 @@
                Dramatisierung liefert.<hi rendition="#footnote-index">1</hi></p>
             <note type="footnote"><hi rendition="#footnote-index">1)</hi> Weiteres über die
                Traumsymbolik findet man außer in den alten Schriften<lb/> zur Traumdeutung (<hi
-                  rendition="#smallcaps">Artemidorus von Daldis</hi>, <hi rendition="#smallcaps"
-                     ><rs type="person" ref="#frd_person_03500">Scherner</rs></hi>, Das Leben des<lb/> Traumes 1861) in der „Traumdeutung“ des
-               Verfassers, in den mythologischen<lb/> Arbeiten der psychoanalytischen Schule und
-               auch in den Arbeiten von W. <hi rendition="#smallcaps">Stekel</hi><lb/> („Die Sprache
-               des Traumes“ 1911).</note>
+                  rendition="#smallcaps">Artemidorus von Daldis</hi>, <hi rendition="#smallcaps"><rs
+                     type="person" ref="#frd_person_03500">Scherner</rs></hi>, Das Leben des<lb/>
+               Traumes 1861) in der „Traumdeutung“ des Verfassers, in den mythologischen<lb/>
+               Arbeiten der psychoanalytischen Schule und auch in den Arbeiten von W. <hi
+                  rendition="#smallcaps">Stekel</hi><lb/> („Die Sprache des Traumes“ 1911).</note>
          </div>
          <div xml:id="page__dd4edd73-d5cd-4a7d-9136-529cf5235fa8">
             <pb n="69"
