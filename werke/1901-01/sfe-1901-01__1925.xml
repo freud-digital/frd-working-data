@@ -148,10 +148,10 @@
                   <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Überleistung</lem>
                   <rdg wit="#sfe-1901-01__1901.xml">Ueberleistung</rdg>
                </app>
-               wenigstens auf gewissen Gebieten (<rs ref="#frd_kw3413"><app>
-                     <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Gedächtnis</lem>
+               wenigstens auf gewissen Gebieten (<app>
+                  <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml"><rs ref="#frd_kw3413">Gedächtnis</rs></lem>
                      <rdg wit="#sfe-1901-01__1901.xml">Gedächtniss</rdg>
-                  </app></rs>)<lb/> wird dem Traumleben von einer
+                  </app>)<lb/> wird dem Traumleben von einer
                <app>
                   <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">großen</lem>
                   <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml">grossen</rdg>
@@ -213,7 +213,8 @@
                Verkündigung der Zukunft<lb/> bezieht, und der durch irgend ein Verfahren der Deutung
                aus<lb/> seinem oft verworrenen und rätselhaften Inhalt gewonnen werden<lb/> könne.
                Die in Anwendung gebrachten Deutungsmethoden bestehen<lb/> darin, daß man den
-               erinnerten Trauminhalt durch einen anderen<lb/> ersetzt, entweder Stück für Stück <hi rendition="#smallcaps">nach einem feststehenden Schlüssel</hi>, oder das Ganze des
+               erinnerten Trauminhalt durch einen anderen<lb/> ersetzt, entweder Stück für Stück <hi rendition="#smallcaps">nach einem feststehenden<lb/>
+                  Schlüssel</hi>, oder das Ganze des
                Traumes durch ein anderes<lb/> Ganzes, zu dem es in der Beziehung eines <hi rendition="#smallcaps">Symbols</hi> steht.<lb/> Ernsthafte Männer lächeln über
                diese Bemühungen. „Träume<lb/> sind Schäume.“</p>
          </div>
@@ -348,7 +349,7 @@
                Zeit meiner geheimen Werbung zuge<lb break="no"/>tragen hat. Die Liebkosung unter dem
                Tischtuch war die Ant<lb break="no"/>wort auf einen ernsthaft werbenden Brief. Im
                Traum ist aber<lb/> meine Frau durch die mir fremde E. L. ersetzt.</p>
-            <p>Frau E. L. ist die Tochter eines Mannes, dem ich <hi rendition="#smallcaps">Geld
+            <p>Frau E. L. ist die Tochter eines Mannes, dem ich <hi rendition="#smallcaps">Geld<lb/>
                   geschuldet</hi> habe! Ich kann nicht umhin zu bemerken, daß<lb/> sich da ein
                ungeahnter Zusammenhang zwischen den Stücken des<lb/> Trauminhalts und meinen
                Einfällen enthüllt. Folgt man der<lb/> Assoziationskette, die von einem Element des
