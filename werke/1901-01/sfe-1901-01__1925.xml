@@ -12,14 +12,14 @@
          </publicationStmt>
          <sourceDesc>
             <listWit>
-               <witness xml:id="sfe-1901-01__1901.xml">E: Über den Traum. Hrsg. von L. Löwenfeld and H. Kurella. Wiesbaden: Bergmann 1901 (= Grenzfragen des Nerven- und Seelenlebens VIII), S. 307-344.</witness>
-               <witness xml:id="sfe-1901-01__1911.xml">D1: Über den Traum. 2. Aufl. Wiesbaden: Bergmann 1911. [Erw. Aufl. als Broschüre]
+               <witness xml:id="sfe-1901-01__1901.xml"><idno>E</idno>: Über den Traum. Hrsg. von L. Löwenfeld and H. Kurella. Wiesbaden: Bergmann 1901 (= Grenzfragen des Nerven- und Seelenlebens VIII), S. 307-344.</witness>
+               <witness xml:id="sfe-1901-01__1911.xml"><idno>D1</idno>: Über den Traum. 2. Aufl. Wiesbaden: Bergmann 1911. [Erw. Aufl. als Broschüre]
                </witness>
-               <witness xml:id="sfe-1901-01__1921.xml">D2: Über den Traum. 3. Aufl. München und Wiesbaden: Bergmann 1921. 
+               <witness xml:id="sfe-1901-01__1921.xml"><idno>D2</idno>: Über den Traum. 3. Aufl. München und Wiesbaden: Bergmann 1921. 
                </witness>
-               <witness xml:id="sfe-1901-01__1925.xml">C: Über den Traum. In: Gesammelte Schriften 3. Leipzig, Wien und Zürich: Internationaler Psychoanalytischer Verlag 1925, S. 189-256.
+               <witness xml:id="sfe-1901-01__1925.xml"><idno>C</idno>: Über den Traum. In: Gesammelte Schriften 3. Leipzig, Wien und Zürich: Internationaler Psychoanalytischer Verlag 1925, S. 189-256.
                </witness>
-               <witness xml:id="sfe-1901-01__1931.xml">S: Über den Traum. In: Kleine Schriften zur Sexualtheorie und zur Traumlehre. Leipzig, Wien und Zürich: Internationaler Psychoanalytischer Verlag 1931, S. 246-307 [Kleinoktavausgabe].
+               <witness xml:id="sfe-1901-01__1931.xml"><idno>S</idno>: Über den Traum. In: Kleine Schriften zur Sexualtheorie und zur Traumlehre. Leipzig, Wien und Zürich: Internationaler Psychoanalytischer Verlag 1931, S. 246-307 [Kleinoktavausgabe].
                </witness>
             </listWit>
          </sourceDesc>
