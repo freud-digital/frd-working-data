@@ -199,7 +199,7 @@
          <div xml:id="page__89a96049-fd7c-4fd1-826e-6a3b789919d3">
             <pb n="5" facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-25035/images/page-5.jpg" xml:id="faks__b5165e26-d27d-4775-9120-c4526343fe49"/>
             <fw type="pageNum">191</fw>
-            <p prev="true">zeichnen (<hi rendition="#smallcaps"><rs ref="#">Binz</rs></hi>). Alle
+            <p prev="true">zeichnen (<hi rendition="#smallcaps"><rs ref="#frd_person_1">Binz</rs></hi>). Alle
                <app>
                   <lem wit="#sfe-1901-01__1911.xml #sfe-1901-01__1921.xml #sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Eigentümlichkeiten</lem>
                   <rdg wit="#sfe-1901-01__1901.xml">Eigenthümlichkeiten</rdg>
