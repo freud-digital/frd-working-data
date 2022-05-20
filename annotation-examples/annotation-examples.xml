@@ -59,7 +59,7 @@
                   <term>Table d’hôte</term> Gasthaustafel mit festgelegtem Menü, im Gegensatz zu à la carte.
                   <bibl xml:id="zotero__">
                      Vgl. <title>SFs Brief an <rs ref="#">Martha Freud, Riva</rs>, <date when-iso="1900-09-05">5.9.1900</date></title>: 
-                     <q source="#zotero__">„u im nahe gelegenen [Hotel] Mahlzeiten an der Tabel des Todes, wie ich sie reichlicher u besser, leichter u appetitlicher nirgends getroffen habe.“</q> 
+                     <!-- optional source: a good way to reference to zotero --><q source="#zotero__">„u im nahe gelegenen [Hotel] Mahlzeiten an der Tabel des Todes, wie ich sie reichlicher u besser, leichter u appetitlicher nirgends getroffen habe.“</q> 
                      (Reisebriefe, <biblScope unit="page">S.130</biblScope>).
                   </bibl>
                </note>
@@ -73,7 +73,7 @@
                      <term>„Ihr führt ins Leben uns hinein, […]</term> Lied des Harfners aus Goethes
                      Wilhelm Meisters Lehrjahre: 
                      <cit>
-                        <quote source="zotero__">
+                        <quote source="zotero__"><!-- optional source: a good way to reference to zotero -->
                            <lg>
                               <l>Wer nie sein Brot mit Tränen aß,</l>
                               <l>wer nie die kummervollen Nächte </l>
