@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vorschläge zu Textannotationen</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <p>
+               <title>Keywords</title>
+               <!-- rs annotation to be used -->
+               <rs ref="#frd_kw_2748">Traumes</rs>
+            </p>
+            <p>
+               <title>Persons</title>
+               <!-- rs annotation to be used -->
+               <rs ref="#frd_person_4">Schubert</rs>
+            </p>
+            <p>
+               <title>Places</title>
+               <!-- rs annotation to be used -->
+               <rs ref="#frd_place_id_5">Dachstein</rs>
+            </p>
+            <p>
+               <title>Places</title>
+               <!-- rs annotation to be used -->
+               <rs ref="#frd_place_id_5">Dachstein</rs>
+            </p>
+            <p>
+               <title>Dreams</title>
+               <!-- rs annotation to be used -->
+               <rs ref="frd_dream_id_5">Eine Gesellschaft, Tisch oder Table d’hôte</rs>
+            </p>
+            <p>
+               <title>Keyword / Notiz / Zitat</title>
+               <!-- note - term- bibl and its children as annotations to be used -->
+               <!-- Option 1 -->
+               <note type="e" resp="#chuber">
+                  <term>Table d’hôte</term> Gasthaustafel mit festgelegtem Menü, im Gegensatz zu à la carte. Vgl. SFs Brief
+                  an Martha Freud, Riva, 5.9.1900: „u im nahe gelegenen [Hotel] Mahlzeiten an der
+                  Tabel des Todes, wie ich sie reichlicher u besser, leichter u appetitlicher
+                  nirgends getroffen habe.“ (Reisebriefe, S.130).
+               </note>
+               <!-- Option 2 -->
+               <note type="e" resp="#chuber">
+                  <term>Table d’hôte</term> Gasthaustafel mit festgelegtem Menü, im Gegensatz zu à la carte.
+                  <bibl xml:id="zotero__">
+                     Vgl. <title>SFs Brief an <rs ref="#">Martha Freud, Riva</rs>, <date when-iso="1900-09-05">5.9.1900</date></title>: 
+                     <q source="#zotero__">„u im nahe gelegenen [Hotel] Mahlzeiten an der Tabel des Todes, wie ich sie reichlicher u besser, leichter u appetitlicher nirgends getroffen habe.“</q> 
+                     (Reisebriefe, <biblScope unit="page">S.130</biblScope>).
+                  </bibl>
+               </note>
+            </p>
+            <p>
+               <title>Keyword / Notiz / Zitat / verse</title>
+               <!-- q - note - term - cit and children, title or bibl and children as annotations to be used -->
+               <q source="#zotero__2TNR565J" n="Bd.5. S. 134">Ihr führt ins Leben uns hinein,<lb/>
+                  Ihr laßt den Armen <hi rendition="#smallcaps">schuldig</hi> werden.
+                  <note type="e" resp="#chuber">
+                     <term>„Ihr führt ins Leben uns hinein, […]</term> Lied des Harfners aus Goethes
+                     Wilhelm Meisters Lehrjahre: 
+                     <cit>
+                        <quote source="zotero__">
+                           <lg>
+                              <l>Wer nie sein Brot mit Tränen aß,</l>
+                              <l>wer nie die kummervollen Nächte </l>
+                              <l>Auf seinem Bette weinend saß,</l>
+                              <l>der kennt euch nicht, ihr himmlischen Mächte.</l>
+                           </lg>
+                           <lg>
+                              <l>Ihr führt ins Leben uns hinein,</l>
+                              <l>Ihr laßt den Armen schuldig werden, </l>
+                              <l>Dann überlaßt ihr ihn der Pein;</l>
+                              <l>Denn alle Schuld rächt sich auf Erden.“</l>
+                           </lg>
+                        </quote>
+                     </cit>
+                     <!-- Option 1 -->
+                     <title ref="#zotero__2TNR565J">Goethe: Sämtl. Werke (Münchner Ausgabe), Bd. 5, S. 134)</title>
+                     <!-- Option 2 -->
+                     <bibl xml:id="zotero__2TNR565J"><persName>Goethe</persName>: <title>Sämtl. Werke</title> (<pubPlace>Münchner</pubPlace> Ausgabe), <biblScope unit="volume">Bd. 5</biblScope>, <biblScope unit="page">S. 134</biblScope>)</bibl>
+                  </note>
+               </q>
+            </p>
+            
+            <p>
+               <title>Line breaks</title>
+               <!-- n indicates the line number -->
+               <lb n="lb-1"/>
+            </p>
+            
+            <title>Paragraphs</title>
+            <!-- n indicates the paragraph number -->
+            <p n="p-1">
+               Weiter: Ich merke jetzt, daß der Traumvorgang die Repro<lb n="lb-1" break="no"/>duktion einer
+               kleinen Szene ist, die sich ganz ähnlich so zwischen<lb n="lb-2"/> meiner Frau und mir zur
+               Zeit meiner geheimen Werbung zuge<lb n="lb-3" break="no"/>tragen hat. Die Liebkosung unter dem
+               Tischtuch war die Ant<lb n="lb-4" break="no"/>wort auf einen ernsthaft werbenden Brief. Im
+               Traum ist aber<lb n="lb-5"/> meine Frau durch die mir fremde E. L. ersetzt.
+            </p>
+            
+         </div>
+         
+      </body>
+  </text>
+</TEI>
