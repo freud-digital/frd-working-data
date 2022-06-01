@@ -1,10 +1,10 @@
-name: Download Work
+name: Validate xml
 
 on:
   workflow_dispatch
 
 jobs:
-  download:
+  validate:
     name: Download Work
     runs-on: ubuntu-latest
     steps:
