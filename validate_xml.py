@@ -21,7 +21,8 @@ for work in works:
             parser = etree.XMLParser()
             print(f"parsing Manifestation: werke/{work}/{w}")
             try: 
-                tree = etree.parse(f"werke/{work}/{w}", parser)       
+                tree = etree.parse(f"werke/{work}/{w}", parser)  
+                print(f"no parsing errors found in werke/{work}/{w}")     
                 with open(f"logs/log__{datetime.today().strftime('%Y-%m-%d_%H:%M:%S')}.txt", "a") as f:
                     data = f"no errors found in werke/{work}/{w} \n"
                     f.write(data)
@@ -31,4 +32,3 @@ for work in works:
                 with open(f"logs/log__{datetime.today().strftime('%Y-%m-%d_%H:%M:%S')}.txt", "a") as f:
                     data = f"error in file: werke/{work}/{w}: \n {error.message} in line {error.line} of column {error.column} \n"
                     f.write(data)
-             
