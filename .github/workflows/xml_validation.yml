@@ -1,0 +1,24 @@
+name: Download Work
+
+on:
+  workflow_dispatch
+
+jobs:
+  download:
+    name: Download Work
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Validate XML
+      run: |
+        python validate_xml.py
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: XML validation logs created
