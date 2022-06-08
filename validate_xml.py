@@ -1,4 +1,3 @@
-from lxml import etree
 from acdh_tei_pyutils.tei import TeiReader
 from datetime import datetime
 

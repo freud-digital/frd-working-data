@@ -1,2 +1,1 @@
-wheel
-lxml
+acdh_tei_pyutils
