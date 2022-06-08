@@ -7,6 +7,8 @@ jobs:
   validate:
     name: Validate xml
     runs-on: ubuntu-latest
+    env:
+      BASEROW_TOKEN: ${{secrets.BASEROW_TOKEN}}
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.8
@@ -14,13 +16,8 @@ jobs:
       with:
         python-version: 3.8
     - name: Install dependencies
-      run: |        
-        python3 -m venv venv
-        source venv/bin/activate
+      run: |
         python3 -m pip install --upgrade pip
-        sudo apt-get install libxml2-dev libxslt-dev python-dev zlib1g-dev
         pip install -r requirements.txt
         python validate_xml.py
-    - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: XML validation logs created
+
