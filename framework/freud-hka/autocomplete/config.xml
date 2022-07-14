@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://humanistika.org/ns/tei-completer">
+    <server>
+        <baseUrl>https://pmb.acdh.oeaw.ac.at/apis/tei/tei-completer</baseUrl>
+    </server>
+    <autoComplete>
+        <context>//rs</context>
+        <attribute>@ref</attribute>
+        <dependent default="person">@type</dependent>
+        <selection>./text()</selection>
+        <request>
+            <url>$baseUrl/$dependent/?q=$selection</url>
+        </request>
+    </autoComplete>
+</config>

@@ -71,11 +71,12 @@
                </app></p>
             <p>In <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">den</lem>
-                  <rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml #sfe-1901-001__1901.xml"/>
+                  <rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml #sfe-1901-001__1901.xml"
+                  />
                </app> Zeiten, die wir vorwissenschaftliche nennen dürfen,<lb/> waren die Menschen um
-               die Erklärung des <rs ref="#frd_kw_2748">Traumes</rs> nicht ver<lb break="no"/>legen.
-               Wenn sie ihn nach dem Erwachen erinnerten, galt er<lb/> ihnen als eine entweder
-               gnädige oder feindselige Kundgebung<lb/> höherer, dämonischer und göttlicher<app>
+               die Erklärung des <rs ref="#frd_kw_2748" type="dream">Traumes</rs> nicht ver<lb
+                  break="no"/>legen. Wenn sie ihn nach dem Erwachen erinnerten, galt er<lb/> ihnen
+               als eine entweder gnädige oder feindselige Kundgebung<lb/> höherer, dämonischer und göttlicher<app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"/>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >,</rdg>
