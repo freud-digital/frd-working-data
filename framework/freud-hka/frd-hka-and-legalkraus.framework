@@ -4301,7 +4301,7 @@
 											<String>frd-hka_term</String>
 										</field>
 										<field name="name">
-											<String>Schlagwort Wrapper</String>
+											<String>Schlagwort</String>
 										</field>
 										<field name="description">
 											<String>Markiert Text als Schlagwort (Term)</String>
@@ -4347,10 +4347,10 @@
 											<String>frd-hka_cit_quote</String>
 										</field>
 										<field name="name">
-											<String>Vollzitat</String>
+											<String>Zitatblock</String>
 										</field>
 										<field name="description">
-											<String>Markiert Text als Vollzitat</String>
+											<String>Markiert Text als Zitatblock</String>
 										</field>
 										<field name="largeIconPath">
 											<String></String>
@@ -4395,10 +4395,10 @@
 											<String>frd-hka_quote</String>
 										</field>
 										<field name="name">
-											<String>Kurzzitat</String>
+											<String>Zitat</String>
 										</field>
 										<field name="description">
-											<String>Markiert Text als Kurzzitat</String>
+											<String>Markiert Text als Zitat</String>
 										</field>
 										<field name="largeIconPath">
 											<String></String>
@@ -4442,10 +4442,10 @@
 											<String>frd-hka_p</String>
 										</field>
 										<field name="name">
-											<String>Paragraph</String>
+											<String>Absatz</String>
 										</field>
 										<field name="description">
-											<String>Markiert Text als Paragraph</String>
+											<String>Markiert Text als Absatz</String>
 										</field>
 										<field name="largeIconPath">
 											<String>${framework}/icons/paragraph.png</String>
@@ -4489,7 +4489,7 @@
 											<String>frd-hka_idno</String>
 										</field>
 										<field name="name">
-											<String>IdentifierRef</String>
+											<String>Identifier</String>
 										</field>
 										<field name="description">
 											<String>Fügt eine Identifierreferenz ein</String>
@@ -4723,10 +4723,10 @@
 											<String>frd-hka_rs_bibl</String>
 										</field>
 										<field name="name">
-											<String>Referenz (Biblio)</String>
+											<String>Bibliographiereferenz</String>
 										</field>
 										<field name="description">
-											<String>Markiert Text als bibliographische Referenz rs</String>
+											<String>Markiert Text als Referenz zu einer bibliographischen Angabe</String>
 										</field>
 										<field name="largeIconPath">
 											<String></String>
