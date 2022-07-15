@@ -1,4 +1,3 @@
 acdh_tei_pyutils
 pandas
-glob
 lxml
