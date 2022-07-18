@@ -4796,12 +4796,16 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>${ask('Variantenapparat einfügen', input_type, '&lt;app>&lt;lem>&lt;/lem>&lt;rdg>test&lt;/rdg>&lt;/app>')}</String>
+																<String>${ask('Variantenapparat einfügen', input_type, '&lt;app xmlns="http://www.tei-c.org/ns/1.0">&lt;lem>&lt;/lem>&lt;rdg>test&lt;/rdg>&lt;/app>')}</String>
+															</entry>
+															<entry>
+																<String>insertPosition</String>
+																<String>Replace</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
 													<field name="operationID">
-														<String>ro.sync.ecss.extensions.commons.operations.SurroundWithFragmentOperation</String>
+														<String>ro.sync.ecss.extensions.commons.operations.InsertOrReplaceFragmentOperation</String>
 													</field>
 												</actionMode>
 											</actionMode-array>
@@ -4842,15 +4846,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>${ask('Textzeugen eingeben', input_type, '&lt;listWit>&lt;witness>&lt;/witness>&lt;/listWit>)}</String>
-															</entry>
-															<entry>
-																<String>insertLocation</String>
-																<String></String>
-															</entry>
-															<entry>
-																<String>insertPosition</String>
-																<String>Inside as first child</String>
+																<String>${ask('Textzeugen eingeben', input_type, '&lt;listWit xmlns="http://www.tei-c.org/ns/1.0">&lt;witness>&lt;/witness>&lt;/listWit>')}</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>

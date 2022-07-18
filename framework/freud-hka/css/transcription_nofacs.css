@@ -23,7 +23,7 @@ listWit witness {
     display: block;
 }
 
-respStmt, profileDesc, revisionDesc {
+respStmt, profileDesc, revisionDesc, seriesStmt, sourceDesc listBibl, msDesc, editor, author, funder, editionStmt {
     display:none;
 }
 
@@ -31,7 +31,7 @@ publisher, pubPlace, licence {
     display:none;
 }
 
-publicationStmt date {
+publicationStmt {
     display:none;
 }
 
@@ -91,7 +91,7 @@ lb {
 }
 
 pb {
-    display: none;
+   display: none;
 }
 
 /* lb {
@@ -126,6 +126,8 @@ fw[type="pageNum"] {
     display: block;
     margin-bottom:0;
     text-align: right;
+    position: absolute;
+    margin-right: -15em;
 }
 
 p {
