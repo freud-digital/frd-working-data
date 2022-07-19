@@ -4799,7 +4799,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>${ask('Variantenapparat einfügen', input_type, '&lt;app xmlns="http://www.tei-c.org/ns/1.0">&lt;lem>&lt;/lem>&lt;rdg>test&lt;/rdg>&lt;/app>')}</String>
+																<String>${ask('Variantenapparat einfügen', input_type, '&lt;app xmlns="http://www.tei-c.org/ns/1.0">&lt;/app>')}</String>
 															</entry>
 															<entry>
 																<String>insertPosition</String>
