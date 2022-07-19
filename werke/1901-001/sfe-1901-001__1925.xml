@@ -161,7 +161,7 @@
                </physDesc>
             </msDesc>
             <listWit>
-               <witness xml:id="sfe-1901-01__1901.xml"><idno>D</idno>: </witness>
+               <witness xml:id="sfe-1901-01__1901.xml"><idno>E</idno>: </witness>
                <witness xml:id="sfe-1901-01__1911.xml">sfe-1901-01__1911.xml</witness>
                <witness xml:id="sfe-1901-01__1921.xml">sfe-1901-01__1921.xml</witness>
                <witness xml:id="sfe-1901-01__1925.xml">sfe-1901-01__1925.xml</witness>
@@ -205,19 +205,46 @@
                die Erklärung des <rs type="dream" ref="#frd_dream_01">Traumes</rs> nicht ver<lb
                   break="no"/>legen. Wenn sie ihn nach dem Erwachen erinnerten, galt er<lb/> ihnen
                als eine entweder gnädige oder feindselige Kundgebung<lb/> höherer, dämonischer und
-               göttlicher Mächte. Mit dem Auf<lb break="no"/>blühen naturwissenschaftlicher
-               Denkweisen hat sich all diese<lb/> sinnreiche Mythologie in Psychologie umgesetzt,
-               und heute<lb/> bezweifelt nur mehr eine geringe Minderzahl unter den Gebil<lb
-                  break="no"/>deten, daß der Traum die <hi rendition="#smallcaps">eigene psychische
-                  Leistung</hi><lb/> des Träumers ist.<lb break="paragraph"/></p>
-            <p>Seit der Verwerfung der mythologischen Hypothese ist der<lb/> Traum aber
-               erklärungsbedürftig geworden. Die Bedingungen seiner<lb/> Entstehung, seine Beziehung
-               zum Seelenleben des Wachens, seine<lb/> Abhängigkeit von Reizen, die sich während des
-               Schlafzustandes<lb/> zur Wahrnehmung drängen, die vielen dem wachen Denken an<lb
-                  break="no"/>stößigen Eigentümlichkeiten seines Inhaltes, die Inkongruenz<lb/>
-               zwischen seinen Vorstellungsbildern und den an sie geknüpften<lb/> Affekten, endlich
-               die Flüchtigkeit des Traumes, die Art, wie das<lb/> wache Denken ihn als fremdartig
-               beiseite schiebt, in der Erinnerung<lb/> verstümmelt oder auslöscht: — all diese und
+               göttlicher Mächte. Mit dem Auf<lb break="no"/>blühen naturwissenschaftlicher <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Zeiten, die wir
+                     vorwissenschaftliche nennen dürfen, waren die Menschen um die Erklärung des
+                     Traumes nicht verlegen. Wenn sie ihn nach dem Erwachen erinnerten, galt er
+                     ihnen als eine entweder gnädige oder feindselige Kundgebung höherer,
+                     dämonischer und göttlicher</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml"
+                     >Zeiten, die wir vorwissenschaftliche nennen dürfen, waren die Menschen um die
+                     Erklärung des Traumes nicht verlegen. Wenn sie ihn nach dem Erwachen
+                     erinnerten, galt er ihnen als eine entweder gnädige oder feindselige Kundgebung
+                     höherer, dämonischer und göttlicher</rdg>
+               </app> hat sich all diese<lb/> sinnreiche Mythologie in Psychologie umgesetzt, und
+               heute<lb/> bezweifelt nur mehr eine geringe <app>
+                  <lem wit="#sfe-1901-01__1925.xml #sfe-1901-01__1931.xml">Zeiten, die wir
+                     vorwissenschaftliche nennen dürfen, waren die Menschen um die Erklärung des
+                     Traumes nicht verlegen. Wenn sie ihn nach dem Erwachen erinnerten, galt er
+                     ihnen als eine entweder gnädige oder feindselige Kundgebung höherer,
+                     dämonischer und göttlicher</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml"
+                     >Zeiten, die wir vorwissenschaftliche nennen dürfen, waren die Menschen um die
+                     Erklärung des Traumes nicht verlegen. Wenn sie ihn nach dem Erwachen
+                     erinnerten, galt er ihnen als eine entweder gnädige oder feindselige Kundgebung
+                     höherer, dämonischer und göttlicher</rdg>
+               </app> unter den Gebil<lb break="no"/>deten, daß der Traum die <hi
+                  rendition="#smallcaps">eigene psychische Leistung</hi><lb/> des Träumers ist.<lb
+                  break="paragraph"/></p>
+            <p>Seit der Verwerfung der <rs type="keyword" ref="#frd_keyword_01">mythologischen</rs>
+               Hypothese ist der<lb/>
+               <rs type="dream" ref="#">Traum</rs> aber erklärungsbedürftig geworden. Die
+               Bedingungen seiner<lb/> Entstehung, seine Beziehung zum Seelenleben des Wachens,
+               seine<lb/> Abhängigkeit von Reizen, die sich während des Schlafzustandes<lb/> zur
+               Wahrnehmung drängen, die vielen dem wachen Denken an<lb break="no"/>stößigen
+               Eigentümlichkeiten seines Inhaltes, die Inkongruenz<lb/> zwischen seinen
+               Vorstellungsbildern und den an sie geknüpften<lb/> Affekten, endlich die Flüchtigkeit
+               des Traumes, die Art, wie das<lb/> wache Denken ihn als fremdartig <app>
+                  <lem wit="#sfe-1901-01__1925.xml">beiseite</lem>
+                  <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921.xml"
+                     >bei Seite</rdg>
+                  <rdg wit="#sfe-1901-01__1931.xml">beiseiteschiebt</rdg>
+               </app> schiebt, in der Erinnerung<lb/> verstümmelt oder auslöscht: — all diese und
                noch andere Pro<lb break="no"/>bleme verlangen seit vielen hundert Jahren nach
                Lösungen, die<lb/> bis heute nicht befriedigend gegeben werden konnten. Im Vorder<lb
                   break="no"/>grunde des Interesses steht aber die Frage nach der <hi
