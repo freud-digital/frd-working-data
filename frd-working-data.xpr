@@ -8,7 +8,7 @@
                     <entry>
                         <String>additional.frameworks.directories</String>
                         <String-array>
-                            <String>/home/daniel/Documents/freud-edition/frd-working-data/framework</String>
+                            <String>${pd}/framework</String>
                         </String-array>
                     </entry>
                     <entry>
