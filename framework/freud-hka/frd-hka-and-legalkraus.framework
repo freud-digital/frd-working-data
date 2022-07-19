@@ -5,6 +5,9 @@
 			<String>document.types</String>
 			<documentTypeDescriptor-array>
 				<documentTypeDescriptor>
+					<field name="webResources">
+						<null/>
+					</field>
 					<field name="extensionPatch">
 						<null/>
 					</field>
@@ -4516,7 +4519,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;idno xmlns="http://www.tei-c.org/ns/1.0" n="">&lt;/idno></String>
+																<String>&lt;idno xmlns="http://www.tei-c.org/ns/1.0">&lt;/idno></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
