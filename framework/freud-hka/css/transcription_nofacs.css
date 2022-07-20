@@ -203,31 +203,34 @@ rs[type='keyword'] {
 }
 
 rs[type='dream'] {
-    background-color: #F5A8F9;
+    background-color: #f48c8c;
 }
 
 rs[type='bibl'] {
     background-color:none; 
 }
 
-hi[rendition='#underlined'] {
-    text-decoration:underline;
-}
-
 hi[rendition="#smallcaps"] {
-    text-transform: lowercase;
-    font-size: small;
+    letter-spacing: 3pt;
 }
 
-hi[rendition="#uppercase"] {
+hi[rendition="uppercase"] {
     text-transform: uppercase;
 }
 
-hi[rend='spaced'] {
-    letter-spacing:0.5em;
+hi[rendition='#spaced'] {
+    letter-spacing: 3pt;
+}
+
+hi[rendition='spaced'] {
+    letter-spacing: 3pt;
 }
 
 hi[rendition='#em'] {
+    font-style: italic;
+}
+
+hi[rendition='italic'] {
     font-style: italic;
 }
 
@@ -248,9 +251,13 @@ hi[rendition='underlined'] {
 }
 
 note {
-    display: block;
-    padding: 1em;
+    padding: .5em;
     background-color: #f1f1f1;    
+    display: inline-block;
+}
+
+term {
+    background-color: #f6efb4;
 }
 
 note[type="footnote-index"] {
