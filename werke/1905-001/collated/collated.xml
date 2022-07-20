@@ -440,7 +440,7 @@
 						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>Liébault</lem>
 					<rdg wit="#sfe-1905-001__1905_1.xml #sfe-1905-001__1905_2.xml">LIEBAULT</rdg>
-					<rdg wit="#sfe-1905-001__1906.xml">Liébeault</rdg>
+			
 				</app> , <app>
 					<lem
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
@@ -531,14 +531,7 @@
 				Ausspruch alter Ärzte, daß diese Krankheiten nicht das Medikament heilt, sondern der
 				Arzt, <app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">das heißt</lem>
-					<rdg wit="#sfe-1905-001__1905_2.xml">5</rdg>
-					<rdg
-						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_1.xml #sfe-1905-001__1922.xml #sfe-1905-001__1920.xml"
-					/>
-				</app>
-				<app>
-					<lem wit="#sfe-1905-001__1925.xml #sfe-1905-001__1924.xml"/>
-					<rdg
+										<rdg
 						wit="#sfe-1905-001__1905_1.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
 						>d. h.</rdg>
 				</app> wohl die Persönlichkeit des Arztes, insofern er psychischen Einfluß durch sie
