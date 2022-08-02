@@ -72,7 +72,7 @@
         <dependent default="bibl">@type</dependent>
         <selection>@n</selection>
         <request>
-            <url>$baseUrl/zotero/$dependent?q=$selection&amp;format=teicompleter</url>
+            <url>$baseUrl/zotero/?q=$selection&amp;format=teicompleter</url>
         </request>
     </autoComplete>
 </config>
