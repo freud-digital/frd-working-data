@@ -230,13 +230,8 @@
                </app> der Patient hyp<lb break="no"/>notisierbar sei<app>
                   <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem>
                   <rdg
-<<<<<<< HEAD
                      wit="#sfe-1904-002__1911.xml #sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">sei und</rdg>
                   
-=======
-                     wit="#sfe-1904-002__1911.xml #sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
-                  />
->>>>>>> branch 'main' of https://github.com/freud-digital/frd-working-data.git
                </app> und beruhte auf der Erweiterung des <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
@@ -361,11 +356,7 @@
                   </app></hi> vornahm, waren zunächst Änderungen der<lb/> Technik; diese brachten
                aber neue Ergebnisse und haben in<lb/> weiterer Folge zu einer andersartigen, wiewohl
                der früheren<lb/> nicht widersprechenden<app>
-<<<<<<< HEAD
                   <lem wit="#sfe-1904-002__1925.xml #sfe-1904-002__1924.xml #sfe-1904-002__1904.xml">nicht widersprechenden Auffassung</lem>
-=======
-                  <lem wit="#sfe-1904-002__1925.xml #sfe-1904-002__1924.xml #sfe-1904-002__1904.xml"/>
->>>>>>> branch 'main' of https://github.com/freud-digital/frd-working-data.git
                   <rdg
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
                      >,</rdg>
