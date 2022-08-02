@@ -3776,7 +3776,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="keyword" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="keyword" n="" ref="#">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -3822,7 +3822,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="dream" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="dream" n="" ref="#">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -3868,7 +3868,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="label" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="label" n="" ref="#">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -3914,7 +3914,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="profession" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="profession" n="" ref="#">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -3960,7 +3960,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="person" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="person" n="" ref="#">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -4006,7 +4006,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="place" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="place" n="" ref="#">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -4052,7 +4052,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="institution" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="org" n="" ref="#">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -4750,7 +4750,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="bibl" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="bibl" n="" ref="#">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
