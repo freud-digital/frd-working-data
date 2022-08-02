@@ -24,6 +24,10 @@
                         <Boolean>true</Boolean>
                     </entry>
                     <entry>
+                        <String>key.markdown.schematron.validator.option.pane</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
                             <scenarioAssociation>

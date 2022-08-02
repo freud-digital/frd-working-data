@@ -1,15 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://humanistika.org/ns/tei-completer">
     <server>
-        <baseUrl>https://pmb.acdh.oeaw.ac.at/apis/tei/tei-completer</baseUrl>
+        <baseUrl>https://frd-ac.acdh-dev.oeaw.ac.at</baseUrl>
     </server>
     <autoComplete>
         <context>//rs</context>
         <attribute>@ref</attribute>
         <dependent default="person">@type</dependent>
-        <selection>./text()</selection>
+        <selection>@n</selection>
         <request>
-            <url>$baseUrl/$dependent/?q=$selection</url>
+            <url>$baseUrl/baserow/$dependent?q=$selection&amp;format=teicompleter</url>
+        </request>
+    </autoComplete>
+    <autoComplete>
+        <context>//rs</context>
+        <attribute>@ref</attribute>
+        <dependent default="place">@type</dependent>
+        <selection>@n</selection>
+        <request>
+            <url>$baseUrl/baserow/$dependent?q=$selection&amp;format=teicompleter</url>
+        </request>
+    </autoComplete>
+    <autoComplete>
+        <context>//rs</context>
+        <attribute>@ref</attribute>
+        <dependent default="label">@type</dependent>
+        <selection>@n</selection>
+        <request>
+            <url>$baseUrl/baserow/$dependent?q=$selection&amp;format=teicompleter</url>
+        </request>
+    </autoComplete>
+    <autoComplete>
+        <context>//rs</context>
+        <attribute>@ref</attribute>
+        <dependent default="profession">@type</dependent>
+        <selection>@n</selection>
+        <request>
+            <url>$baseUrl/baserow/$dependent?q=$selection&amp;format=teicompleter</url>
+        </request>
+    </autoComplete>
+    <autoComplete>
+        <context>//rs</context>
+        <attribute>@ref</attribute>
+        <dependent default="dream">@type</dependent>
+        <selection>@n</selection>
+        <request>
+            <url>$baseUrl/baserow/$dependent?q=$selection&amp;format=teicompleter</url>
+        </request>
+    </autoComplete>
+    <autoComplete>
+        <context>//rs</context>
+        <attribute>@ref</attribute>
+        <dependent default="org">@type</dependent>
+        <selection>@n</selection>
+        <request>
+            <url>$baseUrl/baserow/$dependent?q=$selection&amp;format=teicompleter</url>
+        </request>
+    </autoComplete>
+    <autoComplete>
+        <context>//rs</context>
+        <attribute>@ref</attribute>
+        <dependent default="keyword">@type</dependent>
+        <selection>@n</selection>
+        <request>
+            <url>$baseUrl/baserow/$dependent?q=$selection&amp;format=teicompleter</url>
+        </request>
+    </autoComplete>
+    <autoComplete>
+        <context>//rs</context>
+        <attribute>@ref</attribute>
+        <dependent default="bibl">@type</dependent>
+        <selection>@n</selection>
+        <request>
+            <url>$baseUrl/zotero/?q=$selection&amp;format=teicompleter</url>
         </request>
     </autoComplete>
 </config>

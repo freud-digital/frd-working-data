@@ -5,9 +5,6 @@
 			<String>document.types</String>
 			<documentTypeDescriptor-array>
 				<documentTypeDescriptor>
-					<field name="webResources">
-						<null/>
-					</field>
 					<field name="extensionPatch">
 						<null/>
 					</field>
@@ -3614,7 +3611,7 @@
 											<String>frd-hka_hi-italic</String>
 										</field>
 										<field name="name">
-											<String>Kursivierung</String>
+											<String>Kursiv</String>
 										</field>
 										<field name="description">
 											<String>Markiert Text als kursiv</String>
@@ -3660,7 +3657,7 @@
 											<String>frd-hka_hi-uppercase</String>
 										</field>
 										<field name="name">
-											<String>Großbuchstaben</String>
+											<String>Großb.</String>
 										</field>
 										<field name="description">
 											<String>Markiert Text als Großbuchstaben</String>
@@ -3706,7 +3703,7 @@
 											<String>frd-hka_hi-lowercase</String>
 										</field>
 										<field name="name">
-											<String>Kleinbuchstaben</String>
+											<String>Kleinb.</String>
 										</field>
 										<field name="description">
 											<String>Markiert Text als Kleinbuchstaben</String>
@@ -3779,7 +3776,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="keyword" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="keyword" n="" ref="">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -3825,7 +3822,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="dream" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="dream" n="" ref="">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -3871,7 +3868,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="label" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="label" n="" ref="">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -3917,7 +3914,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="profession" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="profession" n="" ref="">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -3963,7 +3960,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="person" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="person" n="" ref="">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -4009,7 +4006,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="place" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="place" n="" ref="">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -4055,7 +4052,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="institution" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="org" n="" ref="">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -4258,7 +4255,7 @@
 											<String>frd-hka_lb_break</String>
 										</field>
 										<field name="name">
-											<String>Zeilenumbruch und Worttrennung</String>
+											<String>Zeilenumbruch u Wort</String>
 										</field>
 										<field name="description">
 											<String>Fügt einen Zeilenumbruch mit Wortrenung ein</String>
@@ -4304,7 +4301,7 @@
 											<String>frd-hka_term</String>
 										</field>
 										<field name="name">
-											<String>Schlagwort</String>
+											<String>Term</String>
 										</field>
 										<field name="description">
 											<String>Markiert Text als Schlagwort (Term)</String>
@@ -4753,7 +4750,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="bibl" ref="#">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="bibl" n="" ref="#">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -4799,7 +4796,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>${ask('Variantenapparat einfügen', input_type, '&lt;app xmlns="http://www.tei-c.org/ns/1.0">&lt;lem>&lt;/lem>&lt;rdg>test&lt;/rdg>&lt;/app>')}</String>
+																<String>${ask('Variantenapparat einfügen', input_type, '&lt;app xmlns="http://www.tei-c.org/ns/1.0">&lt;/app>')}</String>
 															</entry>
 															<entry>
 																<String>insertPosition</String>
@@ -4855,6 +4852,149 @@
 													</field>
 													<field name="operationID">
 														<String>ro.sync.ecss.extensions.commons.operations.InsertFragmentOperation</String>
+													</field>
+												</actionMode>
+											</actionMode-array>
+										</field>
+										<field name="enabledInReadOnlyContext">
+											<Boolean>false</Boolean>
+										</field>
+									</action>
+									<action>
+										<field name="id">
+											<String>frd-hka_title</String>
+										</field>
+										<field name="name">
+											<String>Titel</String>
+										</field>
+										<field name="description">
+											<String>Markiert Text als Titel</String>
+										</field>
+										<field name="largeIconPath">
+											<String></String>
+										</field>
+										<field name="smallIconPath">
+											<String></String>
+										</field>
+										<field name="accessKey">
+											<String></String>
+										</field>
+										<field name="accelerator">
+											<null/>
+										</field>
+										<field name="actionModes">
+											<actionMode-array>
+												<actionMode>
+													<field name="xpathCondition">
+														<String></String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>fragment</String>
+																<String>&lt;title  xmlns="http://www.tei-c.org/ns/1.0">&lt;/title>
+</String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ro.sync.ecss.extensions.commons.operations.SurroundWithFragmentOperation</String>
+													</field>
+												</actionMode>
+											</actionMode-array>
+										</field>
+										<field name="enabledInReadOnlyContext">
+											<Boolean>false</Boolean>
+										</field>
+									</action>
+									<action>
+										<field name="id">
+											<String>frd-hka_choice</String>
+										</field>
+										<field name="name">
+											<String>Texteingriffe</String>
+										</field>
+										<field name="description">
+											<String>Ersetzt ausgewähltes Element mit XML/TEI choice/sic/corr Fragment</String>
+										</field>
+										<field name="largeIconPath">
+											<String></String>
+										</field>
+										<field name="smallIconPath">
+											<String></String>
+										</field>
+										<field name="accessKey">
+											<String></String>
+										</field>
+										<field name="accelerator">
+											<null/>
+										</field>
+										<field name="actionModes">
+											<actionMode-array>
+												<actionMode>
+													<field name="xpathCondition">
+														<String></String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>fragment</String>
+																<String>&lt;choice xmlns="http://www.tei-c.org/ns/1.0">&lt;sic>&lt;/sic>&lt;corr>&lt;/corr>&lt;/choice></String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ro.sync.ecss.extensions.commons.operations.SurroundWithFragmentOperation</String>
+													</field>
+												</actionMode>
+											</actionMode-array>
+										</field>
+										<field name="enabledInReadOnlyContext">
+											<Boolean>false</Boolean>
+										</field>
+									</action>
+									<action>
+										<field name="id">
+											<String>frd-hka_note_term</String>
+										</field>
+										<field name="name">
+											<String>Stellenkommentar</String>
+										</field>
+										<field name="description">
+											<String>Ersetzt ausgewähltes Element mit note term XML/TEI Fragment</String>
+										</field>
+										<field name="largeIconPath">
+											<String></String>
+										</field>
+										<field name="smallIconPath">
+											<String></String>
+										</field>
+										<field name="accessKey">
+											<String></String>
+										</field>
+										<field name="accelerator">
+											<null/>
+										</field>
+										<field name="actionModes">
+											<actionMode-array>
+												<actionMode>
+													<field name="xpathCondition">
+														<String></String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>fragment</String>
+																<String>&lt;note xmlns="http://www.tei-c.org/ns/1.0">&lt;term>&lt;/term>&lt;/note></String>
+															</entry>
+															<entry>
+																<String>insertPosition</String>
+																<String>Inside as first child</String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ro.sync.ecss.extensions.commons.operations.InsertOrReplaceFragmentOperation</String>
 													</field>
 												</actionMode>
 											</actionMode-array>
@@ -5032,7 +5172,7 @@
 							<field name="toolbarDescriptor">
 								<toolbar>
 									<field name="id">
-										<String>Transkription</String>
+										<String>Meta</String>
 									</field>
 									<field name="type">
 										<Integer>2</Integer>
@@ -5052,141 +5192,7 @@
 											</toolbarItem>
 											<toolbarItem>
 												<field name="actionID">
-													<String>frd-hka_cit_quote</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_quote</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_p</String>
-												</field>
-											</toolbarItem>
-											<toolbarSeparator/>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_lb</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_lb_break</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_pb</String>
-												</field>
-											</toolbarItem>
-											<toolbarSeparator/>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_app</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_rs_person</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_rs_place</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_rs_institution</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_rs_profession</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_rs_label</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_rs_keywords</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_rs_dreams</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_rs_bibl</String>
-												</field>
-											</toolbarItem>
-											<toolbarSeparator/>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_hi-italic</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_hi-bold</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_hi_underlined</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_hi-lowercase</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_hi-uppercase</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>legalkraus_wrap_q</String>
-												</field>
-											</toolbarItem>
-											<toolbarSeparator/>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_term</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_note</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_lg</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_l</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
 													<String>frd-hka_idno</String>
-												</field>
-											</toolbarItem>
-											<toolbarItem>
-												<field name="actionID">
-													<String>frd-hka_bibl</String>
 												</field>
 											</toolbarItem>
 										</toolbarEntry-array>
@@ -5194,7 +5200,207 @@
 								</toolbar>
 							</field>
 							<field name="additionalToolbarsDescriptors">
-								<null/>
+								<toolbar-array>
+									<toolbar>
+										<field name="id">
+											<String>Entitäten</String>
+										</field>
+										<field name="type">
+											<Integer>2</Integer>
+										</field>
+										<field name="largeIconPath">
+											<null/>
+										</field>
+										<field name="smallIconPath">
+											<null/>
+										</field>
+										<field name="toolbarEntriesDescriptorList">
+											<toolbarEntry-array>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_rs_person</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_rs_place</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_rs_institution</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_rs_label</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_rs_keywords</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_rs_dreams</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_rs_profession</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_rs_bibl</String>
+													</field>
+												</toolbarItem>
+											</toolbarEntry-array>
+										</field>
+									</toolbar>
+									<toolbar>
+										<field name="id">
+											<String>Auszeichnungen</String>
+										</field>
+										<field name="type">
+											<Integer>2</Integer>
+										</field>
+										<field name="largeIconPath">
+											<null/>
+										</field>
+										<field name="smallIconPath">
+											<null/>
+										</field>
+										<field name="toolbarEntriesDescriptorList">
+											<toolbarEntry-array>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_app</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_note_term</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_cit_quote</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_quote</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_term</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_note</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_title</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_choice</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_lg</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_l</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_idno</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_bibl</String>
+													</field>
+												</toolbarItem>
+											</toolbarEntry-array>
+										</field>
+									</toolbar>
+									<toolbar>
+										<field name="id">
+											<String>Formatierung</String>
+										</field>
+										<field name="type">
+											<Integer>2</Integer>
+										</field>
+										<field name="largeIconPath">
+											<null/>
+										</field>
+										<field name="smallIconPath">
+											<null/>
+										</field>
+										<field name="toolbarEntriesDescriptorList">
+											<toolbarEntry-array>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_hi-bold</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_hi-italic</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_hi-lowercase</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_hi-uppercase</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_hi_underlined</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_lb</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_lb_break</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_p</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>frd-hka_pb</String>
+													</field>
+												</toolbarItem>
+											</toolbarEntry-array>
+										</field>
+									</toolbar>
+								</toolbar-array>
 							</field>
 							<field name="contextualItems">
 								<contextProvider>

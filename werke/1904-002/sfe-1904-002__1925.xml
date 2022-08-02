@@ -188,13 +188,238 @@
       <body><div>
 
             <pb n="1" xml:id="page__577272aa-1034-469d-9681-6fc381cb43d0"/>
-            <fw type="pageNum">[3]</fw> <p rendition="h1"><title>DIE FREUDSCHE PSYCHOANALYTISCHE<lb/> METHODE<lb break="paragraph"/></title></p> <p><hi rendition="#em">Zuerst erschienen in: Löwenfeld, Psychische Zwangserscheinungen, 1904 (ohne Nennung des Verfassers); dann in der Ersten Folge der „Sammlung kleiner Schriften zur Neurosenlehre“.</hi><lb break="paragraph"/></p> <p>„Die eigentümliche Methode der Psychotherapie, die <hi rendition="#smallcaps">Freud</hi><lb/> ausübt und als Psychoanalyse bezeichnet, ist aus dem sogenannten<lb/> kathartischen Verfahren hervorgegangen, über welches er seiner<lb break="no"/>zeit in den „Studien über Hysterie“ 1895 in Gemeinschaft mit<lb/> J. <hi rendition="#smallcaps">Breuer</hi> berichtet hat. Die kathartische Therapie war eine<lb/> Erfindung <hi rendition="#smallcaps">Breuers</hi>, der mit ihrer Hilfe zuerst etwa ein Dezen<lb break="no"/>nium vorher eine hysterische Kranke hergestellt und dabei Ein<lb break="no"/>sicht in die Pathogenese ihrer Symptome gewonnen hatte. Infolge<lb/> einer persönlichen Anregung <hi rendition="#smallcaps">Breuers</hi> nahm dann <hi rendition="#smallcaps">Freud</hi> das<lb/> Verfahren wieder auf und erprobte es an einer größeren Anzahl<lb/> von Kranken.<lb break="paragraph"/></p> <p>Das kathartische Verfahren setzte voraus, daß der Patient hyp<lb break="no"/>notisierbar sei, und beruhte auf der Erweiterung des Bewußtseins,<lb/> die in der Hypnose eintritt. Es setzte sich die Beseitigung der<lb/> Krankheitssymptome zum Ziele und erreichte dies, indem es den<lb/> Patienten sich in den psychischen Zustand zurückversetzen ließ,<lb/> in welchem das Symptom zum erstenmal aufgetreten war. Es<lb/> tauchten dann bei dem hypnotisierten Kranken Erinnerungen,<lb/> Gedanken und Impulse auf, die in seinem Bewußtsein bisher<lb/> ausgefallen waren, und wenn er diese seine seelischen Vorgänge<lb break="paragraph"/><pb n="2" xml:id="page__7e4855dc-ea7c-4a7b-916e-25d621460232"/><fw type="pageNum">4</fw>unter intensiven Affektäußerungen dem Arzte mitgeteilt hatte,<lb/> war das Symptom überwunden, die Wiederkehr desselben auf<lb break="no"/>gehoben. Diese regelmäßig zu wiederholende Erfahrung erläuterten<lb/> die beiden Autoren in ihrer gemeinsamen Arbeit dahin, daß das<lb/> Symptom an Stelle von unterdrückten und nicht zum Bewußtsein<lb/> gelangten psychischen Vorgängen stehe, also eine Umwandlung<lb/> („Konversion“) der letzteren darstelle. Die therapeutische Wirk<lb break="no"/>samkeit ihres Verfahrens erklärten sie sich aus der Abfuhr des<lb/> bis dahin gleichsam „eingeklemmten“ Affektes, der an den unter<lb break="no"/>drückten seelischen Aktionen gehaftet hatte („Abreagieren“). Das<lb/> einfache Schema des therapeutischen Eingriffes komplizierte sich<lb/> aber nahezu allemal, indem sich zeigte, daß nicht ein einzelner<lb/> („traumatischer“) Eindruck, sondern meist eine schwer zu über<lb break="no"/>sehende Reihe von solchen an der Entstehung des Symptoms<lb/> beteiligt sei.<lb break="paragraph"/></p>
+            <fw type="pageNum">[3]</fw> <p rendition="h1"><title>DIE FREUDSCHE PSYCHOANALYTISCHE<lb/> METHODE<lb break="paragraph"/></title></p> <p><hi rendition="#em">Zuerst erschienen in: Löwenfeld, Psychische Zwangserscheinungen, 1904 (ohne Nennung des Verfassers); dann in der Ersten Folge der „Sammlung kleiner Schriften zur Neurosenlehre“.</hi><lb break="paragraph"/></p> <p>„Die eigentümliche Methode der Psychotherapie, die <hi rendition="#smallcaps">Freud</hi><lb/>
+               ausübt und als <rs type="keyword" ref="#frd_kw_2111"><app>
+                     <lem
+                        wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                        >Psychoanalyse</lem>
+                     <rdg wit="#sfe-1904-002__1904.xml">Psycho-Analyse</rdg>
+                  </app></rs><note resp="chuber"><term>Psychoanalyse</term>
+               </note> bezeichnet, ist aus dem sogenannten<lb/> kathartischen Verfahren
+               hervorgegangen, über welches er seiner<lb break="no"/>zeit in den „Studien über
+               Hysterie“ 1895 in Gemeinschaft mit<lb/>
+               <rs type="person" ref="#frd_person_351">J. <hi rendition="#smallcaps"
+                  >Breuer</hi></rs><note type="e" resp="#chuber"><term>Breuer</term> Josef Breuer
+                  (1842-1925), österr. Internist und Physiologe, veröffentl. gem. mit Freud u.a.
+                     <title ref="#zotero__V9N337QB">Studien über Hysterie</title> .</note> berichtet
+               hat. Die kathartische Therapie war eine<lb/> Erfindung <hi rendition="#smallcaps"><app>
+                     <lem
+                        wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                        >Breuers</lem>
+                     <rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Breuer’s</rdg>
+                  </app></hi>, der mit ihrer Hilfe zuerst etwa ein Dezen<lb break="no"/>nium vorher
+               eine hysterische Kranke hergestellt und dabei Ein<lb break="no"/>sicht in die <rs
+                  type="keyword" ref="#frd_kw_1983">Pathogenese</rs><note type="e" resp="chuber"
+                     ><term>Pathogenese</term> Krankheitsentwicklung</note> ihrer Symptome gewonnen
+               hatte. Infolge<lb/> einer persönlichen Anregung <hi rendition="#smallcaps"><app>
+                     <lem
+                        wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                        >Breuers</lem>
+                     <rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Breuer’s</rdg>
+                  </app></hi> nahm dann <hi rendition="#smallcaps">Freud</hi> das<lb/> Verfahren
+               wieder auf und erprobte es an einer <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >größeren</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">grösseren</rdg>
+               </app> Anzahl<lb/> von Kranken.<lb break="paragraph"/></p> <p>Das kathartische Verfahren setzte voraus, <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >daß</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">dass</rdg>
+               </app> der Patient hyp<lb break="no"/>notisierbar sei<app>
+                  <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem>
+                  <rdg
+                     wit="#sfe-1904-002__1911.xml #sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">sei und</rdg>
+                  
+               </app> und beruhte auf der Erweiterung des <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >Bewußtseins</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">Bewusstseins</rdg>
+               </app>,<lb/> die in der Hypnose eintritt. <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >Es</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">Er</rdg>
+               </app> setzte sich die Beseitigung der<lb/> Krankheitssymptome zum Ziele und
+               erreichte dies, indem <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >es</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">er</rdg>
+               </app> den<lb/> Patienten sich in den psychischen Zustand zurückversetzen <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >ließ</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">liess</rdg>
+               </app>,<lb/> in welchem das Symptom zum <app>
+                  <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">erstenmal</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">erstenmale</rdg>
+                  <rdg
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+                     >ersten Male</rdg>
+               </app> aufgetreten war. Es<lb/> tauchten dann bei dem hypnotisierten Kranken
+               Erinnerungen,<lb/> Gedanken und Impulse auf, die in seinem <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >Bewußtsein</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg>
+               </app> bisher<lb/> ausgefallen waren, und wenn er diese seine seelischen Vorgänge<lb
+                  break="paragraph"/><pb n="2" xml:id="page__7e4855dc-ea7c-4a7b-916e-25d621460232"
+                  /><fw type="pageNum">4</fw>unter intensiven <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >Affektäußerungen</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">Affektäusserungen</rdg>
+               </app> dem Arzte mitgeteilt hatte,<lb/> war das Symptom überwunden, die Wiederkehr
+               desselben auf<lb break="no"/>gehoben. Diese <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >regelmäßig</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">regelmässig</rdg>
+               </app> zu wiederholende Erfahrung erläuterten<lb/> die beiden Autoren in ihrer
+               gemeinsamen Arbeit dahin, <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >daß</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">dass</rdg>
+               </app> das<lb/> Symptom an Stelle von unterdrückten und nicht zum <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >Bewußtsein</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg>
+               </app> gelangten psychischen Vorgängen stehe, also eine Umwandlung<lb/>
+               („Konversion“) der letzteren darstelle. Die therapeutische Wirk<lb break="no"
+               />samkeit ihres Verfahrens erklärten sie sich aus der Abfuhr des<lb/> bis dahin
+               gleichsam „eingeklemmten“ Affektes, der an den unter<lb break="no"/>drückten
+               seelischen Aktionen gehaftet hatte („Abreagieren“). Das<lb/> einfache Schema des therapeutischen<app>
+                  <lem
+                     wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >Eingriffes</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Eingriffs</rdg>
+               </app> komplizierte sich<lb/> aber nahezu <app>
+                  <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">allemal</lem>
+                  <rdg
+                     wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+                     >alle Male</rdg>
+               </app>, indem sich zeigte, <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >daß</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">dass</rdg>
+               </app> nicht ein einzelner<lb/> („traumatischer“) Eindruck, sondern meist eine schwer
+               zu über<lb break="no"/>sehende Reihe von solchen an der Entstehung des Symptoms<lb/>
+               beteiligt sei.<lb break="paragraph"/></p>
          
             
-              <p>Der Hauptcharakter der kathartischen Methode, der sie in<lb/> Gegensatz zu allen anderen Verfahren der Psychotherapie setzt,<lb/> liegt also darin, daß bei ihr die therapeutische Wirksamkeit<lb/> nicht einem suggestiven Verbot des Arztes übertragen wird. Sie<lb/> erwartet vielmehr, daß die Symptome von selbst verschwinden<lb/> werden, wenn es dem Eingriff, der sich auf gewisse Voraus<lb break="no"/>setzungen über den psychischen Mechanismus beruft, gelungen<lb/> ist, seelische Vorgänge zu einem andern als dem bisherigen Ver<lb break="no"/>laufe zu bringen, der in die Symptombildung eingemündet hat.<lb break="paragraph"/></p> <p>Die Abänderungen, welche <hi rendition="#smallcaps">Freud</hi> an dem kathartischen Ver<lb break="no"/>fahren <hi rendition="#smallcaps">Breuers</hi> vornahm, waren zunächst Änderungen der<lb/> Technik; diese brachten aber neue Ergebnisse und haben in<lb/> weiterer Folge zu einer andersartigen, wiewohl der früheren<lb/> nicht widersprechenden Auffassung der therapeutischen Arbeit<lb/> genötigt.<lb break="paragraph"/></p> <p>Hatte die kathartische Methode bereits auf die Suggestion<lb/> verzichtet, so unternahm <hi rendition="#smallcaps">Freud</hi> den weiteren Schritt, auch die<lb/> Hypnose aufzugeben. Er behandelt gegenwärtig seine Kranken,<lb break="paragraph"/><pb n="3" xml:id="page__2e11f984-bba9-4fa4-bbc9-4b9faf02db24"/><fw type="pageNum">5</fw>indem er sie ohne andersartige Beeinflussung eine bequeme<lb/> Rückenlage auf einem Ruhebett einnehmen läßt, während er<lb/> selbst, ihrem Anblick entzogen, auf einem Stuhle hinter ihnen<lb/> sitzt. Auch den Verschluß der Augen fordert er von ihnen nicht<lb/> und vermeidet jede Berührung sowie jede andere Prozedur, die<lb/> an Hypnose mahnen könnte. Eine solche Sitzung verläuft also<lb/> wie ein Gespräch zwischen zwei gleich wachen Personen, von<lb/> denen die eine sich jede Muskelanstrengung und jeden ablenken<lb break="no"/>den Sinneseindruck erspart, die sie in der Konzentration ihrer<lb/> Aufmerksamkeit auf ihre eigene seelische Tätigkeit stören könnten.<lb break="paragraph"/></p>
+              <p>Der Hauptcharakter der kathartischen Methode, der sie <app>
+                  <lem
+                     wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >in</lem>
+                  <rdg wit="#sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">im</rdg>
+               </app><lb/> Gegensatz zu allen anderen Verfahren der Psychotherapie setzt,<lb/> liegt
+               also darin, <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >daß</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">dass</rdg>
+               </app> bei ihr die therapeutische Wirksamkeit<lb/> nicht einem suggestiven Verbot des
+               Arztes übertragen wird. Sie<lb/> erwartet vielmehr, <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >daß</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">dass</rdg>
+               </app> die Symptome von selbst verschwinden<lb/> werden, wenn es dem Eingriff, der
+               sich auf gewisse Voraus<lb break="no"/>setzungen über den psychischen <app>
+                  <lem
+                     wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >Mechanismus</lem>
+                  <rdg wit="#sfe-1904-002__1920.xml">Mechanismns</rdg>
+               </app> beruft, gelungen<lb/> ist, seelische Vorgänge zu einem <app>
+                  <lem
+                     wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >andern</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">anderen</rdg>
+               </app> als dem bisherigen <app>
+                  <lem
+                     wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >Verlaufe</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Verlauf</rdg>
+               </app> zu bringen, der in die Symptombildung eingemündet hat.<lb break="paragraph"
+               /></p> <p>Die Abänderungen, welche <hi rendition="#smallcaps">Freud</hi> an dem kathartischen Ver<lb
+                  break="no"/>fahren <hi rendition="#smallcaps"><app>
+                     <lem
+                        wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                        >Breuers</lem>
+                     <rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Breuer’s</rdg>
+                  </app></hi> vornahm, waren zunächst Änderungen der<lb/> Technik; diese brachten
+               aber neue Ergebnisse und haben in<lb/> weiterer Folge zu einer andersartigen, wiewohl
+               der früheren<lb/> nicht widersprechenden<app>
+                  <lem wit="#sfe-1904-002__1925.xml #sfe-1904-002__1924.xml #sfe-1904-002__1904.xml">nicht widersprechenden Auffassung</lem>
+                  <rdg
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+                     >,</rdg>
+               </app> Auffassung der therapeutischen Arbeit<lb/> genötigt.<lb break="paragraph"
+               /></p> <p>Hatte die kathartische Methode bereits auf die Suggestion<lb/> verzichtet, so unternahm <hi
+                  rendition="#smallcaps">Freud</hi> den weiteren Schritt, auch die<lb/> Hypnose
+               aufzugeben. Er behandelt gegenwärtig<note type="e" resp="chuber"
+                     ><term>gegenwärtig</term> zur Zeit der Entstehung des Textes: 1904</note> seine
+                  Kranken,<lb break="paragraph"/><pb n="3"
+                  xml:id="page__2e11f984-bba9-4fa4-bbc9-4b9faf02db24"/><fw type="pageNum"
+               >5</fw>indem er sie ohne andersartige Beeinflussung eine bequeme<lb/> Rückenlage auf
+               einem Ruhebett einnehmen <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >läßt</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">lässt</rdg>
+               </app>, während er<lb/> selbst<app>
+                  <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem>
+                  <rdg
+                     wit="#sfe-1904-002__1911.xml #sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+                  />
+               </app> ihrem Anblick entzogen<app>
+                  <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem>
+                  <rdg
+                     wit="#sfe-1904-002__1911.xml #sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+                  />
+               </app> auf einem Stuhle hinter ihnen<lb/> sitzt. Auch den <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >Verschluß</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">Verschluss</rdg>
+               </app> der Augen fordert er von ihnen nicht<lb/> und vermeidet jede Berührung sowie
+               jede andere Prozedur, die<lb/> an Hypnose mahnen könnte. Eine solche Sitzung verläuft
+               also<lb/> wie ein Gespräch zwischen zwei gleich wachen Personen, von<lb/> denen die
+               eine sich jede Muskelanstrengung und jeden ablenken<lb break="no"/>den Sinneseindruck
+               erspart, die sie in der Konzentration ihrer<lb/> Aufmerksamkeit auf ihre eigene
+               seelische Tätigkeit stören könnten.<lb break="paragraph"/></p>
          
             
-              <p>Da das Hypnotisiertwerden, trotz aller Geschicklichkeit des<lb/> Arztes, bekanntlich in der Willkür des Patienten liegt, und eine<lb/> große Anzahl neurotischer Personen durch kein Verfahren in<lb/> Hypnose zu versetzen ist, so war durch den Verzicht auf die<lb/> Hypnose die Anwendbarkeit des Verfahrens auf eine unein<lb break="no"/>geschränkte Anzahl von Kranken gesichert. Anderseits fiel die<lb/> Erweiterung des Bewußtseins weg, welche dem Arzt gerade jenes<lb/> psychische Material an Erinnerungen und Vorstellungen geliefert<lb/> hatte, mit dessen Hilfe sich die Umsetzung der Symptome und<lb/> die Befreiung der Affekte vollziehen ließ. Wenn für diesen Aus<lb break="no"/>fall kein Ersatz zu schaffen war, konnte auch von einer thera<lb break="no"/>peutischen Einwirkung keine Rede sein.<lb break="paragraph"/></p> <p>Einen solchen völlig ausreichenden Ersatz fand nun <hi rendition="#smallcaps">Freud</hi><lb/> in den Einfällen der Kranken, das heißt in den ungewollten,<lb/> meist als störend empfundenen und darum unter gewöhnlichen<lb/> Verhältnissen beseitigten Gedanken, die den Zusammenhang einer<lb/> beabsichtigten Darstellung zu durchkreuzen pflegen. Um sich<lb/> dieser Einfälle zu bemächtigen, fordert er die Kranken auf, sich<lb/> in ihren Mitteilungen gehen zu lassen, „wie man es etwa in<lb/> einem Gespräche tut, bei welchem man aus dem Hundertsten in<lb/> das Tausendste gerät.“ Er schärft ihnen, ehe er sie zur detaillierten<lb/> Erzählung ihrer Krankengeschichte auffordert, ein, alles mit zu<lb/> sagen, was ihnen dabei durch den Kopf geht, auch wenn sie<lb break="paragraph"/><pb n="4" xml:id="page__5b8b2c55-7ea3-4d51-b989-112dedc3d064"/><fw type="pageNum">6</fw>meinen, es sei unwichtig, oder es gehöre nicht dazu, oder es sei<lb/> unsinnig. Mit besonderem Nachdrucke aber wird von ihnen ver<lb break="no"/>langt, daß sie keinen Gedanken oder Einfall darum von der Mit<lb break="no"/>teilung ausschließen, weil ihnen diese Mitteilung beschämend<lb/> oder peinlich ist. Bei den Bemühungen, dieses Material an sonst<lb/> vernachlässigten Einfällen zu sammeln, machte nun <hi rendition="#smallcaps">Freud</hi> die<lb/> Beobachtungen, die für seine ganze Auffassung bestimmend<lb/> geworden sind. Schon bei der Erzählung der Krankengeschichte<lb/> stellen sich bei den Kranken Lücken der Erinnerung heraus,<lb/> sei es, daß tatsächliche Vorgänge vergessen worden, sei es, daß<lb/> zeitliche Beziehungen verwirrt oder Kausalzusammenhänge zer<lb break="no"/>rissen worden sind, so daß sich unbegreifliche Effekte ergeben.<lb/> Ohne Amnesie irgend einer Art gibt es keine neurotische Kranken<lb break="no"/>geschichte. Drängt man den Erzählenden, diese Lücken seines<lb/> Gedächtnisses durch angestrengte Arbeit der Aufmerksamkeit aus<lb break="no"/>zufüllen, so merkt man, daß die hiezu sich einstellenden Ein<lb break="no"/>fälle von ihm mit allen Mitteln der Kritik zurückgedrängt<lb/> werden, bis er endlich das direkte Unbehagen verspürt, wenn<lb/> sich die Erinnerung wirklich eingestellt hat. Aus dieser Erfahrung<lb/> schließt <hi rendition="#smallcaps">Freud</hi>, daß die Amnesien das Ergebnis eines Vorganges<lb/> sind, den er <hi rendition="#smallcaps">Verdrängung</hi> heißt, und als dessen Motiv er<lb/> Unlustgefühle erkennt. Die psychischen Kräfte, welche diese Ver<lb break="no"/>drängung herbeigeführt haben, meint er in dem <hi rendition="#smallcaps">Widerstand</hi>,<lb/> der sich gegen die Wiederherstellung erhebt, zu verspüren.<lb break="paragraph"/></p>
+              <p>Da das <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >Hypnotisiertwerden</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">Hypnotisirtwerden</rdg>
+               </app>, trotz aller Geschicklichkeit des<lb/> Arztes<app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >,</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml"/>
+               </app> bekanntlich in der Willkür des Patienten liegt<app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >,</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml"/>
+               </app> und eine<lb/> große Anzahl neurotischer Personen durch kein Verfahren in<lb/>
+               Hypnose zu versetzen ist, so war durch den Verzicht auf die<lb/> Hypnose die
+               Anwendbarkeit des Verfahrens auf eine unein<lb break="no"/>geschränkte Anzahl von
+               Kranken gesichert. Anderseits fiel die<lb/> Erweiterung des Bewußtseins weg, welche
+               dem Arzt gerade jenes<lb/> psychische Material an Erinnerungen und Vorstellungen
+               geliefert<lb/> hatte, mit dessen Hilfe sich die Umsetzung der Symptome und<lb/> die
+               Befreiung der Affekte vollziehen ließ. Wenn für diesen Aus<lb break="no"/>fall kein
+               Ersatz zu schaffen war, konnte auch von einer thera<lb break="no"/>peutischen
+               Einwirkung keine Rede sein.<lb break="paragraph"/></p> <p>Einen solchen völlig ausreichenden Ersatz fand nun <hi rendition="#smallcaps">Freud</hi><lb/> in den Einfällen der Kranken, das heißt in den ungewollten,<lb/> meist als störend empfundenen und darum unter gewöhnlichen<lb/> Verhältnissen beseitigten Gedanken, die den Zusammenhang einer<lb/> beabsichtigten Darstellung zu durchkreuzen pflegen. Um sich<lb/> dieser Einfälle zu bemächtigen, fordert er die Kranken auf, sich<lb/> in ihren Mitteilungen gehen zu lassen, „wie man es etwa in<lb/> einem Gespräche tut, bei welchem man aus dem Hundertsten in<lb/> das Tausendste gerät.“ Er schärft ihnen, ehe er sie zur detaillierten<lb/> Erzählung ihrer Krankengeschichte auffordert, ein, alles mit zu<lb/> sagen, was ihnen dabei durch den Kopf geht, auch wenn sie<lb break="paragraph"/><pb n="4" xml:id="page__5b8b2c55-7ea3-4d51-b989-112dedc3d064"/><fw type="pageNum">6</fw>meinen, es sei unwichtig, oder es gehöre nicht dazu, oder es sei<lb/> unsinnig. Mit besonderem Nachdrucke aber wird von ihnen ver<lb break="no"/>langt, daß sie keinen Gedanken oder Einfall darum von der Mit<lb break="no"/>teilung ausschließen, weil ihnen diese Mitteilung beschämend<lb/> oder peinlich ist. Bei den Bemühungen, dieses Material an sonst<lb/> vernachlässigten Einfällen zu sammeln, machte nun <hi rendition="#smallcaps">Freud</hi> die<lb/> Beobachtungen, die für seine ganze Auffassung bestimmend<lb/> geworden sind. Schon bei der Erzählung der Krankengeschichte<lb/> stellen sich bei den Kranken Lücken der Erinnerung heraus,<lb/> sei es, daß tatsächliche Vorgänge vergessen worden, sei es, daß<lb/> zeitliche Beziehungen verwirrt oder Kausalzusammenhänge zer<lb break="no"/>rissen worden sind, so daß sich unbegreifliche Effekte ergeben.<lb/> Ohne Amnesie irgend einer Art gibt es keine neurotische Kranken<lb break="no"/>geschichte. Drängt man den Erzählenden, diese Lücken seines<lb/> Gedächtnisses durch angestrengte Arbeit der Aufmerksamkeit aus<lb break="no"/>zufüllen, so merkt man, daß die hiezu sich einstellenden Ein<lb break="no"/>fälle von ihm mit allen Mitteln der Kritik zurückgedrängt<lb/> werden, bis er endlich das direkte Unbehagen verspürt, wenn<lb/> sich die Erinnerung wirklich eingestellt hat. Aus dieser Erfahrung<lb/> schließt <hi rendition="#smallcaps">Freud</hi>, daß die Amnesien das Ergebnis eines Vorganges<lb/> sind, den er <hi rendition="#smallcaps">Verdrängung</hi> heißt, und als dessen Motiv er<lb/> Unlustgefühle erkennt. Die psychischen Kräfte, welche diese Ver<lb break="no"/>drängung herbeigeführt haben, meint er in dem <hi rendition="#smallcaps">Widerstand</hi>,<lb/> der sich gegen die Wiederherstellung erhebt, zu verspüren.<lb break="paragraph"/></p>
          
             
               <p>Das Moment des Widerstandes ist eines der Fundamente seiner<lb/> Theorie geworden. Die sonst unter allerlei Vorwänden (wie sie<lb/> die obige Formel aufzählt) beseitigten Einfälle betrachtet er aber<lb/> als Abkömmlinge der verdrängten psychischen Gebilde (Gedanken<lb/> und Regungen), als Entstellungen derselben infolge des gegen<lb/> ihre Reproduktion bestehenden Widerstandes.<lb break="paragraph"/></p> <p>Je größer der Widerstand, desto ausgiebiger diese Entstellung.<lb/> In dieser Beziehung der unbeabsichtigten Einfälle zum ver<lb break="no"/>drängten psychischen Material ruht nun ihr Wert für die thera<lb break="no"/><pb n="5" xml:id="page__066d3723-12a1-4708-8bde-56a5c43b8e51"/><fw type="pageNum">7</fw>peutische Technik. Wenn man ein Verfahren besitzt, welches<lb/> ermöglicht, von den Einfällen aus zu dem Verdrängten, von den<lb/> Entstellungen zum Entstellten zu gelangen, so kann man auch<lb/> ohne Hypnose das früher Unbewußte im Seelenleben dem<lb/> Bewußtsein zugänglich machen.<lb break="paragraph"/></p>
