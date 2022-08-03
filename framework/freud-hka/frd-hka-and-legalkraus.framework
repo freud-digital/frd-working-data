@@ -4750,7 +4750,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="zotero" n="" ref="">&lt;/rs></String>
+																<String>&lt;rs xmlns="http://www.tei-c.org/ns/1.0" type="zotero/" n="" ref="">&lt;/rs></String>
 															</entry>
 														</serializableOrderedMap>
 													</field>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://humanistika.org/ns/tei-completer">
     <server>
-        <baseUrl>https://frd-ac.acdh-dev.oeaw.ac.at</baseUrl>
+        <baseUrl>https://frd-ac.acdh-dev.oeaw.ac.at:443</baseUrl>
     </server>
     <autoComplete>
         <context>//rs</context>
@@ -9,7 +9,7 @@
         <dependent default="baserow/person">@type</dependent>
         <selection>@n</selection>
         <request>
-            <url>$baseUrl/$dependent/?q=$selection&amp;format=teicompleter</url>
+            <url>$baseUrl/$dependent?q=$selection&amp;format=teicompleter</url>
         </request>
     </autoComplete>
 </config>
