@@ -39,7 +39,7 @@
 						WISSENSCHAFTLICHEN VERSAMMLUNG DES WIENER MEDIZINISCHEN DOKTORENKOLLEGIUMS
 						AM</rdg>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -47,7 +47,7 @@
 						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>12</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -78,51 +78,51 @@
 						in der „</lem>
 					<rdg wit="#sfe-1905-001__1905_2.xml">VON PROF</rdg>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">Jahrgang Wien, den 1</rdg>
 					<rdg wit="#sfe-1905-001__1905_2.xml">SIGM. FREUD IN WIEN</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">Januar 1905 Nr</rdg>
 					<rdg wit="#sfe-1905-001__1905_2.xml">URBAN &amp; SCHWARZENBERG BERLIN WIEN
 						N</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">1</rdg>
 					<rdg wit="#sfe-1905-001__1905_2.xml">FRIEDRICHSTRASSE 105b I</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905_2.xml">MAXIMILIANSTRASSE 4 1905 BLANK</rdg>
 				</app>
 				<app>
@@ -130,14 +130,14 @@
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>Wiener</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Medizinischen</lem>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Medizinische</rdg>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -145,7 +145,7 @@
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>Presse</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -153,23 +153,23 @@
 					<rdg wit="#sfe-1905-001__1905.xml">. Organ für praktische Ärzte</rdg>
 					<rdg wit="#sfe-1905-001__1905_2.xml">. Organ für praktische Ärzte</rdg>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905_2.xml">.</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">Redigiert von Doz. Dr. Anton Bum</rdg>
 					<rdg wit="#sfe-1905-001__1905_2.xml">Redigiert von Doz. Dr. Anton Bum</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905_2.xml">Separat-Abrduck aus</rdg>
 				</app>
 				<app>
@@ -177,7 +177,7 @@
 						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>Nr</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -186,7 +186,7 @@
 						>. 1</lem>
 					<rdg wit="#sfe-1905-001__1906.xml">.1</rdg>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1905.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1922.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -195,7 +195,7 @@
 						>,</lem>
 					<rdg wit="#sfe-1905-001__1906.xml">)</rdg>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1905.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1922.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -203,7 +203,7 @@
 						Folge der „Sammlung kleiner Schriften zur Neurosenlehre“.</lem>
 					<rdg wit="#sfe-1905-001__1905_2.xml">1905 ÜBER PSYCHOTHERAPIE</rdg>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -214,60 +214,60 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">Originalien und klinische Vorlesungen</rdg>
 					<rdg wit="#sfe-1905-001__1905_2.xml">VORTRAG GEHALTEN IN DER WISSENSCHAFTLICHEN
 						VERSAMMLUNG DES WIENER MEDIZINISCHEN DOKTORENKOLLEGIUMS AM 12</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">Über Psychotherapie</rdg>
 					<rdg wit="#sfe-1905-001__1905_2.xml">DEZEMBER 1904 VON PROF. SIGM</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">Von Prof</rdg>
 					<rdg wit="#sfe-1905-001__1905_2.xml">FREUD IN WIEN</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">Sigm</rdg>
 					<rdg wit="#sfe-1905-001__1905_2.xml">URBAN &amp; SCHWARZENBERG BERLIN WIEN
 						N</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">.</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">Freud, Wien.*)</rdg>
 					<rdg wit="#sfe-1905-001__1905_2.xml">FRIEDRICHSTRASSE 105b I. MAXIMILIANSTRASSE
 						4 1905</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">M. H.!</rdg>
 				</app> Es sind ungefähr <app>
 					<lem
@@ -318,7 +318,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml #sfe-1905-001__1922.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 						>,</rdg>
@@ -439,7 +439,7 @@
 				<app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app> beim Heilungsvorgang sehr in Betracht kommende Partei — nämlich die Kranken —
 				nicht die Absicht hat, auf sie zu verzichten. Sie wissen, welche Aufklärungen wir
@@ -503,7 +503,7 @@
 				<app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app> und ganz besonders die Psychoneurosen, seelischen <app>
 					<lem
@@ -521,7 +521,7 @@
 				<app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app> als jeder anderen Medikation. Es ist keine moderne Rede, sondern ein
 				Ausspruch alter Ärzte, daß diese Krankheiten nicht das Medikament heilt, sondern der
@@ -573,15 +573,11 @@
 				Technik der hypnotischen Suggestion, der Psychotherapie durch Ablenkung, durch
 				Übung, durch Hervorrufung zweckdienlicher Affekte entwickelt. Ich verachte keine
 				derselben und würde sie alle unter geeigneten Bedingungen ausüben. Wenn ich <app>
-					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">mich</lem>
-					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
-					/>
-				</app> in Wirklichkeit <app>
-					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
+					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">mich in
+						Wirklichkeit</lem>
 					<rdg
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
-						>mich</rdg>
+						>in Wirklichkeit mich</rdg>
 				</app> auf ein einziges Heilverfahren beschränkt habe, auf die von <app>
 					<lem
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
@@ -621,7 +617,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
 						>sie uns eröffnet, könnte</rdg>
@@ -634,7 +630,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">allein imstande sein, über</rdg>
 					<rdg
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
@@ -642,22 +638,24 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
 						>sich selbst</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
-					<rdg wit="#sfe-1905-001__1906.xml">hinaus zu führen</rdg>
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>hinauszuführen</lem>
 					<rdg
-						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
-						>hinauszuführen</rdg>
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml"
+						>hinaus zu führen</rdg>
+
+
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
 						>und</rdg>
@@ -671,7 +669,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
 						>den Weg zu noch anderen Arten therapeutischer Beeinflussung zu weisen. In
@@ -680,7 +678,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905_2.xml">welche man die ausgiebigste Veränderung des
 						Kranken erzielt. Wenn ich für einen Moment den therapeutischen Standpunkt
 						verlasse, kann ich für sie geltend machen, daß sie die interessanteste ist,
@@ -693,7 +691,7 @@
 						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>eröffnet, könnte sie allein imstande sein, über</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -701,7 +699,7 @@
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>sich selbst</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -709,7 +707,7 @@
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">hinaus zu
 						führen</rdg>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -718,14 +716,14 @@
 						>und uns den Weg zu noch anderen Arten therapeutischer Beeinflussung zu
 						weisen. In</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Bezug</lem>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">bezug</rdg>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -733,7 +731,7 @@
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>auf diese kathartische oder analytische Methode der Psychotherapie</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app> gestatten Sie mir nun, einige Irrtümer zu verbessern und einige Aufklärungen
 				zu geben. a) Ich merke, daß diese Methode sehr häufig mit der hypnotischen
@@ -832,7 +830,7 @@
 				noch keiner von den vielen, die sich für meine Therapie interessieren und sichere
 				Urteile über dieselbe von sich geben, mich <app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">noch</rdg>
 				</app> je gefragt hat, wie ich es eigentlich mache. Das kann doch nur den einzigen
 				Grund haben, daß sie meinen, es sei nichts zu fragen, es <app>
@@ -918,7 +916,7 @@
 				<app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -1004,14 +1002,14 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
 						>therapeutische Methode nur an schweren</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
 						>und schwersten Fällen ausarbeiten und versuchen können; mein Material waren
@@ -1019,7 +1017,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml">und</rdg>
 					<rdg
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
@@ -1027,7 +1025,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
 						>durch Jahre in Anstalten geweilt hatten. Ich habe kaum Erfahrung
@@ -1035,7 +1033,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905_2.xml">unbequemer und kostspieliger ist als das
 						früher gebräuchliche Ätzen und Schaben, und doch bedeutet es einen großen
 						Fortschritt, bloß weil es mehr leistet; es heilt nämlich den Lupus radikal.
@@ -1048,7 +1046,7 @@
 						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>therapeutische Methode nur an schweren und</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -1058,7 +1056,7 @@
 						zuerst nur Kranke, die alles erfolglos versucht und durch Jahre in Anstalten
 						geweilt hatten. Ich habe kaum Erfahrung genug</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app> gesammelt, um Ihnen sagen zu können, wie sich meine Therapie bei jenen
 				leichteren, episodisch auftretenden Erkrankungen verhält, die wir unter den
@@ -1094,7 +1092,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">,</rdg>
 				</app> zurücksteht. d) Die Indikationen und Gegenanzeigen dieser Behandlung sind
 				infolge der vielen praktischen Beschränkungen, die meine Tätigkeit betroffen haben,
@@ -1232,7 +1230,12 @@
 						>Nichtsdestoweniger</lem>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml"
 						>Nichsdestoweniger</rdg>
-				</app> bleiben Fälle und Krankheitsformen genug übrig, an denen diese Therapie sich erproben kann, alle chronischen Formen
+				</app> bleiben Fälle und Krankheitsformen <app>
+					<lem
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>genug</lem>
+					<rdg wit="#sfe-1905-001__1922.xml"/>
+				</app> übrig, an denen diese Therapie sich erproben kann, alle chronischen Formen
 				von Hysterie mit Resterscheinungen, das große Gebiet der Zwangszustände und Abulien <app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">und dergleichen</lem>
 					<rdg
@@ -1245,13 +1248,26 @@
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">höchst
 						entwickelten</rdg>
 				</app> Personen auf solche Weise am ehesten Hilfe bringen kann. Wo aber mit der
-				analytischen Psychotherapie nur wenig auszurichten war, da
+				analytischen Psychotherapie <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>nur</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml"/>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>wenig auszurichten war, da</lem>
+					<rdg
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1922.xml"
+						>wenig auszurichten war, da</rdg>
+				</app>
 				<app>
 					<lem
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>,</lem>
 					<rdg
-						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1922.xml #sfe-1905-001__1905_2.xml"
 					/>
 				</app> darf man getrost behaupten, hätte <app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">irgendwelche</lem>
@@ -1346,7 +1362,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1924.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1925.xml #sfe-1905-001__1905_2.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 						>,</rdg>
@@ -1360,14 +1376,29 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
-						>die Einsicht gegründet, daß unbewußte Vorstellungen — besser:</rdg>
+						>die Einsicht gegründet, daß unbewußte</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
+					<rdg wit="#sfe-1905-001__1905.xml">Vor- stellungen</rdg>
+					<rdg
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
+						>Vorstellungen</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
+					<rdg
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
+						>— besser:</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
 						>die Unbewußtheit gewisser seelischer Vorgänge — die nächste Ursache der
@@ -1385,24 +1416,24 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
 					<rdg wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml">übrigens</rdg>
 					<rdg wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml">übrigens</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml"/>
 					<rdg wit="#sfe-1905-001__1920.xml">in</rdg>
 					<rdg wit="#sfe-1905-001__1922.xml">in</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1922.xml">arger</rdg>
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905_2.xml">Schlusse, meine Herren Kollegen, muß ich
 						mir sagen, es geht doch nicht an, Ihre Aufmerksamkeit so lange zugunsten der
 						analytischen Psychotherapie in Anspruch zu nehmen, ohne Ihnen zu sagen,
@@ -1413,9 +1444,24 @@
 				<app>
 					<lem
 						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
-						>Einsicht gegründet, daß unbewußte Vorstellungen — besser: die</lem>
+						>Einsicht gegründet, daß unbewußte</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
+					/>
+				</app>
+				<app>
+					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Vorstellungen</lem>
+					<rdg wit="#sfe-1905-001__1905_2.xml">Vor- stellungen</rdg>
+					<rdg
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
+					/>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>— besser: die</lem>
+					<rdg
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -1425,14 +1471,14 @@
 						krankhaften Symptome ist. Eine solche Überzeugung vertreten wir gemeinsam
 						mit der französischen Schule (</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Janet</lem>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">JANET</rdg>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
@@ -1440,14 +1486,14 @@
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>), die übrigens</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml"
+						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml"
 					/>
 				</app>
 				<app>
 					<lem
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>in</lem>
-					<rdg wit="#sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"/>
+					<rdg wit="#sfe-1905-001__1922.xml #sfe-1905-001__1920.xml"/>
 				</app>
 				<app>
 					<lem
@@ -1481,18 +1527,29 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">,</rdg>
-				</app> den Erfolg haben muß, deren Abweichung vom Normalen zu korrigieren und den
-				Zwang aufzuheben, unter dem ihr Seelenleben steht. Denn der bewußte Wille reicht <app>
+				</app> den Erfolg haben muß, deren Abweichung vom <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>Normalen</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Nor- malen</rdg>
+				</app> zu korrigieren und den Zwang aufzuheben, unter dem ihr Seelenleben steht.
+				Denn der bewußte Wille reicht <app>
 					<lem
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>so weit</lem>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">soweit</rdg>
 				</app> als die bewußten psychischen Vorgänge, und jeder psychische Zwang ist durch
 				das Unbewußte begründet. Sie brauchen auch niemals zu fürchten, daß der Kranke unter
-				der Erschütterung Schaden nehme, welche der Eintritt des Unbewußten in sein
-				Bewußtsein mit sich bringt, denn Sie können es sich theoretisch <app>
+				der <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>Erschütterung</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Erschütte-
+						rung</rdg>
+				</app> Schaden nehme, welche der Eintritt des Unbewußten in sein Bewußtsein mit sich
+				bringt, denn Sie können es sich theoretisch <app>
 					<lem
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>zurechtlegen</lem>
@@ -1510,38 +1567,53 @@
 						>In</lem>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">ln</rdg>
 				</app> diesen Konflikt im Seelenleben des Kranken greifen Sie nun ein; gelingt es
-				Ihnen, den Kranken dazu zu bringen, daß er aus Motiven besserer Einsicht etwas
-				akzeptiert, was er zufolge der automatischen Unlustregulierung bisher zurückgewiesen
+				Ihnen, den Kranken dazu zu bringen, daß er aus Motiven besserer Einsicht etwas <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>akzeptiert</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">akzep- tiert</rdg>
+				</app> , was er zufolge der automatischen Unlustregulierung bisher zurückgewiesen
 				(verdrängt) hat, so haben Sie ein Stück Erziehungsarbeit an ihm geleistet. Es ist ja
-				schon Erziehung, wenn Sie einen Menschen, der nicht gern früh morgens das Bett
-				verläßt, dazu bewegen, es doch zu tun. Als eine solche Nacherziehung zur Überwindung
-				innerer Widerstände können Sie nun die psychoanalytische Behandlung ganz allgemein
-				auffassen. In keinem Punkte aber ist solche Nacherziehung bei den Nervösen mehr
-				vonnöten als betreffs des seelischen <app>
+				schon <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>Erziehung</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Er- ziehung</rdg>
+				</app> , wenn Sie einen Menschen, der nicht gern früh morgens das Bett verläßt, dazu
+				bewegen, es doch zu tun. Als eine solche Nacherziehung zur Überwindung innerer
+				Widerstände können Sie nun die psychoanalytische <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>Behandlung</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Behand- lung</rdg>
+				</app> ganz allgemein auffassen. In keinem Punkte aber ist solche Nacherziehung bei
+				den Nervösen mehr vonnöten als betreffs des seelischen <app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Elements</lem>
 					<rdg
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
 						>Elementes</rdg>
+				</app> in ihrem Sexualleben. Nirgends haben ja Kultur und Erziehung so großen
+				Schaden gestiftet wie gerade hier, und hier sind auch, wie Ihnen die <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>Erfahrung</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Erfah- rung</rdg>
 				</app>
 				<app>
-					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">in ihrem Sexualleben.
-						Nirgends haben ja Kultur und Erziehung so großen Schaden gestiftet wie
-						gerade hier, und hier sind auch, wie Ihnen die Erfahrung zeigen wird, die
+					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">zeigen wird, die
 						beherrschbaren Ätiologien der Neurosen zu finden; das andere ätiologische
 						Element, der konstitutionelle Beitrag, ist uns ja als etwas Unabänderliches
 						gegeben. Hieraus erwächst aber eine wichtige</lem>
 					<rdg
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
-						>in ihrem Sexualleben. Nirgends haben ja Kultur und Erziehung so großen
-						Schaden gestiftet wie gerade hier, und hier sind auch, wie Ihnen die
-						Erfahrung zeigen wird, die beherrschbaren Ätiologien der Neurosen zu finden;
-						das andere ätiologische Element, der konstitutionelle Beitrag, ist uns ja
-						als etwas Unabänderliches gegeben. Hieraus erwächst aber eine wichtige</rdg>
+						>zeigen wird, die beherrschbaren Ätiologien der Neurosen zu finden; das
+						andere ätiologische Element, der konstitutionelle Beitrag, ist uns ja als
+						etwas Unabänderliches gegeben. Hieraus erwächst aber eine wichtige</rdg>
 				</app>
 				<app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">,</lem>
 					<rdg
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1922.xml"
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
 					/>
 				</app> an den Arzt zu stellende Anforderung. Er muß nicht nur selbst ein integrer
 				Charakter sein — „ das Moralische versteht sich ja von selbst “, wie die Hauptperson
@@ -1575,26 +1647,44 @@
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>andere</lem>
 					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Andere</rdg>
-				</app> den sexuellen Problemen entgegenzutreten gewohnt sind. Hier ist vielleicht
-				der Platz für eine weitere Bemerkung. Ich weiß, daß meine Betonung der Rolle des
-				Sexuellen für die Entstehung der Psychoneurosen in weiteren Kreisen bekannt geworden
-				ist. Ich weiß aber auch, daß Einschränkungen und nähere Bestimmungen beim großen
-				Publikum wenig nützen; die Menge hat für <app>
+				</app> den sexuellen Problemen entgegenzutreten <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>gewohnt</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">ge- wohnt</rdg>
+				</app> sind. Hier ist vielleicht der Platz für eine weitere <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>Bemerkung</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Bemer- kung</rdg>
+				</app> . Ich weiß, daß meine Betonung der Rolle des Sexuellen für die Entstehung der
+				Psychoneurosen in weiteren Kreisen bekannt geworden ist. Ich weiß aber auch, daß <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>Einschränkungen</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Einschrän-
+						kungen</rdg>
+				</app> und nähere Bestimmungen beim großen Publikum wenig nützen; die Menge hat für <app>
 					<lem
 						wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>wenig</lem>
 					<rdg
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml"
 						>Wenig</rdg>
+				</app> Raum in ihrem <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>Gedächtnis</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Ge- dächtnis</rdg>
 				</app>
 				<app>
 					<lem
 						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
-						>Raum in ihrem Gedächtnis und behält von einer Behauptung doch nur den rohen
-						Kern, schafft sich ein leicht zu merkendes Extrem</lem>
-					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">Raum in ihrem
-						Gedächtnis und behält von einer Behauptung doch nur den rohen Kern, schafft
-						sich ein leicht zu merkendes Extrem</rdg>
+						>und behält von einer Behauptung doch nur den rohen Kern, schafft sich ein
+						leicht zu merkendes Extrem</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">und behält von
+						einer Behauptung doch nur den rohen Kern, schafft sich ein leicht zu
+						merkendes Extrem</rdg>
 				</app>
 				<app>
 					<lem
@@ -1617,9 +1707,13 @@
 					<rdg wit="#sfe-1905-001__1911.xml"/>
 				</app> ich führe die Neurosen in letzter Linie auf sexuelle Entbehrung zurück. An
 				dieser fehlt es nicht unter den Lebensbedingungen unserer Gesellschaft. Wie nahe mag
-				es nun bei solcher Voraussetzung liegen, den mühseligen Umweg über die psychische
-				Kur zu vermeiden und direkt die Heilung anzustreben, indem man die sexuelle
-				Betätigung als Heilmittel empfiehlt <app>
+				es nun bei solcher Voraussetzung liegen, den <app>
+					<lem
+						wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+						>mühseligen</lem>
+					<rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">müh- seligen</rdg>
+				</app> Umweg über die psychische Kur zu vermeiden und direkt die Heilung
+				anzustreben, indem man die sexuelle Betätigung als Heilmittel empfiehlt <app>
 					<lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">!</lem>
 					<rdg
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
@@ -1629,7 +1723,7 @@
 					<lem
 						wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
 						>Sache</lem>
-					<rdg wit="#sfe-1905-001__1911.xml">Sache</rdg>
+					<rdg wit="#sfe-1905-001__1911.xml">Suche</rdg>
 				</app>
 				<app>
 					<lem
@@ -1700,7 +1794,7 @@
 				</app>
 				<app>
 					<lem
-						wit="#sfe-1905-001__1920.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1924.xml #sfe-1905-001__1922.xml #sfe-1905-001__1925.xml"/>
+						wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml #sfe-1905-001__1925.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"/>
 					<rdg wit="#sfe-1905-001__1905_2.xml">BLANK</rdg>
 				</app>
 			</ab>
