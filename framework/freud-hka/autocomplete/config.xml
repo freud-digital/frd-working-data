@@ -6,10 +6,10 @@
     <autoComplete>
         <context>//rs</context>
         <attribute>@ref</attribute>
-        <dependent default="baserow/person">@type</dependent>
+        <dependent default="person">@type</dependent>
         <selection>@n</selection>
         <request>
-            <url>$baseUrl/$dependent?q=$selection&amp;format=teicompleter</url>
+            <url>$baseUrl/$dependent?q=$selection</url>
         </request>
     </autoComplete>
 </config>
