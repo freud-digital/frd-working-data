@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://humanistika.org/ns/tei-completer">
     <server>
-        <baseUrl>https://frd-ac.acdh-dev.oeaw.ac.at:443</baseUrl>
+        <baseUrl>https://frd-ac.acdh-dev.oeaw.ac.at</baseUrl>
     </server>
     <autoComplete>
         <context>//rs</context>
