@@ -1019,16 +1019,17 @@
                      wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
                      >außerordentlich große</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">ausserordentlich grosse</rdg>
-                  <lem wit="#sfe-1904-002__1925.xml #sfe-1904-002__1924.xml #sfe-1904-002__1904.xml"/>
+                  
                   <rdg
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
-                     >,</rdg>
+                     >außerordentlich große,</rdg>
                </app> und die Erweiterung unseres therapeutischen Könnens durch<lb/> dieses
                Verfahren nach den Behauptungen <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
-                     >Freuds</lem>
-                  <rdg wit="#sfe-1904-002__1904.xml">Freud’s</rdg>
+                     ><hi renditions="#smallcaps">Freuds</hi></lem>
+                  <rdg wit="#sfe-1904-002__1904.xml"><hi renditions="#smallcaps">Freud</hi>’s</rdg>
+               
                </app> eine sehr<lb/> beträchtliche. <hi rendition="#smallcaps">Freud</hi>
                beansprucht lange Zeiträume, ein<app>
                   <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">ein halbes</lem>
