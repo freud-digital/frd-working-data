@@ -321,14 +321,16 @@
                         >Psychoanalyse</lem>
                      <rdg wit="#sfe-1904-002__1904.xml">Psycho-Analyse</rdg>
                   </app></rs><note resp="chuber"><term>Psychoanalyse</term>
-               </note> bezeichnet, ist aus dem sogenannten<lb/> kathartischen Verfahren
-               hervorgegangen, über welches er seiner<lb break="no"/>zeit in den „Studien über
-               Hysterie“ 1895 in Gemeinschaft mit<lb/>
+               </note> bezeichnet, ist aus dem sogenannten<lb/> kathartischen Verfahren <rs
+                  type="keyword" ref="#frd_kw_3415">kathartischen Verfahren</rs> hervorgegangen,
+               über welches er seiner<lb break="no"/>zeit in den „Studien über Hysterie“ 1895 in
+               Gemeinschaft mit<lb/>
                <rs type="person" ref="#frd_person_40">J. <hi rendition="#smallcaps"
                   >Breuer</hi></rs><note type="e" resp="#chuber"><term>Breuer</term> Josef Breuer
                   (1842-1925), österr. Internist und Physiologe, veröffentl. gem. mit Freud u.a.
                      <title ref="#zotero__V9N337QB">Studien über Hysterie</title> .</note> berichtet
-               hat. Die kathartische Therapie war eine<lb/> Erfindung <hi rendition="#smallcaps"><app>
+               hat. Die kathartische Therapie<rs type="keyword" ref="#frd_kw_3415"
+                  >kathartische Therapie</rs> war eine<lb/> Erfindung <hi rendition="#smallcaps"><app>
                      <lem
                         wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                         >Breuers</lem>
@@ -359,13 +361,12 @@
                   <rdg
                      wit="#sfe-1904-002__1911.xml #sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
                      >sei und</rdg>
-
                </app> und beruhte auf der Erweiterung des <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Bewußtseins</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">Bewusstseins</rdg>
-               </app>,<lb/> die in der Hypnose eintritt. <app>
+               </app>,<lb/> die in der <rs type="keyword" ref="#frd_kw_1219">Hypnose</rs> eintritt. <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Es</lem>
@@ -381,7 +382,7 @@
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >ließ</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">liess</rdg>
-               </app>,<lb/> in welchem das Symptom zum <app>
+               </app>,<lb/> in welchem das Symptom<rs type="keyword" ref="#frd_kw_2643">Symptom</rs> zum <app>
                   <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">erstenmal</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">erstenmale</rdg>
                   <rdg
@@ -492,9 +493,10 @@
                      >,</rdg>
                </app> Auffassung der therapeutischen Arbeit<lb/> genötigt.<lb break="paragraph"
                /></p>
-            <p>Hatte die kathartische Methode bereits auf die Suggestion<lb/> verzichtet, so
-               unternahm <hi rendition="#smallcaps">Freud</hi> den weiteren Schritt, auch die<lb/>
-               Hypnose aufzugeben. Er behandelt gegenwärtig<note type="e" resp="chuber"
+            <p>Hatte die kathartische Methode bereits auf die Suggestion<lb/><rs type="keyword"
+               ref="#frd_kw_2631">Suggestion</rs> verzichtet, so unternahm <hi
+                  rendition="#smallcaps">Freud</hi> den weiteren Schritt, auch die<lb/> Hypnose
+               aufzugeben. Er behandelt gegenwärtig<note type="e" resp="chuber"
                      ><term>gegenwärtig</term> Zur Zeit der Entstehung des Textes: 1904</note> seine
                   Kranken,<lb break="paragraph"/><pb n="3"
                   xml:id="page__2e11f984-bba9-4fa4-bbc9-4b9faf02db24"/><fw type="pageNum"
@@ -591,7 +593,9 @@
                      wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Gespräche</lem>
                   <rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Gespräch</rdg>
-               </app> tut, bei welchem man aus dem Hundertsten in<lb/> das Tausendste <app>
+               </app>
+               <rs type="keyword" ref="#frd_kw_3416">Gespräch</rs> tut, bei welchem man aus dem
+               Hundertsten in<lb/> das Tausendste <app>
                   <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">gerät.“</lem>
                   <rdg
                      wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
@@ -619,9 +623,9 @@
                </app>, weil ihnen diese Mitteilung beschämend<lb/> oder peinlich ist. Bei den
                Bemühungen, dieses Material an sonst<lb/> vernachlässigten Einfällen zu sammeln,
                machte nun <hi rendition="#smallcaps">Freud</hi> die<lb/> Beobachtungen, die für
-               seine ganze Auffassung bestimmend<lb/> geworden sind. Schon bei der Erzählung der
-               Krankengeschichte<lb/> stellen sich bei den Kranken Lücken der Erinnerung
-               heraus,<lb/> sei es, <app>
+               seine ganze Auffassung bestimmend<lb/> geworden sind. Schon bei der Erzählung<rs
+                  type="keyword" ref="#frd_kw_766">Erzählung</rs> der Krankengeschichte<lb/> stellen
+               sich bei den Kranken Lücken der Erinnerung heraus,<lb/> sei es, <app>
                   <lem
                      wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >daß</lem>
@@ -669,7 +673,8 @@
                      wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Vorganges</lem>
                   <rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Vorgangs</rdg>
-               </app><lb/> sind, den er <hi rendition="#smallcaps">Verdrängung</hi>
+               </app><lb/> sind, den er <hi rendition="#smallcaps">Verdrängung</hi><rs
+                  type="keyword" ref="#frd_kw_3028">Verdrängung</rs>
                <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
@@ -677,8 +682,9 @@
                   <rdg wit="#sfe-1904-002__1904.xml">heisst</rdg>
                </app> und als dessen Motiv er<lb/> Unlustgefühle erkennt. Die psychischen Kräfte,
                welche diese Ver<lb break="no"/>drängung herbeigeführt haben, meint er in dem <hi
-                  rendition="#smallcaps">Widerstand</hi>,<lb/> der sich gegen die Wiederherstellung
-               erhebt, zu verspüren.<lb break="paragraph"/></p>
+                  rendition="#smallcaps">Widerstand</hi><rs type="keyword" ref="#frd_kw_3235"
+                  >Widerstand</rs>,<lb/> der sich gegen die Wiederherstellung erhebt, zu
+                  verspüren.<lb break="paragraph"/></p>
 
 
             <p>Das Moment des Widerstandes ist eines der Fundamente seiner<lb/> Theorie geworden.
@@ -700,13 +706,14 @@
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >größer</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">grösser</rdg>
-               </app> der Widerstand, desto ausgiebiger diese Entstellung.<lb/> In dieser Beziehung
-               der unbeabsichtigten Einfälle zum ver<lb break="no"/>drängten psychischen Material
-               ruht nun ihr Wert für die thera<lb break="no"/><pb n="5"
-                  xml:id="page__066d3723-12a1-4708-8bde-56a5c43b8e51"/><fw type="pageNum"
-               >7</fw>peutische Technik. Wenn man ein Verfahren besitzt, welches<lb/> ermöglicht,
-               von den Einfällen aus zu dem Verdrängten, von den<lb/> Entstellungen zum Entstellten
-               zu gelangen, so kann man auch<lb/> ohne Hypnose das früher <app>
+               </app> der Widerstand, desto ausgiebiger diese Entstellung<rs type="keyword"
+                  ref="#frd_kw_658">Entstellung</rs>.<lb/> In dieser Beziehung der unbeabsichtigten Einfälle
+               zum ver<lb break="no"/>drängten psychischen Material ruht nun ihr Wert für die
+                  thera<lb break="no"/><pb n="5" xml:id="page__066d3723-12a1-4708-8bde-56a5c43b8e51"
+                  /><fw type="pageNum">7</fw>peutische Technik. Wenn man ein Verfahren besitzt,
+               welches<lb/> ermöglicht, von den Einfällen aus zu dem Verdrängten, von den<lb/>
+               Entstellungen zum Entstellten zu gelangen, so kann man auch<lb/> ohne Hypnose das
+               früher <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Unbewußte</lem>
@@ -721,23 +728,26 @@
 
 
             <p><hi rendition="#smallcaps">Freud</hi> hat darauf eine <hi rendition="#smallcaps"
-                  >Deutungskunst</hi> ausgebildet, welcher<lb/> diese Leistung zufällt, die
-               gleichsam aus den Erzen der unbeab<lb break="no"/>sichtigten Einfälle den
-               Metallgehalt an verdrängten Gedanken<lb/> darstellen soll. Objekt dieser
-               Deutungsarbeit sind nicht allein die<lb/> Einfälle <app>
+                  >Deutungskunst</hi>
+               <rs type="keyword" ref="#frd_kw_3417">Deutungskunst</rs> ausgebildet, welcher<lb/>
+               diese Leistung zufällt, die gleichsam aus den Erzen der unbeab<lb break="no"
+               />sichtigten Einfälle den Metallgehalt an verdrängten Gedanken<lb/> darstellen soll.
+               Objekt dieser Deutungsarbeit sind nicht allein die<lb/> Einfälle <app>
                   <lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >des</lem>
                   <rdg
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
                      >der</rdg>
-               </app> Kranken, sondern auch seine Träume, die den<lb/> direktesten Zugang zur
-               Kenntnis des <app>
+               </app> Kranken, sondern auch seine Träume <rs type="keyword" ref="#frd_kw_2750"
+                  >Traum</rs>, die den<lb/> direktesten Zugang zur Kenntnis des <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Unbewußten</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">Unbewussten</rdg>
-               </app> eröffnen, seine<lb/> unbeabsichtigten, wie planlosen Handlungen
-               (Symptomhandlungen)<lb/> und die Irrungen seiner Leistungen im Alltagsleben <app>
+               </app>
+               <rs type="keyword" ref="#frd_kw_2913">Unbewußten</rs>eröffnen, seine<lb/> unbeabsichtigten,
+               wie planlosen Handlungen (Symptomhandlungen)<lb/> und die Irrungen seiner Leistungen
+               im Alltagsleben <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >(Versprechen,</lem>
@@ -908,9 +918,10 @@
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >abgesehen,</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">abgesehen</rdg>
-               </app> das nämliche für alle Symptombilder der vielgestaltigen<lb/> Hysterie und
-               ebenso für alle Ausbildungen der Zwangsneurose.<lb/> Von einer unbeschränkten
-               Anwendbarkeit desselben ist aber keine<lb/> Rede. Die Natur der <app>
+               </app> das nämliche für alle Symptombilder der vielgestaltigen<lb/> Hysterie<rs
+                  type="keyword" ref="#frd_kw_1224">Hysterie</rs> und ebenso für alle Ausbildungen der
+               Zwangsneurose.<lb/> Von einer unbeschränkten Anwendbarkeit desselben ist aber
+               keine<lb/> Rede. Die Natur der <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >psychoanalytischen</lem>
