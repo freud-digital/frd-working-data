@@ -198,7 +198,7 @@
                </note> bezeichnet, ist aus dem sogenannten<lb/> kathartischen Verfahren
                hervorgegangen, über welches er seiner<lb break="no"/>zeit in den „Studien über
                Hysterie“ 1895 in Gemeinschaft mit<lb/>
-               <rs type="person" ref="#frd_person_351">J. <hi rendition="#smallcaps"
+               <rs type="person" ref="#frd_person_40">J. <hi rendition="#smallcaps"
                   >Breuer</hi></rs><note type="e" resp="#chuber"><term>Breuer</term> Josef Breuer
                   (1842-1925), österr. Internist und Physiologe, veröffentl. gem. mit Freud u.a.
                      <title ref="#zotero__V9N337QB">Studien über Hysterie</title> .</note> berichtet
@@ -364,7 +364,7 @@
                /></p> <p>Hatte die kathartische Methode bereits auf die Suggestion<lb/> verzichtet, so unternahm <hi
                   rendition="#smallcaps">Freud</hi> den weiteren Schritt, auch die<lb/> Hypnose
                aufzugeben. Er behandelt gegenwärtig<note type="e" resp="chuber"
-                     ><term>gegenwärtig</term> zur Zeit der Entstehung des Textes: 1904</note> seine
+                     ><term>gegenwärtig</term> Zur Zeit der Entstehung des Textes: 1904</note> seine
                   Kranken,<lb break="paragraph"/><pb n="3"
                   xml:id="page__2e11f984-bba9-4fa4-bbc9-4b9faf02db24"/><fw type="pageNum"
                >5</fw>indem er sie ohne andersartige Beeinflussung eine bequeme<lb/> Rückenlage auf
@@ -616,9 +616,11 @@
                      >dgl.</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">dergl.</rdg>
                </app>). Die Details dieser Deutungs- oder Über<lb break="no"/>setzungstechnik sind
-               von <hi rendition="#smallcaps">Freud</hi> noch nicht veröffentlicht worden.<lb/> Es
-               sind nach seinen Andeutungen eine Reihe von empirisch<lb/> gewonnenen Regeln, wie aus
-               den Einfällen das <app>
+               von <hi rendition="#smallcaps">Freud</hi> noch nicht veröffentlicht
+                     worden<note><term>noch nicht veröffentlicht worden</term><bibl
+                     xml:id="zotero_MX3Z9673">Zur Psychopathologie des Alltagslebens</bibl>
+                  erscheint 1904.</note>.<lb/> Es sind nach seinen Andeutungen eine Reihe von
+               empirisch<lb/> gewonnenen Regeln, wie aus den Einfällen das <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >unbewußte</lem>
@@ -637,8 +639,8 @@
                </app> Ein umfangreiches Buch über<lb/><app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
-                     > „Traumdeutung“,</lem>
-                  <rdg wit="#sfe-1904-002__1904.xml">die  „Traumdeutung“</rdg>
+                     > „<bibl xml:id="zotero_JKI7TNM4">Traumdeutung</bibl> “,</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">die „Traumdeutung“</rdg>
                </app> 1900 von <hi rendition="#smallcaps">Freud</hi> publiziert, ist als
                Vorläufer<lb/> einer solchen Einführung in die Technik anzusehen.<lb
                   break="paragraph"/></p> <p>Man könnte aus diesen Andeutungen über die Technik der<lb/> psychoanalytischen Methode <app>
@@ -791,7 +793,8 @@
                Psychoanalyse sind die chronischen Fälle von<lb/> Psychoneurosen mit wenig
                stürmischen oder gefahrdrohenden<lb/> Symptomen, also zunächst alle Arten der
                Zwangsneurose,<lb/> Zwangsdenken und Zwangshandeln, und Fälle von Hysterie, in<lb/>
-               denen Phobien und Abulien die Hauptrolle spielen, weiterhin<lb/> aber auch alle
+               denen Phobien und Abulien <note><term>Abulien</term>Abulie, griech. krankhafte
+                  Willensschwäche</note> die Hauptrolle spielen, weiterhin<lb/> aber auch alle
                somatischen Ausprägungen der Hysterie, <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
