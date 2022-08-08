@@ -1,131 +1,297 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Title</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit><witness xml:id="sfe-1904-002__1904.xml">sfe-1904-002__1904.xml</witness><witness xml:id="sfe-1904-002__1906.xml">sfe-1904-002__1906.xml</witness><witness xml:id="sfe-1904-002__1911.xml">sfe-1904-002__1911.xml</witness><witness xml:id="sfe-1904-002__1920.xml">sfe-1904-002__1920.xml</witness><witness xml:id="sfe-1904-002__1922.xml">sfe-1904-002__1922.xml</witness><witness xml:id="sfe-1904-002__1924.xml">sfe-1904-002__1924.xml</witness><witness xml:id="sfe-1904-002__1925.xml">sfe-1904-002__1925.xml</witness></listWit>
-         </sourceDesc>
-      </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-         <ab><app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Formel</lem><rdg wit="#sfe-1904-002__1904.xml">Anzahl</rdg></app>
-	 
-	aufzählt) beseitigten Einfälle betrachtet er aber als Abkömmlinge der verdrängten psychischen Gebilde (Gedanken und Regungen
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">),</lem><rdg wit="#sfe-1904-002__1904.xml">)</rdg></app>
-	 
-	als Entstellungen derselben infolge des gegen ihre Reproduktion bestehenden Widerstandes. Je 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">größer</lem><rdg wit="#sfe-1904-002__1904.xml">grösser</rdg></app>
-	 
-	der Widerstand, desto ausgiebiger diese 
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1925.xml">Entstellung.</lem><rdg wit="#sfe-1904-002__1924.xml">Entstehung</rdg></app>
-	 
-	In dieser Beziehung der unbeabsichtigten Einfälle zum verdrängten psychischen Material ruht nun ihr Wert für die therapeutische Technik. Wenn man ein Verfahren besitzt, welches ermöglicht, von den Einfällen aus zu dem Verdrängten, von den Entstellungen zum Entstellten zu gelangen, so kann man auch ohne Hypnose das früher 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Unbewußte</lem><rdg wit="#sfe-1904-002__1904.xml">unbewusste</rdg></app>
-	 
-	im Seelenleben dem 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Bewußtsein</lem><rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg></app>
-	 
-	zugänglich machen. Freud hat darauf eine Deutungskunst ausgebildet, welcher diese Leistung zufällt, die gleichsam aus den Erzen der unbeabsichtigten Einfälle den Metallgehalt an verdrängten Gedanken darstellen soll. Objekt dieser Deutungsarbeit sind nicht allein die 
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Einfälle</lem><rdg wit="#sfe-1904-002__1906.xml">Einfalle</rdg></app>
-	 
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">des</lem><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">der</rdg></app>
-	 
-	Kranken, sondern auch seine Träume, die den direktesten Zugang zur Kenntnis des 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Unbewußten</lem><rdg wit="#sfe-1904-002__1904.xml">Unbewussten</rdg></app>
-	 
-	eröffnen, seine unbeabsichtigten, wie planlosen Handlungen (Symptomhandlungen) und die Irrungen seiner Leistungen im Alltagsleben 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">(</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
-	Versprechen, Vergreifen u. 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">dgl</lem><rdg wit="#sfe-1904-002__1904.xml">dergl</rdg></app>
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">.).</lem><rdg wit="#sfe-1904-002__1906.xml">..)</rdg></app>
-	 
-	Die Details dieser Deutungs- oder Übersetzungstechnik sind von Freud noch nicht veröffentlicht 
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">worden</lem><rdg wit="#sfe-1904-002__1911.xml">werden</rdg></app>
-	. Es sind nach seinen Andeutungen eine Reihe von empirisch gewonnenen Regeln, wie aus den Einfällen das 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">unbewußte</lem><rdg wit="#sfe-1904-002__1904.xml">unbewusste</rdg></app>
-	 
-	Material zu konstruieren ist, Anweisungen, wie man es zu verstehen habe, 
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">wenn</lem><rdg wit="#sfe-1904-002__1922.xml">Wenn</rdg></app>
-	 
-	die Einfälle des Patienten versagen, und Erfahrungen über die 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">wichtigsten</lem><rdg wit="#sfe-1904-002__1904.xml">richtigsten</rdg></app>
-	 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">typischen Widerstände, die sich im Laufe einer solchen Behandlung einstellen</lem><rdg wit="#sfe-1904-002__1904.xml">typischen Widerstände, die sich im Laufe einer solchen Behandlung einstellen</rdg></app>
-	 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">.</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
-	 
-	Ein umfangreiches Buch über 
-	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1925.xml #sfe-1904-002__1924.xml #sfe-1904-002__1906.xml"/><rdg wit="#sfe-1904-002__1904.xml">die</rdg></app>
-	 
-	„Traumdeutung
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">“,</lem><rdg wit="#sfe-1904-002__1904.xml">“</rdg></app>
-	 
-	1900 von Freud publiziert, ist als Vorläufer einer solchen Einführung in die Technik anzusehen. An die Person, die man mit Vorteil der Psychoanalyse unterziehen soll, sind mehrfache Forderungen zu stellen. Sie 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">muß</lem><rdg wit="#sfe-1904-002__1904.xml">muss</rdg></app>
-	 
-	erstens eines psychischen Normalzustandes fähig sein
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1925.xml">;</lem><rdg wit="#sfe-1904-002__1924.xml">,</rdg></app>
-	 
-	in Zeiten der Verworrenheit oder melancholischer Depression ist auch bei einer Hysterie nichts auszurichten. Man darf ferner ein gewisses 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Maß</lem><rdg wit="#sfe-1904-002__1904.xml">Maass</rdg></app>
-	 
-	natürlicher Intelligenz und ethischer Entwicklung 
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">fordern</lem><rdg wit="#sfe-1904-002__1922.xml">fördern</rdg></app>
-	; bei wertlosen Personen 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">läßt</lem><rdg wit="#sfe-1904-002__1904.xml">lässt</rdg></app>
-	 
-	den Arzt bald das Interesse im Stiche, welches ihn zur Vertiefung in das 
-	<app><lem wit="#sfe-1904-002__1925.xml">Seelenlebens</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml">Seelenleben</rdg></app>
-	 
-	des Kranken befähigt. Ausgeprägte 
-	<app><lem wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1925.xml #sfe-1904-002__1924.xml #sfe-1904-002__1904.xml #sfe-1904-002__1906.xml"/><rdg wit="#sfe-1904-002__1920.xml">(</rdg></app>
-	Charakterverbildungen, Züge von wirklich degenerativer Konstitution 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">äußern</lem><rdg wit="#sfe-1904-002__1904.xml">äussern</rdg></app>
-	 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">sich bei der Kur als Quelle von kaum zu überwindenden Widerständen. Insoweit setzt überhaupt die Konstitution eine Grenze für die Heilbarkeit durch Psychotherapie. Auch eine Altersstufe in der Nähe des fünften Dezenniums schafft ungünstige Bedingungen für die Psychoanalyse. Die Masse des psychischen Materials ist dann nicht mehr zu bewältigen, die zur Herstellung erforderliche Zeit wird zu lang</lem><rdg wit="#sfe-1904-002__1904.xml">sich bei der Kur als Quelle von kaum zu überwindenden Widerständen. Insoweit setzt überhaupt die Konstitution eine Grenze für die Heilbarkeit durch Psychotherapie. Auch eine Altersstufe in der Nähe des fünften Dezenniums schafft ungünstige Bedingungen für die Psychoanalyse. Die Masse des psychischen Materials ist dann nicht mehr zu bewältigen, die zur Herstellung erforderliche Zeit wird zu lang</rdg></app>
-	 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
-	 
-	und die Fähigkeit, psychische Vorgänge rückgängig zu machen, beginnt zu erlahmen. Trotz aller dieser Einschränkungen ist die Anzahl der für die Psychoanalyse geeigneten Personen eine 
-	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">außerordentlich große</lem><rdg wit="#sfe-1904-002__1904.xml">ausserordentlich grosse</rdg><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">außerordentlich große</rdg></app>
-	 
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1925.xml #sfe-1904-002__1924.xml"/><rdg wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">,</rdg></app>
-	 
-	und die Erweiterung unseres therapeutischen Könnens durch dieses Verfahren nach den Behauptungen 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Freuds</lem><rdg wit="#sfe-1904-002__1904.xml">Freud’s</rdg></app>
-	 
-	eine sehr beträchtliche. Freud beansprucht lange Zeiträume, 
-	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">ein halbes</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">½</rdg></app>
-	 
-	Jahr bis 
-	<app><lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">drei</lem><rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">3</rdg></app>
-	 
-	Jahre für eine wirksame Behandlung; er gibt aber die Auskunft, 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">daß</lem><rdg wit="#sfe-1904-002__1904.xml">dass</rdg></app>
-	 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">er bisher infolge verschiedener leicht zu erratender Umstände meist nur in die Lage gekommen ist, seine Behandlung an sehr schweren Fällen zu erproben, Personen mit vieljähriger Krankheitsdauer und völliger Leistungsunfähigkeit, die</lem><rdg wit="#sfe-1904-002__1904.xml">er bisher infolge verschiedener leicht zu erratender Umstände meist nur in die Lage gekommen ist, seine Behandlung an sehr schweren Fällen zu erproben, Personen mit vieljähriger Krankheitsdauer und völliger Leistungsunfähigkeit, die</rdg></app>
-	 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem><rdg wit="#sfe-1904-002__1904.xml"/></app>
-	 
-	durch alle Behandlungen getäuscht, gleichsam eine letzte Zuflucht bei seinem neuen und viel 
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">angezweifelten</lem><rdg wit="#sfe-1904-002__1920.xml">angezweifeltem</rdg></app>
-	 
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">Verfahren gesucht haben</lem><rdg wit="#sfe-1904-002__1922.xml">Verfahren gesucht haben</rdg></app>
-	 
-	<app><lem wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">.</lem><rdg wit="#sfe-1904-002__1922.xml"/></app>
-	 
-	In Fällen leichterer Erkrankung dürfte sich die Behandlungsdauer sehr verkürzen und ein 
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">außerordentlicher</lem><rdg wit="#sfe-1904-002__1904.xml">ausserordentlicher</rdg><rdg wit="#sfe-1904-002__1922.xml">außerodentlicher</rdg></app>
-	 
-	Gewinn an Vorbeugung für die Zukunft erzielen lassen
-	<app><lem wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">.“</lem><rdg wit="#sfe-1904-002__1904.xml">“.</rdg></app>
-</ab>
-      </body>
-  </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Publication Information</p>
+			</publicationStmt>
+			<sourceDesc>
+				<listWit>
+					<witness xml:id="sfe-1904-002__1904.xml">sfe-1904-002__1904.xml</witness>
+					<witness xml:id="sfe-1904-002__1906.xml">sfe-1904-002__1906.xml</witness>
+					<witness xml:id="sfe-1904-002__1911.xml">sfe-1904-002__1911.xml</witness>
+					<witness xml:id="sfe-1904-002__1920.xml">sfe-1904-002__1920.xml</witness>
+					<witness xml:id="sfe-1904-002__1922.xml">sfe-1904-002__1922.xml</witness>
+					<witness xml:id="sfe-1904-002__1924.xml">sfe-1904-002__1924.xml</witness>
+					<witness xml:id="sfe-1904-002__1925.xml">sfe-1904-002__1925.xml</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<ab><app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>Formel</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">Anzahl</rdg>
+				</app> aufzählt) beseitigten Einfälle betrachtet er aber als Abkömmlinge der
+				verdrängten psychischen Gebilde (Gedanken und Regungen <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>),</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">)</rdg>
+				</app> als Entstellungen derselben infolge des gegen ihre Reproduktion bestehenden
+				Widerstandes. Je <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>größer</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">grösser</rdg>
+				</app> der Widerstand, desto ausgiebiger diese <app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1925.xml"
+						>Entstellung.</lem>
+					<rdg wit="#sfe-1904-002__1924.xml">Entstehung</rdg>
+				</app> In dieser Beziehung der unbeabsichtigten Einfälle zum verdrängten psychischen
+				Material ruht nun ihr Wert für die therapeutische Technik. Wenn man ein Verfahren
+				besitzt, welches ermöglicht, von den Einfällen aus zu dem Verdrängten, von den
+				Entstellungen zum Entstellten zu gelangen, so kann man auch ohne Hypnose das früher <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>Unbewußte</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">unbewusste</rdg>
+				</app> im Seelenleben dem <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>Bewußtsein</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg>
+				</app> zugänglich machen. Freud hat darauf eine Deutungskunst ausgebildet, welcher
+				diese Leistung zufällt, die gleichsam aus den Erzen der unbeabsichtigten Einfälle
+				den Metallgehalt an verdrängten Gedanken darstellen soll. Objekt dieser
+				Deutungsarbeit sind nicht allein die <app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>Einfälle</lem>
+					<rdg wit="#sfe-1904-002__1906.xml">Einfalle</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>des</lem>
+					<rdg
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+						>der</rdg>
+				</app> Kranken, sondern auch seine Träume, die den direktesten Zugang zur Kenntnis
+				des <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>Unbewußten</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">Unbewussten</rdg>
+				</app> eröffnen, seine unbeabsichtigten, wie planlosen Handlungen
+				(Symptomhandlungen) und die Irrungen seiner Leistungen im Alltagsleben <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>(</lem>
+					<rdg wit="#sfe-1904-002__1904.xml"/>
+				</app> Versprechen, Vergreifen u. <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>dgl</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">dergl</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>.).</lem>
+					<rdg wit="#sfe-1904-002__1906.xml">..)</rdg>
+				</app> Die Details dieser Deutungs- oder Übersetzungstechnik sind von Freud noch
+				nicht veröffentlicht <app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>worden</lem>
+					<rdg wit="#sfe-1904-002__1911.xml">werden</rdg>
+				</app> . Es sind nach seinen Andeutungen eine Reihe von empirisch gewonnenen Regeln,
+				wie aus den Einfällen das <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>unbewußte</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">unbewusste</rdg>
+				</app> Material zu konstruieren ist, Anweisungen, wie man es zu verstehen habe, <app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>wenn</lem>
+					<rdg wit="#sfe-1904-002__1922.xml">Wenn</rdg>
+				</app> die Einfälle des Patienten versagen, und Erfahrungen über die <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>wichtigsten</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">richtigsten</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>typischen Widerstände, die sich im Laufe einer solchen Behandlung
+						einstellen</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">typischen Widerstände, die sich im Laufe
+						einer solchen Behandlung einstellen</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>.</lem>
+					<rdg wit="#sfe-1904-002__1904.xml"/>
+				</app> Ein umfangreiches Buch über <app>
+					<lem
+						wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1925.xml #sfe-1904-002__1924.xml #sfe-1904-002__1906.xml"/>
+					<rdg wit="#sfe-1904-002__1904.xml">die</rdg>
+				</app> „Traumdeutung <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>“,</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">“</rdg>
+				</app> 1900 von Freud publiziert, ist als Vorläufer einer solchen Einführung in die
+				Technik anzusehen. An die Person, die man mit Vorteil der Psychoanalyse unterziehen
+				soll, sind mehrfache Forderungen zu stellen. Sie <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>muß</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">muss</rdg>
+				</app> erstens eines psychischen Normalzustandes fähig sein <app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1925.xml"
+						>;</lem>
+					<rdg wit="#sfe-1904-002__1924.xml">,</rdg>
+				</app> in Zeiten der Verworrenheit oder melancholischer Depression ist auch bei
+				einer Hysterie nichts auszurichten. Man darf ferner ein gewisses <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>Maß</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">Maass</rdg>
+				</app> natürlicher Intelligenz und ethischer Entwicklung <app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>fordern</lem>
+					<rdg wit="#sfe-1904-002__1922.xml">fördern</rdg>
+				</app> ; bei wertlosen Personen <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>läßt</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">lässt</rdg>
+				</app> den Arzt bald das Interesse im Stiche, welches ihn zur Vertiefung in das <app>
+					<lem wit="#sfe-1904-002__1925.xml">Seelenlebens</lem>
+					<rdg
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml"
+						>Seelenleben</rdg>
+				</app> des Kranken befähigt. Ausgeprägte <app>
+					<lem
+						wit="#sfe-1904-002__1922.xml #sfe-1904-002__1911.xml #sfe-1904-002__1925.xml #sfe-1904-002__1924.xml #sfe-1904-002__1904.xml #sfe-1904-002__1906.xml"/>
+					<rdg wit="#sfe-1904-002__1920.xml">(</rdg>
+				</app> Charakterverbildungen, Züge von wirklich degenerativer Konstitution <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>äußern</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">äussern</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>sich bei der Kur als Quelle von kaum zu überwindenden Widerständen.
+						Insoweit setzt überhaupt die Konstitution eine Grenze für die Heilbarkeit
+						durch Psychotherapie. Auch eine Altersstufe in der Nähe des fünften
+						Dezenniums schafft ungünstige Bedingungen für die Psychoanalyse. Die Masse
+						des psychischen Materials ist dann nicht mehr zu bewältigen, die zur
+						Herstellung erforderliche Zeit wird zu lang</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">sich bei der Kur als Quelle von kaum zu
+						überwindenden Widerständen. Insoweit setzt überhaupt die Konstitution eine
+						Grenze für die Heilbarkeit durch Psychotherapie. Auch eine Altersstufe in
+						der Nähe des fünften Dezenniums schafft ungünstige Bedingungen für die
+						Psychoanalyse. Die Masse des psychischen Materials ist dann nicht mehr zu
+						bewältigen, die zur Herstellung erforderliche Zeit wird zu lang</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>,</lem>
+					<rdg wit="#sfe-1904-002__1904.xml"/>
+				</app> und die Fähigkeit, psychische Vorgänge rückgängig zu machen, beginnt zu
+				erlahmen. Trotz aller dieser Einschränkungen ist die Anzahl der für die
+				Psychoanalyse geeigneten Personen eine <app>
+					<lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">außerordentlich
+						große</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">ausserordentlich grosse</rdg>
+					<rdg
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+						>außerordentlich große</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1925.xml #sfe-1904-002__1924.xml"/>
+					<rdg
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+						>,</rdg>
+				</app> und die Erweiterung unseres therapeutischen Könnens durch dieses Verfahren
+				nach den Behauptungen <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>Freuds</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">Freud’s</rdg>
+				</app> eine sehr beträchtliche. Freud beansprucht lange Zeiträume, <app>
+					<lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">ein halbes</lem>
+					<rdg
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+						>½</rdg>
+				</app> Jahr bis <app>
+					<lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">drei</lem>
+					<rdg
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+						>3</rdg>
+				</app> Jahre für eine wirksame Behandlung; er gibt aber die Auskunft, <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>daß</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">dass</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>er bisher infolge verschiedener leicht zu erratender Umstände meist nur in
+						die Lage gekommen ist, seine Behandlung an sehr schweren Fällen zu erproben,
+						Personen mit vieljähriger Krankheitsdauer und völliger Leistungsunfähigkeit,
+						die</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">er bisher infolge verschiedener leicht zu
+						erratender Umstände meist nur in die Lage gekommen ist, seine Behandlung an
+						sehr schweren Fällen zu erproben, Personen mit vieljähriger Krankheitsdauer
+						und völliger Leistungsunfähigkeit, die</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>,</lem>
+					<rdg wit="#sfe-1904-002__1904.xml"/>
+				</app> durch alle Behandlungen getäuscht, gleichsam eine letzte Zuflucht bei seinem
+				neuen und viel <app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>angezweifelten</lem>
+					<rdg wit="#sfe-1904-002__1920.xml">angezweifeltem</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>Verfahren gesucht haben</lem>
+					<rdg wit="#sfe-1904-002__1922.xml">Verfahren gesucht haben</rdg>
+				</app>
+				<app>
+					<lem
+						wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>.</lem>
+					<rdg wit="#sfe-1904-002__1922.xml"/>
+				</app> In Fällen leichterer Erkrankung dürfte sich die Behandlungsdauer sehr
+				verkürzen und ein <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>außerordentlicher</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">ausserordentlicher</rdg>
+					<rdg wit="#sfe-1904-002__1922.xml">außerodentlicher</rdg>
+				</app> Gewinn an Vorbeugung für die Zukunft erzielen lassen <app>
+					<lem
+						wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+						>.“</lem>
+					<rdg wit="#sfe-1904-002__1904.xml">“.</rdg>
+				</app>
+			</ab>
+		</body>
+	</text>
 </TEI>
