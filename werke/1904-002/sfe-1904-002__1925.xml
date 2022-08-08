@@ -4,7 +4,8 @@
          <titleStmt>
             <title type="main">Die Freudsche psychoanalytische Methode (1904-002/1925)</title>
             <title type="short">GS 6</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische
+               Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -25,11 +26,13 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                  Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
             <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  Faksimile-Ausgabe, Bibliografie</resp>
                <name>Blatow, Arkadi</name>
             </respStmt>
             <respStmt>
@@ -56,36 +59,49 @@
             <date when="2022">2022</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
-                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
-                     gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
-                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+                     vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für
+                     beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                     Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                     nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                     oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder
+                     technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen,
+                     was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
-                     Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
-                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen.
-                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+                     verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die
+                     jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie
+                     Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des
+                     Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
          <seriesStmt xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
-            <title type="work">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
+            <title type="work">Freud, Sigmund (1904-002; 1904a): Die Freudsche psychoanalytische
+               Methode</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische
+               Gesamtausgabe</title>
+            <idno type="url"
+               >https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
+            <idno type="api"
+               >https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
          </seriesStmt>
          <sourceDesc>
             <listBibl>
                <bibl xml:id="bibl__b973fb31-a413-4c3a-9793-67e634cc3c9c">
                   <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
                   <title type="short">GS 6</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische
+                     Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                   <editor>
                      <name>Blatow, Arkadi</name>
@@ -96,20 +112,24 @@
                   </editor>
                   <date when="2022">2022</date>
                   <idno type="signature">1904-002/1925</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-6</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/b973fb31-a413-4c3a-9793-67e634cc3c9c</idno>
+                  <idno type="url"
+                     >https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-6</idno>
+                  <idno type="api"
+                     >https://www.freud-edition.net/jsonapi/node/manifestation/b973fb31-a413-4c3a-9793-67e634cc3c9c</idno>
                </bibl>
             </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api"
+                     >https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
                      <bibl>
                         <title>Die Freudsche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                           Sigmund</author>
                         <date when="1925-01-01">1925-01-01</date>
                         <name>Text in Werkausgabe</name>
                         <bibl xml:id="bibl__0a4abdfe-7148-4e6e-a367-91194009eb1c">
@@ -119,8 +139,10 @@
                            <date when="1925-01-01">1925-01-01</date>
                            <biblScope unit="volume">6. Band</biblScope>
                            <biblScope unit="page" to="10">10</biblScope>
-                           <editor ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</editor>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/0a4abdfe-7148-4e6e-a367-91194009eb1c</idno>
+                           <editor ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                              A.J.</editor>
+                           <idno type="api"
+                              >https://www.freud-edition.net/jsonapi/node/bibliography/0a4abdfe-7148-4e6e-a367-91194009eb1c</idno>
                            <name>Werkausgabe</name>
                         </bibl>
                      </bibl>
@@ -129,9 +151,7 @@
                <physDesc>
                   <objectDesc>
                      <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
+                        <support> Buch aus <material>Papier</material> in Druckschrift . </support>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
@@ -185,11 +205,117 @@
       </profileDesc>
    </teiHeader>
    <text>
-      <body><div>
+      <body>
+         <div>
 
             <pb n="1" xml:id="page__577272aa-1034-469d-9681-6fc381cb43d0"/>
-            <fw type="pageNum">[3]</fw> <p rendition="h1"><title>DIE FREUDSCHE PSYCHOANALYTISCHE<lb/> METHODE<lb break="paragraph"/></title></p> <p><hi rendition="#em">Zuerst erschienen in: Löwenfeld, Psychische Zwangserscheinungen, 1904 (ohne Nennung des Verfassers); dann in der Ersten Folge der „Sammlung kleiner Schriften zur Neurosenlehre“.</hi><lb break="paragraph"/></p> <p>„Die eigentümliche Methode der Psychotherapie, die <hi rendition="#smallcaps">Freud</hi><lb/>
-               ausübt und als <rs type="keyword" ref="#frd_kw_2111"><app>
+            <fw type="pageNum">[3]</fw>
+            <p rendition="h1"><title>DIE FREUDSCHE PSYCHOANALYTISCHE<lb/> METHODE<lb
+                     break="paragraph"/></title></p>
+            <p><hi rendition="iatlic">Textappart. Zur Veröffentlichungsgeschichte. Der Text erschien
+                  zuerst 1904 ohne Nennung des Verfassers in<rs type="person" ref="frd_person_41">
+                     Leopold Löwenfelds</rs> Band <rs type="bibl" n="" ref="zotero_VRCW8N9U"
+                     >Psychische Zwangserscheinungen</rs>, dann in der ersten Folge der Sammlung
+                  kleiner Schriften zur Neurosenlehre (S1). Der Erstveröffentlichung war nach Ende
+                  des kurzen Beitrags ein nachwortartiger Kommentar von Löwenfeld beigegeben:
+               </hi></p>
+            <p>Die vorstehenden Darlegungen meines hochverehrten Wiener<lb/> Kollegen veranlassen
+               mich zum Schlusse zu einer vergleichenden<lb/> Würdigung der Hypnotherapie und des
+               psycho-analytischen Ver<lb break="no"/>fahrens in ihrer Bedeutung für die Behandlung
+               von Zwansgser<lb break="no"/>scheinungen.<lb break="paragraph"/></p>
+            <p>Die hypnotische Suggestivtherapie bildet, wie wir schon an<lb break="no"/>deuteten,
+               kein Radikalmittel gegen Zwangszustände; sie entspricht<lb/> nicht der Indicatio
+               causalis, sondern nur der Indicatio symptomatica.<lb/> Sie wendet sich gegen die
+               einzelnen Zwangsphänomene, indem sie<lb/> in das psychische Leben einen Faktor
+               einführt, welcher ein Gegen<lb break="no"/>gewicht gegen diese bildet, sie mehr und
+               mehr unterdrückt und<lb/> schliesslich (im günstigen Falle) auch völlig beseitigt.<lb
+                  break="paragraph"/></p>
+            <p>Das <hi rendition="#smallcaps">Freud’</hi>sche Verfahren bildet dagegen
+               gewissermaassen eine<lb/> Radikalkur; es wendet sich gegen die im Unterbewussten
+               liegenden<lb/> Wurzeln des Zwangsvorstellungsleidens und sucht diese zu
+               beseitigen.<lb/> Trotz dieser auffälligen Verschiedenartigkeit des Wirkungsmodus<lb/>
+               beider Verfahren entfernen sich die Heilerfolge derselben, soweit<lb/> man dies
+               derzeit beurteilen kann, nicht sehr wesentlich von einander.<lb/> Was <hi
+                  rendition="#smallcaps">Freud</hi> als Ziel seiner Behandlung betrachtet, die
+               praktische<lb/> Genesung, i. e. der Wiederherstellung der Leistungs- und
+                  Genussfähig<lb break="no"/>keit, lässt sich zweifellos auch durch Hypnotherapie
+               erreichen. In<lb/> einer Anzahl von Fällen meiner Beobachtung wurde die verloren<lb/>
+               gegangene Arbeitsfähigkeit durch die hypnotische Behandlung wieder<lb
+                  break="paragraph"/><pb n="8" xml:id="page__782e45a0-f6ee-4b04-b2b5-37a9bdfb7c1b"
+               />hergestellt. Ich verweise zum Belege auf die Beobachtungen 73 u. 78.<lb/> Hierbei
+               handelte es sich nicht lediglich um transitorische Besserungen.<hi
+                  rendition="#footnote-index">1)</hi><lb break="paragraph"/></p>
+            
+            
+            <p>Wie lässt sich dies erklären? Der normal funktionierende<lb/> psychische Organismus
+               besitzt, wie schon an früherer Stelle hervor<lb break="no"/>gehoben wurde, Kräfte,
+               welche es ihm ermöglichen, Vorstellungen<lb/> von Zwangscharakter zu überwinden. Je
+               grösser die In- und Exten<lb break="no"/>sität des Zwangsvorstellens ist, umsoweniger
+               können sich diese Kräfte,<lb/> die man als psychische Alexine bezeichnen könnte,
+               geltend machen.<lb/> Wenn es uns gelingt, durch die hypnotische Suggestion die
+               Zwangs<lb break="no"/>vorstellungen eines Kranken mehr und mehr zu reduzieren,
+               befreien<lb/> wir denselben nicht nur momentan von einem Teile seiner Be<lb
+                  break="no"/>schwerden, wir machen zugleich die seinem psychischen Organismus<lb/>
+               innewohnenden Schutzkräfte in gewissem Maasse frei, welche ihm<lb/> die Bekämpfung
+               und Überwindung der Zwangsvorstellungen ermög<lb break="no"/>lichen. Die
+               hypnotisch-suggestive Beseitigung der Zwangsvorstellung<lb/> hat daher nicht
+               lediglich die Bedeutung einer momentanen Erleichte<lb break="no"/>rung, sie schafft
+               mehr und mehr auch einen Status, welcher in ge<lb break="no"/>wissem Maasse gegen die
+               Neuproduktion von Zwangsvorstellungen,<lb/> resp. die Wiederkehr solcher schützt.<lb
+                  break="paragraph"/></p>
+            <p>Wenn die Erfahrungen <hi rendition="#smallcaps">Freud’s</hi> in Betreff der
+               Hypnotherapie<lb/> ungünstiger sind, so dürfte sich dies daraus erklären, dass er
+               schon<lb/> seit einer Reihe von Jahren von der Anwendung dieser Methode ab<lb
+                  break="no"/>gekommen ist und daher auch nicht in der Lage war, die Fort<lb
+                  break="no"/>schritte der Hypnotisationstechnik sich nutzbar zu machen; diese<lb/>
+               ermöglichen es uns heutzutage, auch bei Neurotikern mit ganz ge<lb break="no"/>ringen
+               Ausnahmen eine Hypnose zu erzielen. Der Vorzug, welchen<lb/> die psycho-analytische
+               Methode der Hypnotherapie gegenüber besitzt,<lb/> scheint mir demnach lediglich darin
+               zu liegen, dass erstere in der Ver<lb break="no"/>hütung von Rezidiven mehr leistet,
+               als letztere. Diesem Vorzuge<lb/> stehen jedoch nicht zu unterschätzende
+               Schattenseiten gegenüber,<lb/> Schattenseiten, die allerdings z. T. nicht für den
+               Autor, sondern<lb/> nur für die übrigen Ärzte in Betracht kommen. Der
+               Hypnotherapie<lb/> sind nicht lediglich gewisse, durch einen besonderen
+               Mechanismus<lb/> verursachte oder im Bereiche einzelner Neurosen vorkommende
+                  Zwangs<lb break="no"/>erscheinungen zugänglich. Sie kann, wie wir schon erwähnten,
+                  bei<lb break="paragraph"/><pb n="9"
+                  xml:id="page__227c279e-b0d7-4888-9158-e3895dd21d8f"/> Hysterie, Neurasthenie,
+               Zwangs- und Angstneurose, sowie Melancholie<lb/> in gleicher Weise Anwendung finden.
+               Die Domäne des <hi rendition="#smallcaps">Freud</hi>´schen<lb/> Verfahrens bilden
+               dagegen lediglich die Hysterie und die Zwangs<lb break="no"/>neurose, und auch im
+               Gebiete dieser Neurosen ist dasselbe nach des<lb/> Autors Erklärung nur in
+               beschränktem Maasse verwertbar. Wenn<lb/>
+               <hi rendition="#smallcaps">Freud</hi> auch die Zahl der Fälle, welche sich für seine
+               Methode<lb/> eignen, für sehr gross erachtet, so dürfte diese Ansicht für die<lb/>
+               Hysterie ungleich mehr zutreffen als für die Zwangszustände.<lb break="paragraph"
+               /></p>
+            <note type="footnote"><hi rendition="#footnote-index">1)</hi> Ähnliche Erfahrungen
+               wurden von anderer Seite, so insbesondere von<lb/> v. <hi rendition="#smallcaps"
+                  >Bechterew</hi> (Therapeutische Wochenschrift, No. 2., 1895) mitgeteilt.<lb
+                     break="paragraph"/></note>
+            
+            
+            <p>Ziehen wir weiter die grossen Schwierigkeiten der Technik des<lb/>
+               psycho-analytischen Verfahrens in Betracht, die der Autor wohl nur<lb/> aus
+               Bescheidenheit nicht genügend hervorhebt — eine erfolgreiche<lb/> Handhabung der
+               Methode dürfte wohl erst nach jahrelanger Ein<lb break="no"/>übung zu erwarten sein
+               —, die lange Behandlungszeit, welche in<lb/> schweren Fällen erforderlich ist und die
+               ausserordentlichen Anforde<lb break="no"/>rungen, die dabei an die Zeit und
+               Arbeitskraft des Arztes gestellt<lb/> werden, so ist es wohl selbstverständlich, dass
+               die Vorteile des Ver<lb break="no"/>fahrens nur einem sehr beschränkten
+               Patientenkreise und überdies<lb/> nur solchen aus der bestsituirten Klasse zu Gute
+               kommen können.<lb break="paragraph"/></p>
+            <p>Das Verdienst des Autors wird hierdurch in keiner Weise ge<lb break="no"/>schmälert;
+               vielleicht gelingt es ihm noch im Laufe der Zeit, sein<lb/> Verfahren zu vereinfachen
+               und dadurch Ärzten und Patienten zu<lb break="no"/>gänglicher zu machen. Zur Zeit
+               sind die Ärzte jedenfalls noch auf<lb/> die Anwendung der übrigen
+               psychotherapeutischen Methoden ange<lb break="no"/>wiesen, und es ist gewiss
+               erfreulich, dass wir auch hiermit recht<lb/> Erspriessliches zu leisten vermögen.<lb
+                  break="paragraph"/></p>
+            
+            
+            <p>„Die eigentümliche Methode der Psychotherapie, die <hi rendition="#smallcaps"
+                  >Freud</hi><lb/> ausübt und als <rs type="keyword" ref="#frd_kw_2111"><app>
                      <lem
                         wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                         >Psychoanalyse</lem>
@@ -222,7 +348,8 @@
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >größeren</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">grösseren</rdg>
-               </app> Anzahl<lb/> von Kranken.<lb break="paragraph"/></p> <p>Das kathartische Verfahren setzte voraus, <app>
+               </app> Anzahl<lb/> von Kranken.<lb break="paragraph"/></p>
+            <p>Das kathartische Verfahren setzte voraus, <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >daß</lem>
@@ -230,8 +357,9 @@
                </app> der Patient hyp<lb break="no"/>notisierbar sei<app>
                   <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">,</lem>
                   <rdg
-                     wit="#sfe-1904-002__1911.xml #sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml">sei und</rdg>
-                  
+                     wit="#sfe-1904-002__1911.xml #sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
+                     >sei und</rdg>
+
                </app> und beruhte auf der Erweiterung des <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
@@ -311,9 +439,9 @@
                </app> nicht ein einzelner<lb/> („traumatischer“) Eindruck, sondern meist eine schwer
                zu über<lb break="no"/>sehende Reihe von solchen an der Entstehung des Symptoms<lb/>
                beteiligt sei.<lb break="paragraph"/></p>
-         
-            
-              <p>Der Hauptcharakter der kathartischen Methode, der sie <app>
+
+
+            <p>Der Hauptcharakter der kathartischen Methode, der sie <app>
                   <lem
                      wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >in</lem>
@@ -347,8 +475,9 @@
                      >Verlaufe</lem>
                   <rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Verlauf</rdg>
                </app> zu bringen, der in die Symptombildung eingemündet hat.<lb break="paragraph"
-               /></p> <p>Die Abänderungen, welche <hi rendition="#smallcaps">Freud</hi> an dem kathartischen Ver<lb
-                  break="no"/>fahren <hi rendition="#smallcaps"><app>
+               /></p>
+            <p>Die Abänderungen, welche <hi rendition="#smallcaps">Freud</hi> an dem kathartischen
+                  Ver<lb break="no"/>fahren <hi rendition="#smallcaps"><app>
                      <lem
                         wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                         >Breuers</lem>
@@ -356,14 +485,16 @@
                   </app></hi> vornahm, waren zunächst Änderungen der<lb/> Technik; diese brachten
                aber neue Ergebnisse und haben in<lb/> weiterer Folge zu einer andersartigen, wiewohl
                der früheren<lb/> nicht widersprechenden<app>
-                  <lem wit="#sfe-1904-002__1925.xml #sfe-1904-002__1924.xml #sfe-1904-002__1904.xml">nicht widersprechenden Auffassung</lem>
+                  <lem wit="#sfe-1904-002__1925.xml #sfe-1904-002__1924.xml #sfe-1904-002__1904.xml"
+                     >nicht widersprechenden Auffassung</lem>
                   <rdg
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
                      >,</rdg>
                </app> Auffassung der therapeutischen Arbeit<lb/> genötigt.<lb break="paragraph"
-               /></p> <p>Hatte die kathartische Methode bereits auf die Suggestion<lb/> verzichtet, so unternahm <hi
-                  rendition="#smallcaps">Freud</hi> den weiteren Schritt, auch die<lb/> Hypnose
-               aufzugeben. Er behandelt gegenwärtig<note type="e" resp="chuber"
+               /></p>
+            <p>Hatte die kathartische Methode bereits auf die Suggestion<lb/> verzichtet, so
+               unternahm <hi rendition="#smallcaps">Freud</hi> den weiteren Schritt, auch die<lb/>
+               Hypnose aufzugeben. Er behandelt gegenwärtig<note type="e" resp="chuber"
                      ><term>gegenwärtig</term> Zur Zeit der Entstehung des Textes: 1904</note> seine
                   Kranken,<lb break="paragraph"/><pb n="3"
                   xml:id="page__2e11f984-bba9-4fa4-bbc9-4b9faf02db24"/><fw type="pageNum"
@@ -395,9 +526,9 @@
                eine sich jede Muskelanstrengung und jeden ablenken<lb break="no"/>den Sinneseindruck
                erspart, die sie in der Konzentration ihrer<lb/> Aufmerksamkeit auf ihre eigene
                seelische Tätigkeit stören könnten.<lb break="paragraph"/></p>
-         
-            
-              <p>Da das <app>
+
+
+            <p>Da das <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Hypnotisiertwerden</lem>
@@ -440,8 +571,9 @@
                   <rdg wit="#sfe-1904-002__1904.xml">liess</rdg>
                </app>. Wenn für diesen Aus<lb break="no"/>fall kein Ersatz zu schaffen war, konnte
                auch von einer thera<lb break="no"/>peutischen Einwirkung keine Rede sein.<lb
-                  break="paragraph"/></p> <p>Einen solchen völlig ausreichenden Ersatz fand nun <hi rendition="#smallcaps">Freud</hi><lb/> in
-               den Einfällen der Kranken, <app>
+                  break="paragraph"/></p>
+            <p>Einen solchen völlig ausreichenden Ersatz fand nun <hi rendition="#smallcaps"
+                  >Freud</hi><lb/> in den Einfällen der Kranken, <app>
                   <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">das heißt</lem>
                   <rdg
                      wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
@@ -547,9 +679,9 @@
                welche diese Ver<lb break="no"/>drängung herbeigeführt haben, meint er in dem <hi
                   rendition="#smallcaps">Widerstand</hi>,<lb/> der sich gegen die Wiederherstellung
                erhebt, zu verspüren.<lb break="paragraph"/></p>
-         
-            
-              <p>Das Moment des Widerstandes ist eines der Fundamente seiner<lb/> Theorie geworden.
+
+
+            <p>Das Moment des Widerstandes ist eines der Fundamente seiner<lb/> Theorie geworden.
                Die sonst unter allerlei Vorwänden (wie sie<lb/> die obige <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
@@ -562,14 +694,15 @@
                      >),</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">)</rdg>
                </app> als Entstellungen derselben infolge des gegen<lb/> ihre Reproduktion
-               bestehenden Widerstandes.<lb break="paragraph"/></p> <p>Je größer <app>
-                     <lem
-                        wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
-                        >größer</lem>
-                     <rdg wit="#sfe-1904-002__1904.xml">grösser</rdg>
-                  </app> der Widerstand, desto ausgiebiger diese Entstellung.<lb/> In dieser Beziehung der
-               unbeabsichtigten Einfälle zum ver<lb break="no"/>drängten psychischen Material ruht
-               nun ihr Wert für die thera<lb break="no"/><pb n="5"
+               bestehenden Widerstandes.<lb break="paragraph"/></p>
+            <p>Je größer <app>
+                  <lem
+                     wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
+                     >größer</lem>
+                  <rdg wit="#sfe-1904-002__1904.xml">grösser</rdg>
+               </app> der Widerstand, desto ausgiebiger diese Entstellung.<lb/> In dieser Beziehung
+               der unbeabsichtigten Einfälle zum ver<lb break="no"/>drängten psychischen Material
+               ruht nun ihr Wert für die thera<lb break="no"/><pb n="5"
                   xml:id="page__066d3723-12a1-4708-8bde-56a5c43b8e51"/><fw type="pageNum"
                >7</fw>peutische Technik. Wenn man ein Verfahren besitzt, welches<lb/> ermöglicht,
                von den Einfällen aus zu dem Verdrängten, von den<lb/> Entstellungen zum Entstellten
@@ -585,9 +718,9 @@
                      >Bewußtsein</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg>
                </app> zugänglich machen.<lb break="paragraph"/></p>
-         
-            
-              <p><hi rendition="#smallcaps">Freud</hi> hat darauf eine <hi rendition="#smallcaps"
+
+
+            <p><hi rendition="#smallcaps">Freud</hi> hat darauf eine <hi rendition="#smallcaps"
                   >Deutungskunst</hi> ausgebildet, welcher<lb/> diese Leistung zufällt, die
                gleichsam aus den Erzen der unbeab<lb break="no"/>sichtigten Einfälle den
                Metallgehalt an verdrängten Gedanken<lb/> darstellen soll. Objekt dieser
@@ -643,7 +776,9 @@
                   <rdg wit="#sfe-1904-002__1904.xml">die „Traumdeutung“</rdg>
                </app> 1900 von <hi rendition="#smallcaps">Freud</hi> publiziert, ist als
                Vorläufer<lb/> einer solchen Einführung in die Technik anzusehen.<lb
-                  break="paragraph"/></p> <p>Man könnte aus diesen Andeutungen über die Technik der<lb/> psychoanalytischen Methode <app>
+                  break="paragraph"/></p>
+            <p>Man könnte aus diesen Andeutungen über die Technik der<lb/> psychoanalytischen
+               Methode <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >schließen</lem>
@@ -688,9 +823,9 @@
                      >dagegen</rdg>
                </app> nur unvoll<lb break="no"/>ständige Auskünfte und nur vorübergehende
                   Erfolge.<lb break="paragraph"/></p>
-         
-            
-              <p>Die Aufgabe, welche die psychoanalytische Methode zu lösen<lb/> bestrebt ist, <app>
+
+
+            <p>Die Aufgabe, welche die psychoanalytische Methode zu lösen<lb/> bestrebt ist, <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >läßt</lem>
@@ -761,7 +896,8 @@
                      >Kranken,</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">Kranken</rdg>
                </app><lb/> fortbestehen können, ohne ihn zu einem Kranken zu stempeln.<lb
-                  break="paragraph"/></p> <p>Das therapeutische Verfahren <app>
+                  break="paragraph"/></p>
+            <p>Das therapeutische Verfahren <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >bleibt,</lem>
@@ -822,9 +958,9 @@
                   <rdg wit="#sfe-1904-002__1904.xml">zeitigt,</rdg>
                </app> und auf die Fortdauer<lb/> der Symptome eine Zeitlang keine Rücksicht nehmen
                   kann.<lb break="paragraph"/></p>
-         
-            
-              <p>An die Person, die man mit Vorteil der Psychoanalyse unter<lb break="no"/>ziehen
+
+
+            <p>An die Person, die man mit Vorteil der Psychoanalyse unter<lb break="no"/>ziehen
                soll, sind mehrfache Forderungen zu stellen. Sie <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
@@ -863,10 +999,11 @@
                   <rdg wit="#sfe-1904-002__1904.xml">lang</rdg>
                </app> und die Fähigkeit, psychische Vorgänge rückgängig zu<lb/> machen, beginnt zu
                   erlahmen.<lb break="paragraph"/></p>
-         
+
             <pb n="8" xml:id="page__e28fcbfa-388c-4698-a1ff-2b81aa895f3a"/>
-            <fw type="pageNum">10</fw> <p>Trotz aller dieser Einschränkungen ist die Anzahl der für die<lb/> Psychoanalyse geeigneten
-               Personen eine<app>
+            <fw type="pageNum">10</fw>
+            <p>Trotz aller dieser Einschränkungen ist die Anzahl der für die<lb/> Psychoanalyse
+               geeigneten Personen eine<app>
                   <lem
                      wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
                      >außerordentlich große</lem>
@@ -925,7 +1062,10 @@
                </app>
                <lb break="paragraph"/>
             </p>
-         
-      </div></body>
+            
+           
+
+         </div>
+      </body>
    </text>
 </TEI>
