@@ -208,21 +208,20 @@
       <body>
          <div>
 
-            <pb n="1" xml:id="page__577272aa-1034-469d-9681-6fc381cb43d0"/>
-            <fw type="pageNum">[3]</fw>
-            <p rendition="h1"><title>DIE FREUDSCHE PSYCHOANALYTISCHE<lb/> METHODE<lb
-                     break="paragraph"/></title></p>
-            <p><hi rendition="iatlic">Textentstehung und Publikationsgeschichte. Als Mitteilung des
-                  Autors wurde der kurze Text in<rs type="person" ref="frd_person_41"> Leopold
-                     Löwenfelds</rs> Band über <rs type="bibl" n="" ref="zotero_VRCW8N9U">Psychische
-                     Zwangserscheinungen</rs> veröffentlicht, welcher noch 1904 von Freud
-                  rezensiert wurde.  Zuvor war Freuds Schrift “Über den Traum” (1901) in der Reihe
-                  “Grenzfragen des Nerven- und Seelenlebens” publiziert worden, welche von Leopold
-                  Löwenfeld und Hans Kurella herausgegeben wurde. Ein Blick auf das
-                  Inhaltsverzeichnis der Reihe zeigt die thematische und personelle Verschränkung
-                  auf dem Gebiet der Traumforschung, Sexual- und Psychopathologie um 1900. Der
-                  Erstveröffentlichung von der "Freuschen Psychoanalytischen Methode" war nach Ende
-                  des  Beitrags ein nachwortartiger Kommentar von Löwenfeld beigegeben [sollte hier
+            <p><hi rendition="iatlic"><hi rendition="bold">Textentstehung und
+                     Publikationsgeschichte</hi>. Als „Mitteilung des Autors“ wurde der kurze Text
+                     in<rs type="person" ref="frd_person_41"> Leopold Löwenfelds</rs> Band über <rs
+                     type="bibl" n="" ref="zotero_VRCW8N9U">Psychische Zwangserscheinungen</rs>
+                  veröffentlicht, welcher noch 1904 von Freud rezensiert wurde. Zuvor war Freuds
+                  Schrift <title>Über den Traum</title> (1901) in der Reihe <title>Grenzfragen des
+                     Nerven- und Seelenlebens</title> publiziert worden, welche von Leopold
+                  Löwenfeld und Hans Kurella herausgegeben wurde. Ein Blick auf das <ref
+                     target="https://archive.org/details/Freud_1901_Ueber_Traum/page/n1/mode/2up"
+                        ><term>Inhaltsverzeichnis</term></ref> der Reihe zeigt die thematische und
+                  personelle Verschränkung auf dem Gebiet der frühen Traumforschung, Sexual- und
+                  Psychopathologie um 1900. Der Erstveröffentlichung der<title> Freudschen
+                     Psychoanalytischen Methode</title> war nach Ende des Beitrags ein
+                  nachwortartiger Kommentar von Löwenfeld beigegeben [sollte hier
                   eingefügt/angegeben werden]: </hi></p>
             <p>Die vorstehenden Darlegungen meines hochverehrten Wiener<lb/> Kollegen veranlassen
                mich zum Schlusse zu einer vergleichenden<lb/> Würdigung der Hypnotherapie und des
@@ -243,11 +242,11 @@
                derzeit beurteilen kann, nicht sehr wesentlich von einander.<lb/> Was <hi
                   rendition="#smallcaps">Freud</hi> als Ziel seiner Behandlung betrachtet, die
                praktische<lb/> Genesung, i. e. der Wiederherstellung der Leistungs- und
-                  Genussfähig<lb break="no"/>keit, lässt sich zweifellos auch durch Hypnotherapie
+               Genussfähig<lb break="no"/>keit, lässt sich zweifellos auch durch Hypnotherapie
                erreichen. In<lb/> einer Anzahl von Fällen meiner Beobachtung wurde die verloren<lb/>
                gegangene Arbeitsfähigkeit durch die hypnotische Behandlung wieder<lb
                   break="paragraph"/><pb n="8" xml:id="page__782e45a0-f6ee-4b04-b2b5-37a9bdfb7c1b"
-               />hergestellt. Ich verweise zum Belege auf die Beobachtungen 73 u. 78.<lb/> Hierbei
+                  />hergestellt. Ich verweise zum Belege auf die Beobachtungen 73 u. 78.<lb/> Hierbei
                handelte es sich nicht lediglich um transitorische Besserungen.<hi
                   rendition="#footnote-index">1)</hi><lb break="paragraph"/></p>
             
@@ -272,7 +271,7 @@
                Hypnotherapie<lb/> ungünstiger sind, so dürfte sich dies daraus erklären, dass er
                schon<lb/> seit einer Reihe von Jahren von der Anwendung dieser Methode ab<lb
                   break="no"/>gekommen ist und daher auch nicht in der Lage war, die Fort<lb
-                  break="no"/>schritte der Hypnotisationstechnik sich nutzbar zu machen; diese<lb/>
+                     break="no"/>schritte der Hypnotisationstechnik sich nutzbar zu machen; diese<lb/>
                ermöglichen es uns heutzutage, auch bei Neurotikern mit ganz ge<lb break="no"/>ringen
                Ausnahmen eine Hypnose zu erzielen. Der Vorzug, welchen<lb/> die psycho-analytische
                Methode der Hypnotherapie gegenüber besitzt,<lb/> scheint mir demnach lediglich darin
@@ -282,8 +281,8 @@
                Autor, sondern<lb/> nur für die übrigen Ärzte in Betracht kommen. Der
                Hypnotherapie<lb/> sind nicht lediglich gewisse, durch einen besonderen
                Mechanismus<lb/> verursachte oder im Bereiche einzelner Neurosen vorkommende
-                  Zwangs<lb break="no"/>erscheinungen zugänglich. Sie kann, wie wir schon erwähnten,
-                  bei<lb break="paragraph"/><pb n="9"
+               Zwangs<lb break="no"/>erscheinungen zugänglich. Sie kann, wie wir schon erwähnten,
+               bei<lb break="paragraph"/><pb n="9"
                   xml:id="page__227c279e-b0d7-4888-9158-e3895dd21d8f"/> Hysterie, Neurasthenie,
                Zwangs- und Angstneurose, sowie Melancholie<lb/> in gleicher Weise Anwendung finden.
                Die Domäne des <hi rendition="#smallcaps">Freud</hi>´schen<lb/> Verfahrens bilden
@@ -317,6 +316,12 @@
                psychotherapeutischen Methoden ange<lb break="no"/>wiesen, und es ist gewiss
                erfreulich, dass wir auch hiermit recht<lb/> Erspriessliches zu leisten vermögen.<lb
                   break="paragraph"/></p>
+
+            <pb n="1" xml:id="page__577272aa-1034-469d-9681-6fc381cb43d0"/>
+            <fw type="pageNum">[3]</fw>
+            <p rendition="h1"><title>DIE FREUDSCHE PSYCHOANALYTISCHE<lb/> METHODE<lb
+                     break="paragraph"/></title></p>
+           
             
             
             <p>„Die eigentümliche Methode der Psychotherapie, die <hi rendition="#smallcaps"
