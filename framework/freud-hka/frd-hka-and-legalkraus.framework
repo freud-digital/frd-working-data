@@ -17,7 +17,7 @@
 								<Integer>4</Integer>
 							</field>
 							<field name="uri">
-								<String>https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng</String>
+								<String>${framework}/schema/tei_all/tei_all.rng</String>
 							</field>
 						</docTypeSchema>
 					</field>
