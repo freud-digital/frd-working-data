@@ -323,7 +323,7 @@
                            wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                            >Löwenfeld</lem>
                         <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">LÖWENFELD</rdg>
-                     </app></hi></rs><note><term>Löwenfeld</term>Leopold Löwenfeld (1847–1923), dt.
+                     </app></hi></rs><note type="e" resp="#chuber"><term>Löwenfeld</term>Leopold Löwenfeld (1847–1923), dt.
                   Psychiater und Sexualpathologe</note> (Lehrbuch der gesamten<lb/> Psychotherapie)
                können Sie nachlesen, <app>
                   <lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">welche</lem>
@@ -367,7 +367,7 @@
                            wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                            >Liébault</lem>
                         <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">LIEBAULT</rdg>
-                     </app></rs></hi><note><term>Liébeault</term>Ambroise-Auguste Liébeault
+                     </app></rs></hi><note type="e" resp="#chuber"><term>Liébeault</term>Ambroise-Auguste Liébeault
                   (1823-1904), frz. Arzt und Psychiater, Vertreter der Suggestionstherapie, mit
                   Bernheim Begründer der Schule von Nancy.</note>, <rs type="person"
                   ref="#frd_person_46"><hi rendition="#smallcaps"><app>
@@ -375,7 +375,7 @@
                            wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                            >Bernheim</lem>
                         <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">BERNHEIM</rdg>
-                     </app></hi></rs><note><term>Bernheim</term>Hippolyte Marie Bernheim
+                  </app></hi></rs><note type="e" resp="#chuber"><term>Bernheim</term>Hippolyte Marie Bernheim
                   (1840-1919), frz. Internist, Psychiater und Neurologe, Vertreter der
                   Suggestionstherapie, Mitglied der Schule von Nancy. Freud übersetzt von ihm ins
                   Dt.: Die Suggestion und ihre Heilwirkung. Leipzig/Wien 1888 und Neue Studien über
@@ -389,7 +389,7 @@
                            wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                            >Moebius</lem>
                         <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">MOEBIUS</rdg>
-                     </app></hi></rs><note><term>Moebius</term>Paul Julius Moebius (1853-1907), dt.
+               </app></hi></rs><note type="e" resp="#chuber"><term>Moebius</term>Paul Julius Moebius (1853-1907), dt.
                   Neurologe und Psychiater.</note> hat uns <app>
                   <lem
                      wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
@@ -439,7 +439,7 @@
                            wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                            >Vischer</lem>
                         <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">VISCHER</rdg>
-                     </app></hi></rs><note><term>Vischer</term>Friedrich Theodor Vischer
+               </app></hi></rs><note type="e" resp="#chuber"><term>Vischer</term>Friedrich Theodor Vischer
                   (1807–1887), deutscher Literaturwissenschaftler, Philosoph, Schriftsteller und
                   Politiker, 1848 gewähltes Mitglied der Frankfurter Nationalversammlung. Freud
                   zitiert mehrfach aus seinem Werk, vor allem aus seiner Faustparodie (1862) und
@@ -452,7 +452,7 @@
                <p><span class="inlinequote">„Ich weiß, das Physikalische<lb/> Wirkt öfters aufs
                      Moralische.“</span><lb break="paragraph"/></p>
             </q>
-            <note><term>„Ich weiß, das Physikalische<lb/> Wirkt öfters aufs Moralische.“</term>Zitat
+            <note type="e" resp="#chuber"><term>„Ich weiß, das Physikalische<lb/> Wirkt öfters aufs Moralische.“</term>Zitat
                aus: Faust. Der Tragödie dritter Teil. Treu im Geiste des zweiten Teils des
                Goetheschen Faust, gedichtet von Deutobold Symbolizetti Allegoriowitsch Mystifizinski
                (I/4, Lieschen).</note>
@@ -567,7 +567,7 @@
                         wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                         >Leonardo</lem>
                      <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">LEONARDO</rdg>
-                  </app></hi><note><term>Leonardo da Vinci</term>Leonardo da Vinci (1452-1519),
+                  </app></hi><note type="e" resp="#chuber"><term>Leonardo da Vinci</term>Leonardo da Vinci (1452-1519),
                   ital. Maler, Bildhauer, Architekt, Anatom und Universalgelehrter.</note>,<lb/>
                arbeitet <hi rendition="#em">per via di porre</hi>; sie setzt nämlich Farbenhäufchen
                hin,<lb/> wo sie früher nicht waren, auf die <app>
@@ -990,7 +990,7 @@
                         wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                         >Janet</lem>
                      <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">JANET</rdg>
-                  </app></rs><note><term>Janet</term>Pierre-Marie-Félix Janet (1859-1947), frz.
+               </app></rs><note type="e" resp="#chuber"><term>Janet</term>Pierre-Marie-Félix Janet (1859-1947), frz.
                   Philosoph, Psychologe, Psychiater und Psychotherapeut, Begründer der dynamischen
                   Psychiatrie, bedeutender Psychotraumatologe.</note>), die<lb/> übrigens in arger
                Schematisierung das hysterische Symptom auf<lb/> die unbewußte <hi rendition="#em"><app>
