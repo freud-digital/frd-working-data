@@ -352,5 +352,6 @@
     </meta>
     <projectTree name="frd-working-data.xpr">
         <folder path="."/>
+        <file name="../../../Downloads/odd_boehm1.odd"/>
     </projectTree>
 </project>
