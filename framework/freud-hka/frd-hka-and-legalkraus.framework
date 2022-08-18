@@ -17,7 +17,7 @@
 								<Integer>4</Integer>
 							</field>
 							<field name="uri">
-								<String>${framework}/schema/tei_all/tei_all.rng</String>
+								<String>${framework}/schema/out/odd_frd-hka.rng</String>
 							</field>
 						</docTypeSchema>
 					</field>
