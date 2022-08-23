@@ -4493,8 +4493,18 @@
                Reihe von psychischen Prozessen,<lb/> auf welche die Entstehung der hysterischen
                Symptome, der Angst-,<lb/> Zwangs- und Wahnideen zurückzuführen ist. Verdichtung
                und<lb/> vor allem Verschiebung sind niemals fehlende Charaktere auch<lb/> dieser
-               anderen Prozesse. Die Umarbeitung aufs Anschauliche bleibt<lb/> hingegen der
-               Traumarbeit eigentümlich. Wenn diese Aufklärung<lb/> den Traum in eine Reihe mit den
+               anderen Prozesse. Die Umarbeitung <app>
+                  <lem
+                     wit="#sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
+                     >aufs</lem>
+                  <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml">auf’s</rdg>
+               </app> Anschauliche bleibt<lb/> hingegen der
+               Traumarbeit <app>
+                  <lem
+                     wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
+                     >eigentümlich</lem>
+                  <rdg wit="#sfe-1901-001__1901.xml">eigenthümlich</rdg>
+               </app>. Wenn diese Aufklärung<lb/> den Traum in eine Reihe mit den
                Bildungen psychischer Er<lb break="no"/>krankung bringt, so wird es uns um so
                wichtiger werden, die<lb/> wesentlichen Bedingungen solcher Vorgänge wie der
                Traumbildung<lb/> zu erfahren. Wir werden wahrscheinlich verwundert sein zu<lb/>
@@ -5401,28 +5411,89 @@
                      >aufgenötigten</lem>
                   <rdg wit="#sfe-1901-001__1901.xml">aufgenöthigten</rdg>
                </app> oder auf Grund
-               von Müdigkeitssensationen<lb/> gefaßten Entschluß zu schlafen, und einzig ermöglicht
+               von Müdigkeitssensationen<lb/> <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">gefaßten
+                     Entschluß</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                     >gefassten Entschluss</rdg>
+               </app> zu schlafen, und einzig ermöglicht
                durch die<lb/> Abhaltung von Reizen, welche dem psychischen Apparat andere<lb/> Ziele
-               setzen könnten als das des Schlafens. Die Mittel, welche<lb/> dazu dienen, äußere
-               Reize ferne zu halten, sind bekannt; aber<lb/> welche Mittel stehen uns zur
+               setzen könnten als das des Schlafens. Die Mittel, welche<lb/> dazu dienen, <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">äußere</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                     >äussere</rdg>
+               </app>
+               Reize <app>
+                  <lem
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml"
+                     >ferne zu halten</lem>
+                  <rdg wit="#sfe-1901-001__1931.xml">fernezuhalten</rdg>
+               </app>, sind bekannt; aber<lb/> welche Mittel stehen uns zur
                Verfügung, um die inneren seeli<lb break="no"/>schen Reize niederzuhalten, die sich
                dem Einschlafen widersetzen?<lb/> Man beobachte eine Mutter, die ihr Kind
-               einschläfert. Es äußert<lb/> unausgesetzt Bedürfnisse, es will noch einen Kuß, es
-               möchte noch<lb/> spielen. Diese Bedürfnisse werden zum Teil befriedigt, zum
-               anderen<lb/> mit Autorität auf den nächsten Tag verschoben. Es ist klar, daß<lb/>
+               einschläfert. Es <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">äußert</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                     >äussert</rdg>
+               </app><lb/> unausgesetzt Bedürfnisse, es will noch einen <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Kuß</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                     >Kuss</rdg>
+               </app>, es
+               möchte noch<lb/> spielen. Diese Bedürfnisse werden zum <app>
+                  <lem
+                     wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
+                     >Teil</lem>
+                  <rdg wit="#sfe-1901-001__1901.xml">Theil</rdg>
+               </app> befriedigt, zum
+               anderen<lb/> mit Autorität auf den nächsten Tag verschoben. Es ist klar, <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">daß</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                     >dass</rdg>
+               </app><lb/>
                Wünsche und Bedürfnisse, die sich regen, die Hemmnisse des<lb/> Einschlafens sind.
-               Wer kennt nicht die heitere Geschichte von<lb/> dem schlimmen Buben (Balduin <hi
-                  rendition="#smallcaps">Grollers</hi>), der, bei Nacht<lb break="paragraph"/><pb
+               Wer kennt nicht die heitere Geschichte von<lb/> dem schlimmen Buben (Balduin <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"><hi
+                     rendition="#smallcaps">Grollers</hi></lem>
+                     <rdg
+                        wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                        ><hi rendition="#smallcaps">Groller’s</hi></rdg>
+                  </app>), der, bei Nacht<lb break="paragraph"/><pb
                   n="60" xml:id="page__c1ff12a9-99bc-4b4f-a1aa-464b2a1c7a00"/><fw type="pageNum"
                   >246</fw>erwachend, durch den Schlafraum brüllt: <hi rendition="#smallcaps">Das
                   Nashorn will<lb/> er</hi>? Ein braveres Kind würde, anstatt zu brüllen,<hi
-                  rendition="#smallcaps"> träumen</hi>, daß<lb/> es mit dem Nashorn spiele. Da der
+                     rendition="#smallcaps"> träumen</hi>, <app>
+                        <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">daß</lem>
+                        <rdg
+                           wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                           >dass</rdg>
+                     </app><lb/> es mit dem Nashorn <app>
+                        <lem
+                           wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
+                           >spiele</lem>
+                        <rdg wit="#sfe-1901-001__1901.xml">spielt</rdg>
+                     </app>. Da der
                Traum, welcher den Wunsch<lb/> erfüllt zeigt, während des Schlafens <hi
                   rendition="#smallcaps">Glauben</hi> findet, hebt er<lb/> den Wunsch auf und
-               ermöglicht den Schlaf. Es ist nicht abzu<lb break="no"/>weisen, daß dieser Glaube dem
+               ermöglicht den Schlaf. Es ist nicht abzu<lb break="no"/>weisen, <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">daß</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                     >dass</rdg>
+               </app> dieser Glaube dem
                Traumbilde zufällt, weil dieses<lb/> sich in die psychische Erscheinung der
                Wahrnehmung kleidet,<lb/> während dem Kinde die später zu erwerbende Fähigkeit
-               noch<lb/> fehlt, Halluzination oder Phantasie von Realität zu unterscheiden.<lb
+               noch<lb/> fehlt, <app>
+                  <lem
+                     wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
+                     >Halluzination</lem>
+                  <rdg wit="#sfe-1901-001__1901.xml">Hallucination</rdg>
+               </app> oder Phantasie von Realität zu unterscheiden.<lb
                   break="paragraph"/></p>
 
 
