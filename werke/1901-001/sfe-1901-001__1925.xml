@@ -6204,9 +6204,25 @@
             <p rendition="h1">XIII<lb break="paragraph"/></p>
             <p>Ich erhebe weder den Anspruch, hier auf alle Traumprobleme<lb/> Licht geworfen, noch
                die hier erörterten überzeugend erledigt<lb/> zu haben. Wer sich für den ganzen
-               Umfang der Traumliteratur<lb/> interessiert, der sei auf das Buch von <hi
-                  rendition="#smallcaps">Sante de Sanctis</hi>:<lb/>
-               <hi rendition="#smallcaps">I sogni</hi>, Torino 1899, verwiesen; wer die eingehendere
+               Umfang der <app>
+                  <lem
+                     wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
+                     >Traumliteratur<lb/> interessiert</lem>
+                  <rdg wit="#sfe-1901-001__1901.xml">Traumlitteratur interessirt</rdg>
+               </app>, der sei auf <app>
+                  <lem
+                     wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
+                     >das Buch von <hi
+                        rendition="#smallcaps">Sante de Sanctis</hi></lem>
+                  <rdg wit="#sfe-1901-001__1901.xml"><hi
+                     rendition="#smallcaps">Sante de Sanctis</hi>’ kürzlich veröffentlichtes Buch</rdg>
+               </app> :<lb/>
+               <hi rendition="#smallcaps">I sogni</hi>, Torino<app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">1899,</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1921.xml #sfe-1901-001__1911.xml">1899</rdg>
+                  
+               </app> verwiesen; wer die eingehendere
                   Begrün<lb break="no"/>dung der von mir vorgetragenen Auffassung des Traumes
                sucht,<lb/> der wende sich an meine Schrift: <hi rendition="#smallcaps">Die
                   Traumdeutung</hi>,<lb/> Leipzig und Wien 1900.<hi rendition="#footnote-index"
@@ -6217,17 +6233,63 @@
                latenten Traumgedanken, also die Auf<lb break="no"/>lösung dessen, was die
                Traumarbeit gesponnen hat, hinstelle, so<lb/> werfe ich einerseits eine Reihe von
                neuen psychologischen Pro<lb break="no"/>blemen auf, die sich auf den Mechanismus
-               dieser Traumarbeit<lb/> selbst wie auf die Natur und die Bedingungen der
-               sogenannten<lb/> Verdrängung beziehen; anderseits behaupte ich die Existenz der<lb/>
+               dieser Traumarbeit<lb/><app>
+                  <lem
+                     wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml #sfe-1901-001__1931.xml #sfe-1901-001__1925.xml">selbst</lem>
+                  <rdg wit="#sfe-1901-001__1901.xml">selbst,</rdg>
+               </app> wie auf die Natur und die Bedingungen der
+               <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">sogenannten</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                     >sog.</rdg>
+               </app><lb/> Verdrängung beziehen; <app>
+                  <lem
+                     wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml"
+                     >anderseits</lem>
+                  <rdg wit="#sfe-1901-001__1901.xml">andererseits</rdg>
+                  <rdg wit="#sfe-1901-001__1931.xml">andrerseits</rdg>
+               </app> behaupte ich die Existenz der<lb/>
                Traumgedanken, als eines sehr reichhaltigen Materiales psychischer<lb/> Bildungen von
                höchster Ordnung und mit allen Kennzeichen<lb/> normaler intellektueller Leistung
-               versehen, welches Material sich<lb/> doch dem Bewußtsein entzieht, bis es ihm durch
+               versehen, welches Material sich<lb/> doch dem <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Bewußtsein</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                     >Bewusstsein</rdg>
+               </app> entzieht, bis es ihm durch
                den Traum<lb break="no"/>inhalt entstellte Kunde gegeben hat. Solche Gedanken bin
                   ich<lb break="paragraph"/><pb n="70"
                   xml:id="page__433b6fa0-70d9-42d9-8b1f-18224c84a74c"/><fw type="pageNum"
-               >256</fw>genötigt, bei jedermann als vorhanden anzunehmen, da ja fast<lb/> alle
-               Menschen, auch die normalsten, des Träumens fähig sind.<lb/> An das Unbewußte der
-               Traumgedanken, an dessen Verhältnis<lb/> zum Bewußtsein und zur Verdrängung knüpfen
+                     >256</fw><app>
+                        <lem
+                           wit="#sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
+                           >genötigt,</lem>
+                        <rdg wit="#sfe-1901-001__1901.xml">genöthigt</rdg>
+                        <rdg wit="#sfe-1901-001__1911.xml">genötigt</rdg>
+                     </app> bei <app>
+                        <lem
+                           wit="#sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
+                           >jedermann</lem>
+                        <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml">Jedermann</rdg>
+                     </app> als vorhanden anzunehmen, da ja fast<lb/> alle
+               Menschen, auch die normalsten, des Träumens fähig sind.<lb/> An das <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Unbewußte</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                     >Unbewusste</rdg>
+               </app> der
+               Traumgedanken, an dessen <app>
+                  <lem
+                     wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
+                     >Verhältnis</lem>
+                  <rdg wit="#sfe-1901-001__1901.xml">Verhältniss</rdg>
+               </app><lb/> zum <app>
+                  <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Bewußtsein</lem>
+                  <rdg
+                     wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
+                     >Bewusstsein</rdg>
+               </app> und zur Verdrängung knüpfen
                die weiteren, für<lb/> die Psychologie bedeutsamen Fragen an, deren Erledigung
                wohl<lb/> aufzuschieben ist, bis die Analyse die Entstehung anderer psycho<lb
                   break="no"/>pathischer Bildungen, wie der hysterischen Symptome und der<lb/>
