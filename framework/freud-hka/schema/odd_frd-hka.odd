@@ -85,13 +85,13 @@
             <attList>
               <attDef ident="rendition" mode="change" usage="req">
                 <valList type="closed" mode="replace">
-                  <valItem ident="underline"/>
-                  <valItem ident="spaced"/>
-                  <valItem ident="bold"/>
-                  <valItem ident="italic"/>
+                  <valItem ident="#underline"/>
+                  <valItem ident="#spaced"/>
                   <valItem ident="#smallcaps"/>
                   <valItem ident="#bold"/>
                   <valItem ident="#em"/>
+                  <valItem ident="#footnote-index"/>
+                  <valItem ident="#sub"/>
                 </valList>
               </attDef>
             </attList>
@@ -125,10 +125,11 @@
               <attDef ident="type" mode="change" usage="req">
                 <valList type="closed" mode="replace">
                   <valItem ident="e"/>
+                  <valItem ident="footnote"/>
                 </valList>
               </attDef>
             </attList>
-          </elementSpec>
+          </elementSpec>       
           
           <!-- element p -->
           <!--<elementSpec ident="p" module="core" mode="change">
