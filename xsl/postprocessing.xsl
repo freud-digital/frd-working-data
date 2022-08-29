@@ -12,7 +12,7 @@
     </xsl:template>
     
     <xsl:template match="tei:titleStmt/tei:editor">
-        <editor>
+        <editor xmlns="http://www.tei-c.org/ns/1.0">
             <name>Huber, Christian</name>
             <name>Kaufmann, Kira</name>
             <name>Rohrwasser, Michael</name>
@@ -20,7 +20,7 @@
     </xsl:template>
     
     <xsl:template match="tei:editionStmt">
-        <editionStmt>
+        <editionStmt xmlns="http://www.tei-c.org/ns/1.0">
             <edition>Sigmund Freud: Historisch-kritische Ausgabe (HKA)</edition>
             <respStmt>
                 <resp>Editionsrichtlinien</resp>

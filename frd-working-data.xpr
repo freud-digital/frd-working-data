@@ -32,11 +32,31 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>tei_examples/1901-01/sfe-1901-001__1925.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>postprocessing</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>werke/1905-001/sfe-1905-001__1925.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>sfe-1904-006__1904</String>
+                                        <String>postprocessing</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -56,7 +76,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>sfe-1904-006__1904</String>
+                                        <String>postprocessing</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -183,7 +203,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>to_tex</String>
+                                    <String>postprocessing</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -201,7 +221,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pd}/xslt/to_tex.xsl</String>
+                                    <String>${pdu}/xsl/postprocessing.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -219,10 +239,10 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="openInBrowser">
-                                    <Boolean>true</Boolean>
+                                    <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/tex/${cfn}.tex</String>
+                                    <String>${pd}/tei-processed/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -266,7 +286,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>sfe-1904-006__1904</String>
+                                    <String>to_tex</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -284,7 +304,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl/postprocessing.xsl</String>
+                                    <String>${pd}/xslt/to_tex.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -302,10 +322,10 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="openInBrowser">
-                                    <Boolean>false</Boolean>
+                                    <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/tei-processed/${cfne}</String>
+                                    <String>${pd}/tex/${cfn}.tex</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
