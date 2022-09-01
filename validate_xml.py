@@ -6,9 +6,10 @@ import requests
 import glob
 
 BASEROW_TOKEN = os.environ.get('BASEROW_TOKEN')
-XML_TABLE_ID = "71550"
-ROW_API = "https://api.baserow.io/api/database/rows/table/"
+XML_TABLE_ID = "1477"
+ROW_API = "https://baserow.acdh-dev.oeaw.ac.at/api/database/rows/table/"
 DIR = "werke"
+
 
 def verify_xml(dir):
     works = glob.glob('./werke/*/*.xml')
@@ -45,6 +46,7 @@ def verify_xml(dir):
 #     data = f"no errors found in werke/{work}/{w} \n"
 #     f.write(data)
 
+
 def get_base_row():
     url = f"{ROW_API}{XML_TABLE_ID}/?user_field_names=true"
     next_page = True
@@ -65,6 +67,7 @@ def get_base_row():
         for x in result['results']:
             yield(x)
 
+
 def update_base_row():
     rows = verify_xml(DIR)
     for r in rows:
@@ -76,30 +79,31 @@ def update_base_row():
                 url = f"{ROW_API}{XML_TABLE_ID}/{i}/?user_field_names=true"
                 print(url)
                 try:
-                    p = requests.patch(
+                    requests.patch(
                         url,
                         headers={
                             "Authorization": f"Token {BASEROW_TOKEN}",
                             "Content-Type": "application/json"
                         },
-                        json = r
+                        json=r
                     )
                     # print(p.json())
                     # print(p)
                 except Exception as err:
                     print(err)
-        else:    
+        else:
             try:
-                p = requests.post(
+                requests.post(
                     f"{ROW_API}{XML_TABLE_ID}/?user_field_names=true",
                     headers={
                         "Authorization": f"Token {BASEROW_TOKEN}",
                         "Content-Type": "application/json"
                     },
-                    json = r
+                    json=r
                 )
                 # print(p.json())
             except Exception as err:
                 print(err)
+
 
 update_base_row()
