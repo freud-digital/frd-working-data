@@ -56,7 +56,7 @@
                   <listBibl>
                      <head>Sigmund Freud: Digitale Editionen</head>
                      <bibl>
-                        <bibl>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</bibl>
+                        <title>Sigmund Freud: Historisch-kritische Ausgabe (HKA)</title>
                         <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
                         <pubPlace>Wien</pubPlace>
                         <date when="2022">2022</date>
@@ -80,14 +80,43 @@
                            </licence>
                         </availability>
                      </bibl>
+                     <bibl>
+                        <title>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                        <publisher>Psychoanalytischen Institut</publisher>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="2022">2022</date>
+                     </bibl>
                   </listBibl>
                   <listBibl>
-                     <head>Textentstehung und Publikationsgeschichte</head>
-                     <bibl xml:base="">
-                        <author>Leopold Löwenfelds</author>
+                     <head>Publikationsgeschichte</head>
+                     <bibl xml:base="bibl_pbl_history_1">
+                        <editor>Leopold Löwenfelds</editor>
                         <date when="1904">1904</date>
-                        <title>Über die Freud’sche Psychoanalytische Methode</title> zuerst in 
-                         Band über <rs type="bibl" ref="zotero_VRCW8N9U">Psychische Zwangserscheinungen</rs> erschienen.
+                        <title>Psychische Zwangserscheinungen</title>
+                     </bibl>
+                     <bibl xml:base="bibl_pbl_history_2">
+                        <editor>Leopold Löwenfelds</editor>
+                        <editor>Hans Kurella</editor>
+                        <date when="1901">1901</date>
+                        <title>Grenzfragen des Nerven- und Seelenlebens</title>
+                     </bibl>
+                     <bibl xml:base="bibl_pbl_history_3">
+                        <editor>Sigmund Freud</editor>
+                        <date when="1895">1895</date>
+                        <title>Zur Kritik der „Angstneurose“</title>
+                        <biblScope unit="year">9</biblScope>
+                     </bibl>
+                     <bibl xml:base="bibl_pbl_history_4">
+                        <editor>Leopold Löwenfelds</editor>
+                        <date when="1895">1895</date>
+                        <title>Zwangserscheinungen</title>
+                        <biblScope unit="page">545</biblScope>
+                     </bibl>
+                     <bibl xml:base="bibl_pbl_history_5">
+                        <editor>Storfer, A.J.</editor>
+                        <date when="1925">1925</date>
+                        <title>Gesammelte Schriften von Sigm. Freud</title>
+                        <biblScope unit="volume">6. Band</biblScope>
                      </bibl>
                   </listBibl>
                </listBibl>
@@ -212,13 +241,13 @@
          <creation>
             <date type="e">
                Textentstehung und Publikationsgeschichte. Als „Mitteilung des Autors“, wie in Klammern im
-               Untertitel angegeben wird, wurde der kurze Text <title>Über die Freud’sche Psychoanalytische Methode</title> zuerst in 
-               <rs type="person" ref="frd_person_41">Leopold Löwenfelds</rs> Band über <rs type="bibl" ref="zotero_VRCW8N9U">Psychische Zwangserscheinungen</rs> veröffentlich, 
-               welcher <date when="1904">1904</date> von <rs type="person" ref="#frd_person_21">Freud</rs> rezensiert wurde.
+               Untertitel angegeben wird, wurde der kurze Text Über die Freud’sche Psychoanalytische Methode zuerst in 
+               Leopold Löwenfelds Band über Psychische Zwangserscheinungen veröffentlich, 
+               welcher <date when="1904">1904</date> von Freud rezensiert wurde.
             </date>
             <date type="e">
-               Zuvor war Freuds Schrift <title>Über den Traum</title> (<date when="1901">1901</date>) in der Reihe <title>Grenzfragen des
-               Nerven- und Seelenlebens</title> publiziert worden, welche von <rs type="person" ref="#frd_person_41">Leopold Löwenfeld</rs> und <rs type="person" ref="frd_person_44">Hans Kurella</rs>
+               Zuvor war Freuds Schrift Über den Traum (<date when="1901">1901</date>) in der Reihe Grenzfragen des
+                  Nerven- und Seelenlebens publiziert worden, welche von Leopold Löwenfeld und Hans Kurella
                herausgegeben wurde.
             </date>
             <date type="e">
@@ -230,23 +259,23 @@
             </date>
             <date type="e">
                Auf eine fachliche Kontroverse im Jahr <date when="1895">1895</date> zwischen
-               <rs type="person" ref="#frd_person_21">Freud</rs> und <rs type="person" ref="#frd_person_41">Löwenfeld</rs> die Angstneurose betreffend, verweist <rs type="person" n="Tögel" ref="">Tögel</rs>, diese konnte aber
-               beigelegt werden (Vgl. Freud: <rs type="bibl" ref="#zotero_H9GTRDRF">Zur Kritik der „Angstneurose“ in Wiener klinische Rundschau, 9. Jg. (1885), Nr.
-                  27, S. 417-419, Nr. 28, S. 435-437, Nr. 29, S. 451-452)</rs> (<rs type="bibl" ref="#zotero_SPXBCFRG">Tögel, Bd. 9, S. 111</rs>).
+               Freud und Löwenfeld die Angstneurose betreffend, verweist Tögel, diese konnte aber
+               beigelegt werden (Vgl. Freud: Zur Kritik der „Angstneurose“ in Wiener klinische Rundschau, 9. Jg. (1885), Nr.
+                  27, S. 417-419, Nr. 28, S. 435-437, Nr. 29, S. 451-452) (Tögel, Bd. 9, S. 111).
             </date>
             <date type="e">
-               Der Erstveröffentlichung des Textes <title>Über die Freud’sche Psychoanalytischen
-                  Methode</title> war nach Ende des Beitrags ein Kommentar von <rs type="person" ref="#frd_person_41">Löwenfeld</rs>
-               beigegeben <rs type="bibl" ref="">[sollte hier oder an einer anderen Stelle eingefügt/angegeben werden]</rs>.
-               <rs type="person" ref="#frd_person_41">Löwenfeld</rs> berücksichtigte die Psychoanalyse als Verfahren im Kontext der
+               Der Erstveröffentlichung des Textes Über die Freud’sche Psychoanalytischen
+                  Methode war nach Ende des Beitrags ein Kommentar von Löwenfeld
+               beigegeben [sollte hier oder an einer anderen Stelle eingefügt/angegeben werden].
+               Löwenfeld berücksichtigte die Psychoanalyse als Verfahren im Kontext der
                Zwangserkrankungen, denen er sich eingehend widmete, war allerdings der Meinung,
-               dass <rs type="person" ref="#frd_person_21">Freud</rs> seine Methode seit den Studien über Hysterie aus dem Jahr <date when="1895">1895</date> so
-               grundlegend verändert habe, dass diese <q source="#zotero_M9TAGAWQ">keine Vorstellung von dem Wesen der Methode mehr geben</q> können (<rs type="bibl" ref="#zotero_M9TAGAWQ"><rs type="person" ref="#frd_person_41">Löwenfeld</rs>, Zwangserscheinungen, S. 545</rs>).
+               dass Freud seine Methode seit den Studien über Hysterie aus dem Jahr <date when="1895">1895</date> so
+               grundlegend verändert habe, dass diese <q source="#zotero_M9TAGAWQ">keine Vorstellung von dem Wesen der Methode mehr geben</q> können (Löwenfeld, Zwangserscheinungen, S. 545).
             </date>
             <date type="e">
                Ab <date when="1911">1911</date>
-               wurde der Text<title>Über die Freud’sche Psychoanalytische Methode</title> in die
-               <title>Sammlung kleiner Schriften zur Neurosenlehre</title>
+               wurde der Text Über die Freud’sche Psychoanalytische Methode in die
+               Sammlung kleiner Schriften zur Neurosenlehre
                aufgenommen.
             </date>
          </creation>
