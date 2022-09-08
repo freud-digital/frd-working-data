@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title type="work" level="a">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
-            <title type="manifestation" level="a">Die Freudsche psychoanalytische Methode (1904-002/1925)</title>
+            <title type="manifestation" level="a" sameAs="#guiding_manifestation">Die Freudsche psychoanalytische Methode (1904-002/1925)</title>
             <title type="series" level="s">Sigmund Freud: Historisch-kritische Ausgabe (HKA)</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
@@ -253,9 +253,10 @@
          </publicationStmt>
          <notesStmt>
             <note type="e">
+               <title>Textentstehung und Publikationsgeschichte</title>
                <p>
-                  Textentstehung und Publikationsgeschichte. Als „Mitteilung des Autors“, wie in Klammern im
-                  Untertitel angegeben wird, wurde der kurze Text <rs type="bibl" ref="#bibl_pub_007">Über die Freud’sche
+                  Als „Mitteilung des Autors“, wie in Klammern im
+                  Untertitel angegeben wird, wurde der kurze Text <rs type="bibl" ref="#bibl_pub_001">Über die Freud’sche
                      Psychoanalytische Methode</rs> zuerst in <rs type="person"
                         ref="frd_person_41"> Leopold Löwenfelds</rs> Band über <rs type="bibl"
                            ref="zotero_VRCW8N9U">Psychische Zwangserscheinungen</rs> veröffentlicht,
@@ -283,8 +284,8 @@
                      ref="#zotero_SPXBCFRG">Tögel, Bd. 9, S. 111</rs>). 
                </p>
                <p>
-                  Der Erstveröffentlichung des Textes <ref target="#bibl_pub_001">Über die Freud’sche Psychoanalytischen
-                  Methode</ref> war nach Ende des Beitrags ein <ref target="#">Kommentar</ref> von Löwenfeld
+                  Der Erstveröffentlichung des Textes <rs type="bibl" ref="#bibl_pub_001">Über die Freud’sche Psychoanalytischen
+                  Methode</rs> war nach Ende des Beitrags ein Kommentar von Löwenfeld
                   beigegeben.
                </p>
                <p>                 
@@ -426,7 +427,7 @@
          <change who="#kkaufmann #chuber" when="2022-08-05">Varianten eingefügt.</change>
          <change who="#kkaufmann #chuber" when="2022-08-09">Stellenkommentare eingefügt.</change>
          <change who="#kkaufmann #chuber" when="2022-08-12">Angaben zur Textentstehung und Publikationsgeschichte.</change>
-         <change who="#kkaufmann #chuber" when="2022-08-23">Inhaltliche Auszeichnung von Schlagwörtern als rs type keywords.</change>
+         <change who="#kkaufmann #chuber" when="2022-08-23">Inhaltliche Auszeichnung von Schlagwörtern und Personen als reference strint (rs).</change>
          <change who="#kkaufmann #chuber" when="2022-08-25">Überprüfung und Korrekturen.</change>
          <change who="#dstoxreiter" when="2022-08-29">TEI Serialisierung Update mit api crawler v2.0.1.
             Download Skript "download_work.py"</change>
