@@ -53,7 +53,7 @@
         
         <schemaSpec ident="frd-hka" start="TEI" xml:lang="de">
           <moduleRef key="header" include="creation langUsage language teiHeader fileDesc titleStmt editionStmt extent publicationStmt sourceDesc profileDesc encodingDesc revisionDesc change notesStmt edition funder principal availability licence idno"/>
-          <moduleRef key="core" include="imprint biblScope head desc l label lg list author editor title p respStmt resp noteGrp note relatedItem biblStruct listBibl bibl analytic monogr series date pubPlace publisher ref address street postCode name emph foreign hi lb pb q quote rs sic term unclear del abbr add choice cit corr index"/>
+          <moduleRef key="core" include="ptr imprint biblScope head desc l label lg list author editor title p respStmt resp noteGrp note relatedItem biblStruct listBibl bibl analytic monogr series date pubPlace publisher ref address street postCode name emph foreign hi lb pb q quote rs sic term unclear del abbr add choice cit corr index"/>
           <moduleRef key="corpus"/>
           <moduleRef key="msdescription" include="msDesc msContents msItem msIdentifier repository physDesc objectDesc supportDesc support material handDesc typeDesc"/>
           <moduleRef key="namesdates" include="country settlement listEvent event listOrg org listPerson person listPlace place listObject object forename geo location objectName orgName persName placeName region roleName surname state geogName affiliation"/>
