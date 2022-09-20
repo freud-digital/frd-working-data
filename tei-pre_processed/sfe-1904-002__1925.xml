@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -10,8 +9,10 @@
             <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische
                Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor><name>Huber, Christian</name><name>Kaufmann, Kira</name><name>Rohrwasser,
-                  Michael</name></editor>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
@@ -25,37 +26,32 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>Sigmund Freud: Historisch-kritische Ausgabe (HKA)</edition>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
-               <resp>Editionsrichtlinien</resp>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                  Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Fuchs, Laura</name>
+               <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
                <name>Liepold, Sophie</name>
-               <name>Wimmer, Philipp</name>
             </respStmt>
             <respStmt>
-               <resp>Kritischer Apparat</resp>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Kommentar</resp>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>TEI Schema ODD</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
             </respStmt>
             <respStmt>
                <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
@@ -449,7 +445,8 @@
                      <rdg
                         wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                         >Freudsche</rdg>
-                  </app><lb/> PSYCHOANALYTISCHE METHODE </title>
+                  </app><lb/> PSYCHOANALYTISCHE METHODE<lb break="paragraph"/>
+               </title>
             </p>
             <p>„Die eigentümliche Methode der Psychotherapie, die <hi rendition="#smallcaps"
                   >Freud</hi><lb/> ausübt und als <app>
@@ -486,7 +483,7 @@
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >größeren</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">grösseren</rdg>
-               </app> Anzahl<lb/> von Kranken.</p>
+               </app> Anzahl<lb/> von Kranken.<lb break="paragraph"/></p>
             <p>Das kathartische Verfahren setzte voraus, <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
@@ -530,9 +527,9 @@
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Bewußtsein</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg>
-               </app> bisher<lb/> ausgefallen waren, und wenn er diese seine seelischen Vorgänge <pb
-                  n="2" xml:id="page__7e4855dc-ea7c-4a7b-916e-25d621460232"/><fw type="pageNum"
-                  >4</fw>unter intensiven <app>
+               </app> bisher<lb/> ausgefallen waren, und wenn er diese seine seelischen Vorgänge<lb
+                  break="paragraph"/><pb n="2" xml:id="page__7e4855dc-ea7c-4a7b-916e-25d621460232"
+                  /><fw type="pageNum">4</fw>unter intensiven <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Affektäußerungen</lem>
@@ -576,7 +573,7 @@
                   <rdg wit="#sfe-1904-002__1904.xml">dass</rdg>
                </app> nicht ein einzelner<lb/> („traumatischer“) Eindruck, sondern meist eine schwer
                zu über<lb break="no"/>sehende Reihe von solchen an der Entstehung des Symptoms<lb/>
-               beteiligt sei.</p>
+               beteiligt sei.<lb break="paragraph"/></p>
 
 
             <p>Der Hauptcharakter der kathartischen Methode, der sie <app>
@@ -612,7 +609,8 @@
                      wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Verlaufe</lem>
                   <rdg wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml">Verlauf</rdg>
-               </app> zu bringen, der in die Symptombildung eingemündet hat.</p>
+               </app> zu bringen, der in die Symptombildung eingemündet hat.<lb break="paragraph"
+               /></p>
             <p>Die Abänderungen, welche <hi rendition="#smallcaps">Freud</hi> an dem kathartischen
                   Ver<lb break="no"/>fahren <hi rendition="#smallcaps"><app>
                      <lem
@@ -627,12 +625,13 @@
                   <rdg
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
                      >widersprechenden,</rdg>
-               </app> Auffassung der therapeutischen Arbeit<lb/> genötigt.</p>
+               </app> Auffassung der therapeutischen Arbeit<lb/> genötigt.<lb break="paragraph"
+               /></p>
             <p>Hatte die kathartische Methode bereits auf die <rs type="keyword" ref="#frd_kw_2631"
                   >Suggestion</rs><lb/> verzichtet, so unternahm <hi rendition="#smallcaps"
                   >Freud</hi> den weiteren Schritt, auch die<lb/> Hypnose aufzugeben. Er behandelt
                   gegenwärtig<note type="e" resp="#kkaufmann"><term>gegenwärtig</term> Zur Zeit der
-                  Entstehung des Textes: 1904</note> seine Kranken, <pb n="3"
+                  Entstehung des Textes: 1904</note> seine Kranken,<lb break="paragraph"/><pb n="3"
                   xml:id="page__2e11f984-bba9-4fa4-bbc9-4b9faf02db24"/><fw type="pageNum"
                >5</fw>indem er sie ohne andersartige Beeinflussung eine bequeme<lb/> Rückenlage auf
                einem Ruhebett einnehmen <app>
@@ -661,7 +660,7 @@
                also<lb/> wie ein Gespräch zwischen zwei gleich wachen Personen, von<lb/> denen die
                eine sich jede Muskelanstrengung und jeden ablenken<lb break="no"/>den Sinneseindruck
                erspart, die sie in der Konzentration ihrer<lb/> Aufmerksamkeit auf ihre eigene
-               seelische Tätigkeit stören könnten.</p>
+               seelische Tätigkeit stören könnten.<lb break="paragraph"/></p>
 
 
             <p>Da das <app>
@@ -706,7 +705,8 @@
                      >ließ</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">liess</rdg>
                </app>. Wenn für diesen Aus<lb break="no"/>fall kein Ersatz zu schaffen war, konnte
-               auch von einer thera<lb break="no"/>peutischen Einwirkung keine Rede sein.</p>
+               auch von einer thera<lb break="no"/>peutischen Einwirkung keine Rede sein.<lb
+                  break="paragraph"/></p>
             <p>Einen solchen völlig ausreichenden Ersatz fand nun <hi rendition="#smallcaps"
                   >Freud</hi><lb/> in den Einfällen der Kranken, <app>
                   <lem wit="#sfe-1904-002__1924.xml #sfe-1904-002__1925.xml">das heißt</lem>
@@ -733,10 +733,10 @@
                      >gerät“.</rdg>
                </app> Er schärft ihnen, ehe er sie zur detaillierten<lb/> Erzählung ihrer <rs
                   type="keyword" ref="frd_kw_1468">Krankengeschichte</rs> auffordert, ein, alles mit
-               zu<lb/> sagen, was ihnen dabei durch den Kopf geht, auch wenn sie <pb n="4"
-                  xml:id="page__5b8b2c55-7ea3-4d51-b989-112dedc3d064"/><fw type="pageNum"
-               >6</fw>meinen, es sei unwichtig, oder es gehöre nicht dazu, oder es sei<lb/>
-               unsinnig. Mit besonderem <app>
+               zu<lb/> sagen, was ihnen dabei durch den Kopf geht, auch wenn sie<lb
+                  break="paragraph"/><pb n="4" xml:id="page__5b8b2c55-7ea3-4d51-b989-112dedc3d064"
+                  /><fw type="pageNum">6</fw>meinen, es sei unwichtig, oder es gehöre nicht dazu,
+               oder es sei<lb/> unsinnig. Mit besonderem <app>
                   <lem
                      wit="#sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Nachdrucke</lem>
@@ -816,7 +816,7 @@
                welche diese Ver<lb break="no"/>drängung herbeigeführt haben, meint er in dem <hi
                   rendition="#smallcaps"><rs type="keyword" ref="#frd_kw_3235"
                >Widerstand</rs></hi>,<lb/> der sich gegen die Wiederherstellung erhebt, zu
-               verspüren.</p>
+                  verspüren.<lb break="paragraph"/></p>
 
 
             <p>Das Moment des Widerstandes ist eines der Fundamente seiner<lb/> Theorie geworden.
@@ -832,7 +832,7 @@
                      >),</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">)</rdg>
                </app> als Entstellungen derselben infolge des gegen<lb/> ihre Reproduktion
-               bestehenden Widerstandes.</p>
+               bestehenden Widerstandes.<lb break="paragraph"/></p>
             <p>Je größer <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
@@ -856,7 +856,7 @@
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Bewußtsein</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">Bewusstsein</rdg>
-               </app> zugänglich machen.</p>
+               </app> zugänglich machen.<lb break="paragraph"/></p>
 
 
             <p><hi rendition="#smallcaps">Freud</hi> hat darauf eine <hi rendition="#smallcaps"><rs
@@ -914,7 +914,8 @@
                      > „<bibl xml:id="zotero_JKI7TNM4">Traumdeutung</bibl> “,</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">die „Traumdeutung“</rdg>
                </app> 1900 von <hi rendition="#smallcaps">Freud</hi> publiziert, ist als
-               Vorläufer<lb/> einer solchen Einführung in die Technik anzusehen.</p>
+               Vorläufer<lb/> einer solchen Einführung in die Technik anzusehen.<lb
+                  break="paragraph"/></p>
             <p>Man könnte aus diesen Andeutungen über die Technik der<lb/> psychoanalytischen
                Methode <app>
                   <lem
@@ -960,7 +961,7 @@
                      wit="#sfe-1904-002__1904.xml #sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml"
                      >dagegen</rdg>
                </app> nur unvoll<lb break="no"/>ständige Auskünfte und nur vorübergehende
-               Erfolge.</p>
+                  Erfolge.<lb break="paragraph"/></p>
 
 
             <p>Die Aufgabe, welche die psychoanalytische Methode zu lösen<lb/> bestrebt ist, <app>
@@ -1033,7 +1034,8 @@
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
                      >Kranken,</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">Kranken</rdg>
-               </app><lb/> fortbestehen können, ohne ihn zu einem Kranken zu stempeln.</p>
+               </app><lb/> fortbestehen können, ohne ihn zu einem Kranken zu stempeln.<lb
+                  break="paragraph"/></p>
             <p>Das therapeutische Verfahren <app>
                   <lem
                      wit="#sfe-1904-002__1906.xml #sfe-1904-002__1911.xml #sfe-1904-002__1920.xml #sfe-1904-002__1922.xml #sfe-1904-002__1924.xml #sfe-1904-002__1925.xml"
@@ -1096,7 +1098,7 @@
                      >zeitigt</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">zeitigt,</rdg>
                </app> und auf die Fortdauer<lb/> der Symptome eine Zeitlang keine Rücksicht nehmen
-               kann.</p>
+                  kann.<lb break="paragraph"/></p>
 
 
             <p>An die Person, die man mit Vorteil der Psychoanalyse unter<lb break="no"/>ziehen
@@ -1138,7 +1140,7 @@
                      >lang,</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">lang</rdg>
                </app> und die Fähigkeit, psychische Vorgänge rückgängig zu<lb/> machen, beginnt zu
-               erlahmen.</p>
+                  erlahmen.<lb break="paragraph"/></p>
 
             <pb n="8" xml:id="page__e28fcbfa-388c-4698-a1ff-2b81aa895f3a"/>
             <fw type="pageNum">10</fw>
@@ -1199,6 +1201,7 @@
                      >lassen.“</lem>
                   <rdg wit="#sfe-1904-002__1904.xml">lassen“.</rdg>
                </app>
+               <lb break="paragraph"/>
             </p>
          </div>
       </body>
