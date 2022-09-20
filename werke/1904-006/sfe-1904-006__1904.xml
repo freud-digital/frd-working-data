@@ -92,7 +92,7 @@
                <title>Textentstehung und Publikationsgeschichte</title>
                <p>Freud rezensierte 1904 Löwenfelds Band über <rs type="bibl" ref="#zotero_97WKPQ66"><hi rendition="#em">Psychische Zwangserscheinungen</hi></rs>
                   und war zugleich selbst in gewisser Weise Beiträger: Der Text über die
-                  <rs type="bibl" xml:id="bibl-1904-002-1"><hi rendition="#em">Freudsche Psychoanalytische Methode</hi></rs> ist eine „Mitteilung des
+                  <rs type="bibl" ref="#bibl-1904-002-1"><hi rendition="#em">Freudsche Psychoanalytische Methode</hi></rs> ist eine „Mitteilung des
                   Autors“, wie in Klammern im Untertitel angeführt wird, und wurde von Freud selbst
                   verfasst. Zuvor erschien 1901 Freuds Schrift <rs type="bibl" ref="#zotero_7XC58JJ2"><hi rendition="#em">Über den Traum</hi></rs> in der
                   Reihe <hi rendition="#em">Grenzfragen des Nerven- und Seelenlebens</hi>, welche von <rs
