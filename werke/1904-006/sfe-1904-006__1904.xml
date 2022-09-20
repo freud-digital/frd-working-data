@@ -125,19 +125,20 @@
                   <title type="manifestation">Rezension von: Löwenfeld, L[eopold] ›Die psychischen
                      Zwangserscheinungen‹</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Periodikum</name>
+                  
                </analytic>
                <monogr>
-                  <title type="publication">Journal für Psychologie und Neurologie</title>
-                  <title type="publication-sub"/>
-                  <title type="publication-short"/>
+                 <title type="publication">Journal für Psychologie und Neurologie</title>
+                 <respStmt><resp> Herausgegeben von</resp>
+                    <name type="person">August Forel und Oskar Vogt</name></respStmt>
                   <imprint>
+                     <pubPlace>Leipzig</pubPlace>
+                     <publisher>Johann Ambrosius Barth</publisher>
                      <date when="1904-01-01">1904-01-01</date>
                   </imprint>
-                  <extent>191 Seiten</extent>
+                  <extent>S. 190-191</extent>
                   <biblScope unit="volume">4</biblScope>
                   <biblScope unit="year">3</biblScope>
-                  <name>Periodikum (Heft)</name>
                </monogr>
                <relatedItem type="digitisedVersion">
                   <bibl xml:id="bibl__1d377a06-1508-4e62-87c2-ef264a39d522">
