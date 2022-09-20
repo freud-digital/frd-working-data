@@ -90,30 +90,29 @@
          <notesStmt>
             <note type="e">
                <title>Textentstehung und Publikationsgeschichte</title>
-               <p>Textentstehung und Publikationsgeschichte: Freud
-                  rezensierte 1904 Löwenfelds Band über <title>Psychische Zwangserscheinungen</title>
+               <p>Freud rezensierte 1904 Löwenfelds Band über <rs type="bibl" ref="#zotero_97WKPQ66"><hi rendition="#em">Psychische Zwangserscheinungen</hi></rs>
                   und war zugleich selbst in gewisser Weise Beiträger: Der Text über die
-                  <title>Freudsche Psychoanalytische Methode</title> ist eine „Mitteilung des
+                  <rs type="bibl" xml:id="bibl-1904-002-1"><hi rendition="#em">Freudsche Psychoanalytische Methode</hi></rs> ist eine „Mitteilung des
                   Autors“, wie in Klammern im Untertitel angeführt wird, und wurde von Freud selbst
-                  verfasst. Zuvor erschien 1901 Freuds Schrift <title>Über den Traum</title> in der
-                  Reihe <title>Grenzfragen des Nerven- und Seelenlebens</title> , welche von <rs
-                     type="person" ref="frd_person_41">Leopold Löwenfeld</rs> und<rs type="person"
-                        ref="frd_person_44"> Hans Kurella</rs> herausgegeben wurde. Ein Blick auf das <ref
+                  verfasst. Zuvor erschien 1901 Freuds Schrift <rs type="bibl" ref="#zotero_7XC58JJ2"><hi rendition="em">Über den Traum</hi></rs> in der
+                  Reihe <hi rendition="#em">Grenzfragen des Nerven- und Seelenlebens</hi>, welche von <rs
+                     type="person" ref="frd_person_41">Leopold Löwenfeld</rs> und <rs type="person"
+                        ref="frd_person_44">Hans Kurella</rs> herausgegeben wurde. Ein Blick auf das <ref
                            target="https://archive.org/details/Freud_1901_Ueber_Traum/page/n1/mode/2up"
                            ><term>Inhaltsverzeichnis</term></ref> der Reihe zeigt die thematischen und
                   personellen Verschränkungen auf dem Gebiet von Traumforschung, Sexual- und
                   Psychopathologie, aus welchen sich die Psychoanalyse konsolidierte.</p>
-               <p>Das <title>Journal für Psychologie und Neurologie</title> wurde von <rs type="person"
+               <p>Das <hi rendition="#em">Journal für Psychologie und Neurologie</hi> wurde von <rs type="person"
                   ref="frd_person_42">August Forel</rs> und <rs type="person" ref="frd_person_43"
                      >Oskar Vogt</rs> seit 1902 herausgegeben und führte anfangs zusätzlich noch die
-                  Bandzählung der Vorgängerzeitschrift unter dem Titel <title>Zeitschrift für
-                     Hypnotismus</title> am Titelblatt. Hier hatte Freud bereits 1893 den Artikel
-                  <title>Ein Fall von hypnotischer Heilung nebst Bemerkungen über die Entstehung
-                     hysterischer Symptome durch den „Gegenwillen“</title> veröffentlicht. Tögel
+                  Bandzählung der Vorgängerzeitschrift unter dem Titel <hi rendition="#em">Zeitschrift für
+                     Hypnotismus</hi> am Titelblatt. Hier hatte Freud bereits 1893 den Artikel
+                  <rs type="bibl" ref="#zotero_T9TAU766"><hi rendition="#em">Ein Fall von hypnotischer Heilung nebst Bemerkungen über die Entstehung
+                     hysterischer Symptome durch den „Gegenwillen“</hi></rs> veröffentlicht. Tögel
                   zufolge kannten sich Forel und Freud seit 1889. Er verweist auf das Netzwerk
                   einflussreicher Schweizer Psychiater um August Forel, das Freud bewogen haben soll,
                   seine Besprechung in einer Zeitschrift aus diesem namhaften Kontext zu publizierten
-                  (<title ref="#zotero_SPXBCFRG">Tögel, Bd. 9, S. 131</title> ). Unter Froels
+                  (<rs type="bibl" ref="#zotero_SPXBCFRG">Tögel, Bd. 9, S. 131</rs> ). Unter Forels
                   Leitung der Psychiatrischen Universitätsklinik Zürich (sog. „Burghölzli“) - Forel war
                   Eugen Bleulers Vorgänger - hatte eine Gruppe von Schweizer Psychiatern begonnen, sich
                   mit Psychoanalyse zu beschäftigen.</p>
@@ -247,7 +246,7 @@
                Was <hi rendition="#smallcaps">Löwenfeld</hi> als „psychischen<lb/> Zwang“ behandelt,
                geht weit über den Um<lb break="no"/>fang der sog. Zwangsvorstellungskrankheit<lb/>
                hinaus und schließt noch die Phobien, einen<lb/> Teil der Abulien<note type="e"
-                  resp="#chuber"><term>Abulien</term>Abulie, griech. krankhafte
+                  resp="#kkaufmann"><term>Abulien</term>Abulie, griech. krankhafte
                   Willensschwäche.</note> und sämtliche neurotische<lb/> Angstzustände, auch die
                Anfälle von „in<lb break="no"/>haltsloser“ Angst, mit ein. Für den Leser<lb/> des
                Buches ergibt sich so ein unerwarteter<lb/> Gewinn, für den Autor aber stellt sich
@@ -292,9 +291,9 @@
                heuristischen Wert dieser Aufstellung<lb/> versuchte Ref. seinerzeit [1895] an dem
                   Bei<lb break="no"/>spiel seiner „Angstneurose“ zu erweisen<note type="e"
                   resp="#chuber"><term>versuchte Ref. seinerzeit [1895] am Beispiel der
-                     „Angstneurose“ zu erweisen </term>Freud verweist hier auf den Aufsatz <title
+                     „Angstneurose“ zu erweisen </term>Freud verweist hier auf den Aufsatz <rs type="bibl"
                      ref="#zotero_WP5QCST7">„Über die Berechtigung, von der Neurasthenie einen
-                     bestimmten Symptomenkomplex als ‚Angstneurose‘ abzutrennen“</title> aus dem
+                     bestimmten Symptomenkomplex als ‚Angstneurose‘ abzutrennen“</rs> aus dem
                   Neurologischen Centralblatt, 14. Jg. (1895), Nr. 2, S. 50-66. </note> .<lb/>
                <hi rendition="#smallcaps">Löwenfeld</hi> wendet gegen diese Ableitung<lb/> der Angst
                ein, daß sich sexuelle Schädlich<lb break="no"/>keiten nicht in der Ätiologie aller
@@ -306,7 +305,7 @@
                einer<lb/> Theorie zuliebe gegen die Beobachtung ver<lb break="no"/>blendet wurde.
                Ref. hat die Fälle von Angst<lb break="no"/>neurose ohne sexuelle Ätiologie bereits
                1895<lb/> gekannt und gewürdigt, denn er sagt aus<lb break="no"/>drücklich in dem
-               erwähnten Aufsatz über<lb/> die Angstneurose<note><term type="e" resp="#chuber"
+               erwähnten Aufsatz über<lb/> die Angstneurose<note><term type="e" resp="#kkaufmann"
                      >Aufsatz über die Angstneurose</term>Aus dem Aufsatz <title>Über die
                      Berechtigung, von der Neurasthenie einen bestimmten Symptomenkomplex als
                      „Angstneurose“ abzutrennen</title>, S. 58. </note>: <quote
@@ -331,13 +330,13 @@
                Sexualität. Diese Unterscheidung läuft auf<lb/> die gewiß nicht unwahrscheinliche
                Annahme<lb/> hinaus, daß die organisch-sexuellen Vor<lb break="no"/>gänge ebensowohl
                durch Schädlichkeiten<lb/> aus dem Sexualleben selbst wie auch durch<lb/>
-               tiefgreifende allgemeine Noxen <note><term type="e" resp="#chuber">Noxen</term>mediz.
+               tiefgreifende allgemeine Noxen <note><term type="e" resp="#kkaufmann">Noxen</term>mediz.
                   Ausdruck für Umständen oder Stoffe, die Schaden auslösen.</note>eine Störung<lb/>
                erfahren können, ähnlich wie z. B. die Vor<lb break="no"/>gänge der
                Verdauungstätigkeit einerseits von<lb/> den Ingesten <note><term type="e"
-                     resp="#chuber">Ingesten</term> sg. Ingesta, aufgenommene Nahrung</note>aus,
+                     resp="#kkaufmann">Ingesten</term> sg. Ingesta, aufgenommene Nahrung</note>aus,
                andererseits durch allge<lb break="no"/>meine toxische Erkrankungen, Kachexien
-                     <note><term type="e" resp="#chuber">Kachexien</term>griech. Kachexie,
+                     <note><term type="e" resp="#kkaufmann">Kachexien</term>griech. Kachexie,
                   krankhafte Abmagerung</note><lb/> und Blutveränderungen krankhaft verändert<lb/>
                werden können.<lb break="paragraph"/></p>
             <p>Ref. kennt auch die von <hi rendition="#smallcaps">Löwenfeld</hi><lb/> gegen ihn
