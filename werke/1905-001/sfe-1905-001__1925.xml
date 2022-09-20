@@ -2,9 +2,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Über Psychotherapie (1905-001/1925)</title>
-            <title type="short">GS 6</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische
+            <title type="work" level="a">Freud, Sigmund (1905-001; 1905a [1904]): Über
+               Psychotherapie</title>
+            <title type="manifestation" level="a">Über Psychotherapie (1905-001/1925)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische
                Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
@@ -26,6 +27,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                   Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
@@ -37,11 +43,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -85,81 +90,267 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-            <title type="work">Freud, Sigmund (1905-001; 1905a [1904]): Über Psychotherapie</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische
-               Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
-            <idno type="api"
-               >https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
-         </seriesStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>OCR korr., SL, S. 1-14</p>
+               <p>2. Korr. CH</p>
+            </note>
+         </notesStmt>
          <sourceDesc>
             <listBibl>
-               <bibl xml:id="bibl__62258388-9c35-4aed-b7e4-d0088ff3e6e8">
-                  <title type="manifestation">Über Psychotherapie</title>
-                  <title type="short">GS 6</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische
-                     Gesamtausgabe</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1905-001/1925</idno>
-                  <idno type="url"
-                     >https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-4</idno>
-                  <idno type="api"
-                     >https://www.freud-edition.net/jsonapi/node/manifestation/62258388-9c35-4aed-b7e4-d0088ff3e6e8</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api"
-                     >https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1905-001-1922">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                           A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1906">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                           A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1924">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                           A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1911">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                           A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1905">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                           A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1905.2">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                           A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1920">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                           A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1925" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                           A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__62258388-9c35-4aed-b7e4-d0088ff3e6e8">
                         <title>Über Psychotherapie</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
                            Sigmund</author>
-                        <date when="1925-01-01">1925-01-01</date>
-                        <name>Text in Werkausgabe</name>
-                        <bibl xml:id="bibl__0a4abdfe-7148-4e6e-a367-91194009eb1c">
-                           <title type="main">Gesammelte Schriften von Sigm. Freud</title>
-                           <title type="short">GS 6</title>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1925-01-01">1925-01-01</date>
-                           <biblScope unit="volume">6. Band</biblScope>
-                           <biblScope unit="page" to="24">24</biblScope>
-                           <editor ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
-                              A.J.</editor>
-                           <idno type="api"
-                              >https://www.freud-edition.net/jsonapi/node/bibliography/0a4abdfe-7148-4e6e-a367-91194009eb1c</idno>
-                           <name>Werkausgabe</name>
-                        </bibl>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien,
+                              Quellenforschung, Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen,
+                              Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-001/1925</idno>
+                        <idno type="url"
+                           >https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-4</idno>
+                        <idno type="api"
+                           >https://www.freud-edition.net/jsonapi/node/manifestation/62258388-9c35-4aed-b7e4-d0088ff3e6e8</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+                              <title>Freud, Sigmund (1905-001; 1905a [1904]): Über
+                                 Psychotherapie</title>
+                              <idno type="url"
+                                 >https://www.freud-edition.net/ueber-psychotherapie</idno>
+                              <idno type="api"
+                                 >https://www.freud-edition.net/jsonapi/node/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
+                           </bibl>
+                        </relatedItem>
                      </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support> Buch aus <material>Papier</material> in Druckschrift . </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU"
+                              >Freud_1925_Gesammelte_Schriften_VI_Ich_Psychologie</idno>
+                           <idno type="api"
+                              >https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support> Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
             <listWit>
                <witness xml:id="sfe-1905-001__1905.xml">sfe-1905-001__1905.xml<idno>E</idno>: Über
                   Psychotherapie. In: Wiener Medizinische Presse. Organ für praktische Ärzte 46, 1,
@@ -195,9 +386,25 @@
                   Psychotherapie. In: Freud, Sigmund; Freud, Anna; Storfer, A.J. (Hg.): Gesammelte
                   Schriften von Sigm. Freud. 6. Band, Leipzig, Wien, Zürich: Internationaler
                   Psychoanalytischer Verlag 1925, S. 11-24</witness>
-                       </listWit>
+            </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi"
+               >font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi"
+               >vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi"
+               >vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des
+               Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -206,8 +413,8 @@
    </teiHeader>
    <text>
       <body>
-         
-         
+
+
          <div>
             <pb n="1" xml:id="page__b9473681-9963-4a1a-8b9f-93476fcd57dc"/>
             <fw type="pageNum">[11]</fw>
@@ -323,9 +530,9 @@
                            wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                            >Löwenfeld</lem>
                         <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">LÖWENFELD</rdg>
-                     </app></hi></rs><note type="e" resp="#chuber"><term>Löwenfeld</term>Leopold Löwenfeld (1847–1923), dt.
-                  Psychiater und Sexualpathologe</note> (Lehrbuch der gesamten<lb/> Psychotherapie)
-               können Sie nachlesen, <app>
+                     </app></hi></rs><note type="e" resp="#chuber"><term>Löwenfeld</term>Leopold
+                  Löwenfeld (1847–1923), dt. Psychiater und Sexualpathologe</note> (Lehrbuch der
+               gesamten<lb/> Psychotherapie) können Sie nachlesen, <app>
                   <lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">welche</lem>
                   <rdg
                      wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
@@ -367,30 +574,32 @@
                            wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                            >Liébault</lem>
                         <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">LIEBAULT</rdg>
-                     </app></rs></hi><note type="e" resp="#chuber"><term>Liébeault</term>Ambroise-Auguste Liébeault
-                  (1823-1904), frz. Arzt und Psychiater, Vertreter der Suggestionstherapie, mit
-                  Bernheim Begründer der Schule von Nancy.</note>, <rs type="person"
-                  ref="#frd_person_46"><hi rendition="#smallcaps"><app>
+                     </app></rs></hi><note type="e" resp="#chuber"
+                  ><term>Liébeault</term>Ambroise-Auguste Liébeault (1823-1904), frz. Arzt und
+                  Psychiater, Vertreter der Suggestionstherapie, mit Bernheim Begründer der Schule
+                  von Nancy.</note>, <rs type="person" ref="#frd_person_46"><hi
+                     rendition="#smallcaps"><app>
                         <lem
                            wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                            >Bernheim</lem>
                         <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">BERNHEIM</rdg>
-                  </app></hi></rs><note type="e" resp="#chuber"><term>Bernheim</term>Hippolyte Marie Bernheim
-                  (1840-1919), frz. Internist, Psychiater und Neurologe, Vertreter der
-                  Suggestionstherapie, Mitglied der Schule von Nancy. Freud übersetzt von ihm ins
-                  Dt.: Die Suggestion und ihre Heilwirkung. Leipzig/Wien 1888 und Neue Studien über
-                  Hypnotismus, Suggestion und Psychotherapie. Leipzig/Wien 1892.</note>) verdanken.
-               Ein<lb/> von der psychischen Disposition der Kranken abhängiger Faktor<lb/> tritt,
-               ohne daß wir es beabsichtigen, zur Wirkung eines jeden<lb/> vom Arzte eingeleiteten
-               Heilverfahrens hinzu, meist im begün<lb break="no"/>stigenden, oft auch im hemmenden
-               Sinne. Wir haben für diese<lb/> Tatsache das Wort „Suggestion“ anzuwenden gelernt, und<lb/>
+                     </app></hi></rs><note type="e" resp="#chuber"><term>Bernheim</term>Hippolyte
+                  Marie Bernheim (1840-1919), frz. Internist, Psychiater und Neurologe, Vertreter
+                  der Suggestionstherapie, Mitglied der Schule von Nancy. Freud übersetzt von ihm
+                  ins Dt.: Die Suggestion und ihre Heilwirkung. Leipzig/Wien 1888 und Neue Studien
+                  über Hypnotismus, Suggestion und Psychotherapie. Leipzig/Wien 1892.</note>)
+               verdanken. Ein<lb/> von der psychischen Disposition der Kranken abhängiger
+               Faktor<lb/> tritt, ohne daß wir es beabsichtigen, zur Wirkung eines jeden<lb/> vom
+               Arzte eingeleiteten Heilverfahrens hinzu, meist im begün<lb break="no"/>stigenden,
+               oft auch im hemmenden Sinne. Wir haben für diese<lb/> Tatsache das Wort „Suggestion“
+               anzuwenden gelernt, und<lb/>
                <rs type="person" ref="#frd_person_48"><hi rendition="#smallcaps"><app>
                         <lem
                            wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                            >Moebius</lem>
                         <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">MOEBIUS</rdg>
-               </app></hi></rs><note type="e" resp="#chuber"><term>Moebius</term>Paul Julius Moebius (1853-1907), dt.
-                  Neurologe und Psychiater.</note> hat uns <app>
+                     </app></hi></rs><note type="e" resp="#chuber"><term>Moebius</term>Paul Julius
+                  Moebius (1853-1907), dt. Neurologe und Psychiater.</note> hat uns <app>
                   <lem
                      wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                      >gelehrt</lem>
@@ -439,23 +648,23 @@
                            wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                            >Vischer</lem>
                         <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">VISCHER</rdg>
-               </app></hi></rs><note type="e" resp="#chuber"><term>Vischer</term>Friedrich Theodor Vischer
-                  (1807–1887), deutscher Literaturwissenschaftler, Philosoph, Schriftsteller und
-                  Politiker, 1848 gewähltes Mitglied der Frankfurter Nationalversammlung. Freud
-                  zitiert mehrfach aus seinem Werk, vor allem aus seiner Faustparodie (1862) und
-                  seinem Roman Auch einer (1879). Zitat aus: Faust. Der Tragödie dritter Teil. Treu
-                  im Geiste des zweiten Teils des Goetheschen Faust, gedichtet von Deutobold
-                  Symbolizetti Allegoriowitsch Mystifizinski (I/4, Lieschen).</note> in seiner
-               Faustparodie (Faust, der Tragödie III. Teil)<lb/> klassischen Ausdruck geliehen
-                  hat:<lb break="paragraph"/></p>
+                     </app></hi></rs><note type="e" resp="#chuber"><term>Vischer</term>Friedrich
+                  Theodor Vischer (1807–1887), deutscher Literaturwissenschaftler, Philosoph,
+                  Schriftsteller und Politiker, 1848 gewähltes Mitglied der Frankfurter
+                  Nationalversammlung. Freud zitiert mehrfach aus seinem Werk, vor allem aus seiner
+                  Faustparodie (1862) und seinem Roman Auch einer (1879). Zitat aus: Faust. Der
+                  Tragödie dritter Teil. Treu im Geiste des zweiten Teils des Goetheschen Faust,
+                  gedichtet von Deutobold Symbolizetti Allegoriowitsch Mystifizinski (I/4,
+                  Lieschen).</note> in seiner Faustparodie (Faust, der Tragödie III. Teil)<lb/>
+               klassischen Ausdruck geliehen hat:<lb break="paragraph"/></p>
             <q>
                <p><span class="inlinequote">„Ich weiß, das Physikalische<lb/> Wirkt öfters aufs
                      Moralische.“</span><lb break="paragraph"/></p>
             </q>
-            <note type="e" resp="#chuber"><term>„Ich weiß, das Physikalische<lb/> Wirkt öfters aufs Moralische.“</term>Zitat
-               aus: Faust. Der Tragödie dritter Teil. Treu im Geiste des zweiten Teils des
-               Goetheschen Faust, gedichtet von Deutobold Symbolizetti Allegoriowitsch Mystifizinski
-               (I/4, Lieschen).</note>
+            <note type="e" resp="#chuber"><term>„Ich weiß, das Physikalische<lb/> Wirkt öfters aufs
+                  Moralische.“</term>Zitat aus: Faust. Der Tragödie dritter Teil. Treu im Geiste des
+               zweiten Teils des Goetheschen Faust, gedichtet von Deutobold Symbolizetti
+               Allegoriowitsch Mystifizinski (I/4, Lieschen).</note>
             <pb n="4" xml:id="page__3ad2b8d2-35ad-4e59-85c9-89572dde77e2"/>
             <fw type="pageNum">14</fw>
             <p>Aber sollte es nicht adäquater sein und häufiger zutreffen, daß<lb/> man aufs
@@ -567,10 +776,11 @@
                         wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                         >Leonardo</lem>
                      <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">LEONARDO</rdg>
-                  </app></hi><note type="e" resp="#chuber"><term>Leonardo da Vinci</term>Leonardo da Vinci (1452-1519),
-                  ital. Maler, Bildhauer, Architekt, Anatom und Universalgelehrter.</note>,<lb/>
-               arbeitet <hi rendition="#em">per via di porre</hi>; sie setzt nämlich Farbenhäufchen
-               hin,<lb/> wo sie früher nicht waren, auf die <app>
+                  </app></hi><note type="e" resp="#chuber"><term>Leonardo da Vinci</term>Leonardo da
+                  Vinci (1452-1519), ital. Maler, Bildhauer, Architekt, Anatom und
+                  Universalgelehrter.</note>,<lb/> arbeitet <hi rendition="#em">per via di
+                  porre</hi>; sie setzt nämlich Farbenhäufchen hin,<lb/> wo sie früher nicht waren,
+               auf die <app>
                   <lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">nichtfarbige</lem>
                   <rdg
                      wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
@@ -990,10 +1200,11 @@
                         wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                         >Janet</lem>
                      <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">JANET</rdg>
-               </app></rs><note type="e" resp="#chuber"><term>Janet</term>Pierre-Marie-Félix Janet (1859-1947), frz.
-                  Philosoph, Psychologe, Psychiater und Psychotherapeut, Begründer der dynamischen
-                  Psychiatrie, bedeutender Psychotraumatologe.</note>), die<lb/> übrigens in arger
-               Schematisierung das hysterische Symptom auf<lb/> die unbewußte <hi rendition="#em"><app>
+                  </app></rs><note type="e" resp="#chuber"><term>Janet</term>Pierre-Marie-Félix
+                  Janet (1859-1947), frz. Philosoph, Psychologe, Psychiater und Psychotherapeut,
+                  Begründer der dynamischen Psychiatrie, bedeutender Psychotraumatologe.</note>),
+               die<lb/> übrigens in arger Schematisierung das hysterische Symptom auf<lb/> die
+               unbewußte <hi rendition="#em"><app>
                      <lem
                         wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
                         >idée</lem>
@@ -1078,8 +1289,7 @@
                         >Vischers</lem>
                      <rdg wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml">VISCHERs</rdg>
                      <rdg wit="#sfe-1905-001__1906.xml">Vischer’s</rdg>
-                  </app><lb/></rs>
-               „Auch Einer“ zu sagen <app>
+                  </app><lb/></rs> „Auch Einer“ zu sagen <app>
                   <lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">pflegt; —</lem>
                   <rdg
                      wit="#sfe-1905-001__1905.xml #sfe-1905-001__1905_2.xml #sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml"
