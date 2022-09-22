@@ -32,7 +32,27 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>werke/1901-001/sfe-1901-001__1925.xml</String>
+                                    <String>werke/1904-002/sfe-1904-002__1925.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>postprocessing</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>werke/1905-001/sfe-1905-001__1925.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -72,7 +92,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>werke/1905-001/sfe-1905-001__1925.xml</String>
+                                    <String>werke/1901-001/sfe-1901-001__1925.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

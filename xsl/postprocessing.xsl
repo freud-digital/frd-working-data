@@ -49,12 +49,8 @@
                 <name>Rohrwasser, Michael</name>
             </respStmt>
             <respStmt>
-                <resp>TEI Schema ODD</resp>
-                <name>Andorfer, Peter</name>
-                <name>Stoxreiter, Daniel</name>
-            </respStmt>
-            <respStmt>
-                <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+                <resp>Datenexport aus Drupal und TEI Serialisierung, TEI Schema ODD und
+                technische Umsetzung der Webapplikation.</resp>
                 <name>Andorfer, Peter</name>
                 <name>Stoxreiter, Daniel</name>
             </respStmt>
@@ -83,6 +79,34 @@
     
     <xsl:template match="tei:span[@class='blockquote']">
         <cit><quote xmlns="http://www.tei-c.org/ns/1.0" type="inlinequote"><xsl:apply-templates/></quote></cit>
+    </xsl:template>
+    
+    <xsl:template match="tei:encodingDesc">
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <xsl:apply-templates select="node()|@*"/>
+            <listPrefixDef>
+                <prefixDef ident="frdhka" matchPattern="(.+)"
+                    replacementPattern="https://id.acdh.oeaw.ac.at/frd-hka/$1">
+                    <p>Editionsregister</p>
+                </prefixDef>
+                <prefixDef ident="lit" matchPattern="(.+)"
+                    replacementPattern="https://id.acdh.oeaw.ac.at/frd-hka/register/literatur.xml#$1">
+                    <p>Literaturverzeichnis</p>
+                </prefixDef>
+                <prefixDef ident="prs" matchPattern="(.+)"
+                    replacementPattern="https://id.acdh.oeaw.ac.at/frd-hka/register/personen.xml#$1">
+                    <p>Personenregister</p>
+                </prefixDef>
+                <prefixDef ident="plc" matchPattern="(.+)"
+                    replacementPattern="https://id.acdh.oeaw.ac.at/frd-hka/register/orte.xml#$1">
+                    <p>Ortsregister</p>
+                </prefixDef>
+                <prefixDef ident="drm" matchPattern="(.+)"
+                    replacementPattern="https://id.acdh.oeaw.ac.at/frd-hka/register/traeume.xml#$1">
+                    <p>Traumregister</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
     </xsl:template>
     
 </xsl:stylesheet>
