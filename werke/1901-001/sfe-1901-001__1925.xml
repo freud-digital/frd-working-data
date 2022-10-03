@@ -788,8 +788,11 @@
                </app>
                <pb n="9" xml:id="page__b250ed0a-54a8-4330-b03f-010170aba3a4"/><fw type="pageNum"
                   >195</fw>nicht näher. Ich werde aber jetzt absichts- und kritiklos die Ein<lb
-                  break="no"/>fälle verzeichnen, die sich meiner Selbstbeobachtung ergeben. Ich<lb/>
-               bemerke bald, <app>
+                  break="no"/>fälle verzeichnen, die sich meiner Selbstbeobachtung<note type="e"
+                  resp="#chuber"><term>meiner Selbstbeobachtung</term>Von Freud zur Methode
+                  ausgebaut; steht in Kontrast zu jener häufig anzutreffenden Selbstbeobachtung, die
+                  Unzusammenhängendes im Traum vorschnell als unsinnig oder unwichtig verwirft.
+               </note> ergeben. Ich<lb/> bemerke bald, <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">daß</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >dass</rdg>
@@ -887,10 +890,13 @@
                         >lasst</rdg>
                   </app> den Armen <hi rendition="#smallcaps">schuldig</hi> werden.“</p>
             </q>
-            <p>Ein zweiter Einfall zur Table d’hôte: Vor einigen Wochen<lb/> habe ich mich an einer
-                  <hi rendition="#smallcaps">Gasthaustafel</hi> in einem Tiroler<lb/> Höhenkurort
-               heftig über <rs type="person" n="freud" ref="#frd_person_59"> meine liebe Frau</rs>
-               geärgert, die mir nicht<lb/>
+            <p>Ein zweiter Einfall zur Table d’hôte <note type="e" resp="#kkaufmann"><term>Ein
+                     zweiter Einfall zur Table d’hôte</term>Auch erwähnt in <rs type="bibl"
+                     ref="#zotero_V42K5QM5"><hi rendition="#em">Psychopathologie des
+                        Alltagslebens</hi>, Kap. VII, S. 151</rs></note>: Vor einigen Wochen<lb/>
+               habe ich mich an einer <hi rendition="#smallcaps">Gasthaustafel</hi> in einem
+               Tiroler<lb/> Höhenkurort heftig über <rs type="person" n="freud" ref="#frd_person_59"
+                  > meine liebe Frau</rs> geärgert, die mir nicht<lb/>
                <app>
                   <lem
                      wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
@@ -1000,10 +1006,12 @@
                sind, ein sog. Occhiale zur <pb n="11"
                   xml:id="page__ce025431-4d06-42c1-a18e-7e05d784b7a3"/><fw type="pageNum"
                   >197</fw><hi rendition="#smallcaps">Abwehr</hi> des <hi rendition="#smallcaps"
-                  >Malocchio</hi>. Er ist übrigens <hi rendition="#smallcaps">Augenarzt</hi>.
-               Ich<lb/> hatte ihn an demselben Abend nach der Patientin gefragt, die<lb/> ich zur
-                  <hi rendition="#smallcaps">Brillen</hi>bestimmung in seine Ordination
-               empfohlen<lb/> hatte.</p>
+                  >Malocchio</hi><note type="e" resp="#kkaufmann"><term>Occhiale zur Abwer des
+                     Malocchio</term>Aberglaube zur Abwehr des bösen Blickes (Malocchio)</note>. Er
+               ist übrigens <hi rendition="#smallcaps">Augenarzt</hi>. Ich<lb/> hatte ihn an
+               demselben Abend nach der Patientin gefragt, die<lb/> ich zur <hi
+                  rendition="#smallcaps">Brillen</hi>bestimmung in seine Ordination empfohlen<lb/>
+               hatte.</p>
             <p>Wie ich bemerke, sind nun fast sämtliche Stücke des Traum<lb break="no"/>inhaltes in
                den neuen Zusammenhang gebracht. Ich könnte aber<lb/>
                <app>
@@ -1549,9 +1557,12 @@
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">dazusetzen</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >dazu setzen</rdg>
-               </app>:<lb/> „<hi rendition="#em">Er(d)beer</hi>, <hi rendition="#em">Hochbeer</hi>,
-                  <hi rendition="#em">Eier(s)peis</hi>, <hi rendition="#em">Papp</hi>.“ Sie träumt
-               also, <app>
+               </app>:<lb/> „<hi rendition="#em">Er(d)beer</hi>, <hi rendition="#em"
+                  >Hochbeer</hi><note type="e" resp="#kkaufmann"><term>Hochbeer</term>Regionale
+                  österr. Bezeichnung für Himbeere; vgl. Österr. Wörterbuch</note>, <hi
+                  rendition="#em">Eier(s)peis</hi>, <hi rendition="#em">Papp</hi><note type="e"
+                  resp="#kkaufmann"><term>Papp</term>Regionale österr. Bezeichnung für Brei; vgl.
+                  Österr. Wörterbuch</note>.“ Sie träumt also, <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">daß</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >dass</rdg>
@@ -1606,8 +1617,10 @@
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Fußpartie</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >Fusspartie</rdg>
-               </app> in der Dachsteingegend wenig befriedigt; er<lb/> erkundigte sich, so oft ein
-               neuer Berg in Sicht kam, ob das der <pb n="18"
+               </app> in der Dachsteingegend <note type="e" resp="#kkaufmann"
+                     ><term>Dachsteingegend</term>Gebirgsmassiv im steirischen Teil der
+                  Ostalpen.</note> wenig befriedigt; er<lb/> erkundigte sich, so oft ein neuer Berg
+               in Sicht kam, ob das der <pb n="18"
                   xml:id="page__a34e8405-c16f-48c4-98d8-f1f9169b5d25"/><fw type="pageNum"
                   >204</fw><span>Dachstein sei, und weigerte sich dann, den Weg zum
                   Wasserfall</span><lb/> mitzumachen. Sein Benehmen wurde auf Müdigkeit
@@ -1665,9 +1678,10 @@
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">vierjähriges</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >4jähriges</rdg>
-               </app> Mädchen war einer poliomyelitischen Affek<lb break="no"/>tion wegen vom Lande
-               in die Stadt gebracht worden und über<lb break="no"/>nachtete bei einer kinderlosen
-               Tante in einem <app>
+               </app> Mädchen war einer poliomyelitischen Affek <lb break="no"/>tion <note type="e"
+                  resp="#kkaufmann"><term>poliomyelitischen Affektion</term>Kinderlähmung</note>
+               wegen vom Lande in die Stadt gebracht worden und über<lb break="no"/>nachtete bei
+               einer kinderlosen Tante in einem <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">großen</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >grossen</rdg>
@@ -2182,8 +2196,10 @@
                         rendition="#smallcaps">Melusine</hi></lem>
                   <rdg wit="#sfe-1901-001__1901.xml"><rs type="person" n="schwind"
                         ref="#frd_person_60">Schwind</rs>’schen Cyklus</rdg>
-               </app><lb/> (siehe die auseinanderfahrenden Badenden) und ein Sintflutbild<lb/> eines
-               italienischen Meisters. Das kleine <app>
+               </app><note type="e" resp="#kkaufmann"><term>Überraschung im Bade aus dem
+                     Schwindschen Zyklus Melusine</term>Moritz von Schwind: Die schöne Melusine:
+                  VIII. Der Eidbruch (Belvedere Wien)</note><lb/> (siehe die auseinanderfahrenden
+               Badenden) und ein Sintflutbild<lb/> eines italienischen Meisters. Das kleine <app>
                   <lem
                      wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
                      >Erlebnis</lem>
@@ -2463,7 +2479,9 @@
                      >Bänken</lem>
                   <rdg wit="#sfe-1901-001__1901.xml">Banken</rdg>
                </app> eine rasch fortschreitende Bewegung erfährt. Es<lb/> war dies eine Kombination
-               von Hörsaal und Trottoir roulant.<lb/> Die weitere Verfolgung des Gedankens übergehe
+               von Hörsaal und Trottoir roulant <note type="e" resp="#kkaufmann"><term>Trottoir
+                     roulant</term>Frz. rollender Gehsteig, Förderband zur
+                  Personenbeförderung.</note>.<lb/> Die weitere Verfolgung des Gedankens übergehe
                ich. — Ein<lb/> andermal sitze ich im Waggon und halte auf dem <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Schoß</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
@@ -2495,7 +2513,10 @@
                      wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
                         ><hi rendition="#smallcaps">Auer</hi>sche</lem>
                   <rdg wit="#sfe-1901-001__1901.xml">Auer’sche</rdg>
-               </app> Licht, und ich <app>
+               </app> Licht<note type="e" resp="#kkaufmann"><term>Auer’sche Lich</term> Auch
+                  „Auerlicht“ oder „Glühstrumpf“. Auer von Welsbach optimierte 1885 die
+                  Zusammensetzung, wodurch sein Gasglühlicht zu einem wirtschaftlichen Erfolg wurde.
+               </note>, und ich <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">weiß</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >weiss</rdg>
@@ -2548,7 +2569,8 @@
                </app> sieht, wie der Engel<lb/> auf den Bildern von Mariä Verkündigung dargestellt
                wird<lb/> (Unschuld — Marie ist ihr eigener Name), der Stengel aber mit<lb/> dicken,
                weißen Blüten besetzt ist, die Kamelien gleichen (Gegen<lb break="no"/>satz zu
-               Unschuld: Kameliendame).</p>
+               Unschuld: Kameliendame<note type="e" resp="#kkaufmann"><term>Kameliendame</term>La
+                  Dame aux Camélias (1848), Roman von Alexandre Dumas d. J. </note>).</p>
             <p>Ein gutes Stück dessen, was wir über die Traumverdichtung<lb/> erfahren haben, <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">läßt</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
@@ -3044,18 +3066,23 @@
                      wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml"
                      >z. B.</lem>
                   <rdg wit="#sfe-1901-001__1931.xml">zum Beispiel</rdg>
-               </app> von<lb/> einer Injektion mit <hi rendition="#smallcaps">Propylen</hi> die
-               Rede. In der Analyse gelange<lb/> ich zunächst nur zu einem indifferenten, als
-               Traumerreger wirk<lb break="no"/>samen <app>
+               </app> von<lb/> einer Injektion mit <hi rendition="#smallcaps">Propylen</hi>
+               <note type="e" resp="#kkaufmann"><term>Propylen</term>Ein farbloses, brennbares
+                  Gas.</note>die Rede. In der Analyse gelange<lb/> ich zunächst nur zu einem
+               indifferenten, als Traumerreger wirk<lb break="no"/>samen <app>
                   <lem
                      wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
                      >Erlebnis</lem>
                   <rdg wit="#sfe-1901-001__1901.xml">Erlebniss</rdg>
-               </app>, bei welchem <hi rendition="#smallcaps">Amylen</hi> eine Rolle spielt.
-               Die<lb/> Vertauschung von Amylen mit Propylen kann ich noch nicht<lb/> rechtfertigen.
-               Zu dem Gedankenkreis desselben Traumes gehört<lb/> aber auch die Erinnerung an einen
-               ersten Besuch in München,<lb/> wo mir die <hi rendition="#smallcaps">Propyläen</hi>
-               auffielen. Die näheren Umstände der<lb/> Analyse legen es nahe <app>
+               </app>, bei welchem <hi rendition="#smallcaps">Amylen</hi><note type="e"
+                  resp="#kkaufmann"><term>Amylen</term>Kohlenwasserstoffverbindung. </note> eine
+               Rolle spielt. Die<lb/> Vertauschung von Amylen mit Propylen kann ich noch nicht<lb/>
+               rechtfertigen. Zu dem Gedankenkreis desselben Traumes gehört<lb/> aber auch die
+               Erinnerung an einen ersten Besuch in München,<lb/> wo mir die <hi
+                  rendition="#smallcaps">Propyläen</hi>
+               <note type="e" resp="#kkaufmann"><term>Propyläen</term>Torbau der Athener Akropolis,
+                  hier: ein klassizistischer Torbau auf dem Königsplatz in München.
+               </note>auffielen. Die näheren Umstände der<lb/> Analyse legen es nahe <app>
                   <lem
                      wit="#sfe-1901-001__1925.xml #sfe-1901-001__1911.xml #sfe-1901-001__1931.xml #sfe-1901-001__1901.xml"
                      >anzunehmen</lem>
@@ -3516,7 +3543,14 @@
                      <rdg
                         wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                         >„Natur“</rdg>
-                  </app> enthalten.</hi>“</p>
+                  </app>
+                  <note type="e" resp="#kkaufmann"><term>in einem bekannten Aufsatz von Goethe
+                        ,Natur‘</term> Das Goethe zugeschriebene Fragment stammt vermutlich von
+                     Georg Christoph Tobler, entstand um 1782 und erschien zuerst 1784 im 32. Stück
+                     des <hi rendition="#em">Tiefurter Journals</hi>. Der kurze Aufsatz soll Sigmund
+                     Freud zum Studium der Medizin bewogen haben. (Vgl. Jones; Freud; <rs
+                        type="bibl" ref="#zotero_K4CNP62X">Friedrich Eckstein: Alte unnennbare
+                        Tage</rs>)</note> enthalten.</hi>“</p>
             <p>Der Unsinn dieses Traumes tritt noch greller hervor, wenn<lb/> ich <app>
                   <lem
                      wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
@@ -3593,10 +3627,29 @@
                   /><hi rendition="#smallcaps">lichen</hi> Referenten eine geradezu „<hi
                   rendition="#smallcaps">vernichtende</hi>“<lb/> Kritik über ein Buch <rs
                   type="person" n="fließ" ref="#frd_person_18">meines Freundes F. in Berlin</rs>
-                  auf<lb break="no"/>genommen. Ich stellte den Redakteur darob zur Rede, der<lb/>
-               mir zwar sein Bedauern ausdrückte, aber eine Remedur<lb/> nicht versprechen wollte.
-               Daraufhin brach ich meine Be<lb break="no"/>ziehungen zur Zeitung ab und hob in
-               meinem Absagebrief<lb/> die Erwartung hervor, <app>
+                  auf<lb break="no"/>genommen.<note type="e" resp="#kkaufmann"><term>Eine
+                     medizinische Zeitschrift ... aufgenommen</term>In der Wiener Klinischen
+                  Rundschau 12, 1898, S. 240, erscheint eine mit „Ry“ gezeichnete Besprechung des
+                  Buches von Wilhelm Fliess: Die Beziehungen zwischen Nase und weiblichen
+                  Geschlechtsorganen. Freud erscheint auf dem Titelblatt der Zeitschrift unter den
+                  ständigen Mitarbeitern, nach dem Vorfall läßt er ab Jg. 12, Nr. 18 (1.5.1898)
+                  seinen Namen streichen. Das Kürzel „Ry“ steht vermutlich für den Wiener HNO-Arzt
+                  Benjamin Rischawy (Grinstein zit. in Briefe an Wilhelm Fliess, S. 338, Anmerkung).
+                  Ry spricht in seiner Rezension von „„mystische[m] Geistesreichtum vortäuschenden
+                  Unsinn“, der keiner wissenschaftlichen Diskussion würdig sei.“ (ebd.) Die Kritik
+                  wird von Freud auch in der TD, Kap. VI. erwähnt (vgl. Briefe an Fliess, S. 338,
+                  Anm.). Freud schreibt am 14.4.1898 an Fließ, die Kritik sei „ein Muster jener Art
+                  von Unverschämtheit, die der absoluten Ignoranz eigen ist. Ich habe Paschkis einen
+                  unsanften Brief mit der Bitte um Aufklärung geschrieben. Hier die loyale, aber
+                  sterile Antwort. Ich will nichts weiter tun, ohne dich gefragt zu haben“ (ebd., S.
+                  338f). Im darauffolgenden Brief schreibt SF: „Ich war so ungeschickt, warten zu
+                  wollen, bis die Sache mit Paschkis erledigt ist. […] Es war Absicht, daß ich Dir
+                  die fragliche Kritik nicht geschickt habe. Ich glaube, wir können die Geschichte
+                  jetzt fallenlassen.“ (27.4.98).</note> Ich stellte den Redakteur darob zur Rede,
+               der<lb/> mir zwar sein Bedauern ausdrückte, aber eine Remedur <note type="e"
+                  resp="#kkaufmann"><term>Remedur</term>Widerruf</note><lb/> nicht versprechen
+               wollte. Daraufhin brach ich meine Be<lb break="no"/>ziehungen zur Zeitung ab und hob
+               in meinem Absagebrief<lb/> die Erwartung hervor, <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">daß</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >dass</rdg>
@@ -3672,8 +3725,9 @@
                         >Goethes</lem>
                      <rdg wit="#sfe-1901-001__1901.xml">Goethe’s</rdg>
                   </app></hi> Lebensdauer auf ein Vielfaches einer für die<lb/> Biologie bedeutsamen
-               Zahl von Tagen zurück. Dieses Ich wird<lb/> aber einem Paralytiker gleichgestellt
-                  („<hi rendition="#smallcaps">Ich <app>
+               Zahl von Tagen zurück. Dieses Ich wird<lb/> aber einem Paralytiker <note type="e"
+                  resp="#kkaufmann"><term>Paralytiker</term>Gelähmter</note> gleichgestellt („<hi
+                  rendition="#smallcaps">Ich <app>
                      <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">weiß</lem>
                      <rdg
                         wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
@@ -3718,16 +3772,21 @@
                      wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
                      >Ätiologie</lem>
                   <rdg wit="#sfe-1901-001__1901.xml">Aetiologie</rdg>
-               </app> psychoneurotischer Störungen die<lb/> Sexualität hervorhebt (siehe die
-               Anspielung auf den <app>
+               </app>
+               <note type="e" resp="#kkaufmann"><term>Ätiologie</term> Med. Lehre von der Ursache
+                  der Krankheiten</note> psychoneurotischer Störungen die<lb/> Sexualität hervorhebt
+               (siehe die Anspielung auf den <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">achtzehn<lb break="no"
                         /><pb n="42" xml:id="page__da384a4a-d1ad-4604-928e-2944ccb349cd"/><fw
                         type="pageNum">228</fw>jährigen</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >18jährigen</rdg>
-               </app>Kranken „<hi rendition="#smallcaps">Natur, Natur</hi>“), werde ich die
-               nämliche<lb/> Kritik wiederfinden und bringe ihr schon jetzt den gleichen Spott<lb/>
-               entgegen.</p>
+               </app>Kranken „<hi rendition="#smallcaps">Natur, Natur</hi>“)<note type="e"
+                  resp="#kkaufmann"><term>siehe die Anspielung … „Natur, Natur“</term> Gemeint ist
+                  die Verbindung zur Sexualität; weiters wird auf Goethes Rede: Zum Schäkespears Tag
+                  angespielt (14.10.1771): „Und ich rufe: Natur! Natur! Nichts so Natur als
+                  Shakespeares Menschen.“</note>, werde ich die nämliche<lb/> Kritik wiederfinden
+               und bringe ihr schon jetzt den gleichen Spott<lb/> entgegen.</p>
             <p>Wenn ich die Traumgedanken weiter verfolge, finde ich immer<lb/> nur <hi
                   rendition="#smallcaps">Spott und Hohn</hi> als das <hi rendition="#smallcaps"
                   >Korrelat der Absurdi</hi><lb break="no"/><hi rendition="#smallcaps">täten des
@@ -3794,9 +3853,11 @@
                      wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml"
                      >Übertragung</lem>
                   <rdg wit="#sfe-1901-001__1901.xml">Uebertragung</rdg>
-               </app> des damals beliebten Gassenhauers:<lb/> Das hat kein <hi
-                  rendition="#smallcaps">Goethe</hi> g’schrieben, das hat kein <hi
-                  rendition="#smallcaps">Schiller</hi><lb/> g’dicht usw. . . .</p>
+               </app> des damals beliebten Gassenhauers<note type="e" resp="#kkaufmann"
+                     ><term>Gassenhauers</term>Weit verbreitetes „Wiener Lied“ von Johann Sioly
+                  (1893).</note>:<lb/> Das hat kein <hi rendition="#smallcaps">Goethe</hi>
+               g’schrieben, das hat kein <hi rendition="#smallcaps">Schiller</hi><lb/> g’dicht usw.
+               . . .</p>
             <pb n="43" xml:id="page__05964edd-6467-4594-b72d-f6ec0714f8d4"/>
             <fw type="pageNum">[229]</fw>
             <p rendition="h1"><app>
@@ -4253,7 +4314,10 @@
                            rendition="smallcaps">3 fl. 65 kr.</hi></lem>
                      <rdg wit="#sfe-1901-01__1901.xml #sfe-1901-01__1911.xml #sfe-1901-01__1921"><hi
                            rendition="bold">3 fl. 65 kr.</hi></rdg>
-                  </app>aus der Geldtasche; sie sagt aber: Was <app>
+                  </app><note type="e" resp="#kkaufmann"><term>3 fl. 65 kr.</term>3 Gulden
+                     (abgekürzt fl. von florenus, Florin) und 65 Kreuzer. 1892 wurde der
+                     österreichische Gulden 1:2 durch die Krone ersetzt.</note>aus der Geldtasche;
+                  sie sagt aber: Was <app>
                      <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">tust du</lem>
                      <rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">tust Du</rdg>
                      <rdg wit="#sfe-1901-001__1901.xml">thust Du</rdg>
@@ -5321,11 +5385,15 @@
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                         ><hi rendition="#smallcaps"><rs type="person" n="groller"
                            ref="#frd_person_63">Groller</rs>’s</hi></rdg>
-               </app>), der, bei Nacht <pb n="60"
-                  xml:id="page__c1ff12a9-99bc-4b4f-a1aa-464b2a1c7a00"/><fw type="pageNum"
-               >246</fw>erwachend, durch den Schlafraum brüllt: <hi rendition="#smallcaps">Das
-                  Nashorn will<lb/> er</hi>? Ein braveres Kind würde, anstatt zu brüllen,<hi
-                  rendition="#smallcaps"> träumen</hi>, <app>
+               </app>)<note type="e" resp="#kkaufmann"><term>die heitere Geschichte von dem
+                     schlimmen Buben (Balduin Grollers)</term><rs type="bibl" n="groller"
+                     ref="#frd_bibl_UWWWIZ9D"><hi rendition="#em">Vom kleinen Rudi</hi></rs> (1897),
+                  Roman von Balduin Groller (d.i. Adalbert Goldscheider), dem Erfinder des
+                  österreichischen Sherlock Holmes, alias Detektiv Dagobert Trostler.</note>, der,
+               bei Nacht <pb n="60" xml:id="page__c1ff12a9-99bc-4b4f-a1aa-464b2a1c7a00"/><fw
+                  type="pageNum">246</fw>erwachend, durch den Schlafraum brüllt: <hi
+                  rendition="#smallcaps">Das Nashorn will<lb/> er</hi>? Ein braveres Kind würde,
+               anstatt zu brüllen,<hi rendition="#smallcaps"> träumen</hi>, <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">daß</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >dass</rdg>
@@ -5652,13 +5720,21 @@
                      wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml"
                      >z. B.</lem>
                   <rdg wit="#sfe-1901-001__1931.xml">zum Beispiel</rdg>
-               </app><rs type="person" n="freud" ref="#frd_person_21">ein Schläfer</rs>, <pb n="63"
+               </app><rs type="person" n="freud" ref="#frd_person_21">ein Schläfer</rs><note
+                  type="e" resp="#kkaufmann"><term>ein Schläfer</term>Dieser Schläfer ist Freud
+                  selbst. Vgl. Traumdeutuung, Kapitel V; Traum: „Ich reite auf einem grauen Pferde […]“;
+                  Schmerzreiz: „Ich hatte aber tags vorher an Furunkeln gelitten, die mir jede
+                  Bewegung zur Qual machten, und zuletzt war ein Furunkel an der Wurzel des Skrotum
+                  zur Apfelgröße herangewachsen, hatte mir bei jedem Schritte die unerträglichsten
+                  Schmerzen bereitet[.]“</note>, <pb n="63"
                   xml:id="page__f9847357-8da7-4934-bc96-5787a8f6b91a"/><fw type="pageNum"
                >249</fw>den ein schmerzhafter <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Abszeß</lem>
                   <rdg wit="#sfe-1901-001__1901.xml">Abscess</rdg>
                   <rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">Abszess</rdg>
-               </app> am Perineum stören wollte. Er<lb/> träumte, <app>
+               </app> am Perineum <note type="e" resp="#kkaufmann"><term>Perineum</term>Damm;
+                  anatom. Bezeichnung der Region zwischen After und Geschlechtsorgan</note> stören
+               wollte. Er<lb/> träumte, <app>
                   <lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">daß</lem>
                   <rdg wit="#sfe-1901-001__1901.xml #sfe-1901-001__1911.xml #sfe-1901-001__1921.xml"
                      >dass</rdg>
@@ -5955,12 +6031,12 @@
             <note type="footnote"><hi rendition="#footnote-index">1)</hi> Weiteres über die
                Traumsymbolik findet man außer in den alten Schriften<lb/> zur Traumdeutung (<rs
                   type="person" n="daldis" ref="#frd_person_1"><hi rendition="#smallcaps"
-                     >Artemidorus von Daldis</hi></rs>, <rs type="person" n="scherner" ref="frd_person_35"><hi
-                     rendition="#smallcaps">Scherner</hi></rs>, Das Leben des<lb/> Traumes 1861) in
-               der „Traumdeutung“ des Verfassers, in den mythologischen<lb/> Arbeiten der
-               psychoanalytischen Schule und auch in den Arbeiten von W. <rs type="person"
-                  n="stekel" ref=""><hi rendition="#smallcaps">Stekel</hi></rs><lb/> („Die Sprache
-               des Traumes“ 1911).</note>
+                     >Artemidorus von Daldis</hi></rs>, <rs type="person" n="scherner"
+                  ref="frd_person_35"><hi rendition="#smallcaps">Scherner</hi></rs>, Das Leben
+               des<lb/> Traumes 1861) in der „Traumdeutung“ des Verfassers, in den
+               mythologischen<lb/> Arbeiten der psychoanalytischen Schule und auch in den Arbeiten
+               von W. <rs type="person" n="stekel" ref=""><hi rendition="#smallcaps"
+                  >Stekel</hi></rs><lb/> („Die Sprache des Traumes“ 1911).</note>
             <pb n="69" xml:id="page__dd4edd73-d5cd-4a7d-9136-529cf5235fa8"/>
             <fw type="pageNum">[255]</fw>
             <p rendition="h1">XIII</p>
