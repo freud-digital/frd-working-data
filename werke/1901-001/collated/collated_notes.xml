@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit><witness xml:id="sfe-1901-001__1911.xml">sfe-1901-001__1911.xml</witness><witness xml:id="sfe-1901-001__1921.xml">sfe-1901-001__1921.xml</witness><witness xml:id="sfe-1901-001__1925.xml">sfe-1901-001__1925.xml</witness><witness xml:id="sfe-1901-001__1931.xml">sfe-1901-001__1931.xml</witness></listWit>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <ab><app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">daß</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">dass</rdg></app>
+	 
+	namhafte Sprachforscher behaupten, die ältesten menschlichen Sprachen hätten ganz allgemein kontradiktorische Gegensätze durch das nämliche Wort zum Ausdruck gebracht (stark—schwach; innen—
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">außen usw</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">aussen etc</rdg></app>
+	<app><lem wit="#sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">.: „</lem><rdg wit="#sfe-1901-001__1911.xml">: „</rdg></app>
+	Gegensinn der Urworte“). 
+	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">1</lem><rdg wit="#sfe-1901-001__1931.xml">2</rdg></app>
+	) 
+	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">Vergl</lem><rdg wit="#sfe-1901-001__1931.xml">Vgl</rdg></app>
+	. 
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">hiezu</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">hierzu</rdg></app>
+	 
+	des Verfassers „Drei Abhandlungen zur Sexualtheorie
+	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">“</lem><rdg wit="#sfe-1901-001__1931.xml">“,</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">1905</lem><rdg wit="#sfe-1901-001__1931.xml">1905</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">,</lem><rdg wit="#sfe-1901-001__1931.xml">[</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-001__1925.xml">fünfte</lem><rdg wit="#sfe-1901-001__1911.xml">zweite</rdg><rdg wit="#sfe-1901-001__1921.xml">vierte</rdg><rdg wit="#sfe-1901-001__1931.xml"/></app>
+	 
+	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">Auflage</lem><rdg wit="#sfe-1901-001__1931.xml"/></app>
+	 
+	<app><lem wit="#sfe-1901-001__1925.xml">1922. (</lem><rdg wit="#sfe-1901-001__1911.xml">1910</rdg><rdg wit="#sfe-1901-001__1921.xml">1920</rdg><rdg wit="#sfe-1901-001__1931.xml"/></app>
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Ges. Schriften, Bd</lem><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/></app>
+	. 
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">V</lem><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/></app>
+	<app><lem wit="#sfe-1901-001__1925.xml">.)</lem><rdg wit="#sfe-1901-001__1931.xml">]. 3</rdg><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/></app>
+	 
+	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">1</lem><rdg wit="#sfe-1901-001__1931.xml"/></app>
+	) Weiteres über die Traumsymbolik findet man 
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">außer</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">ausser</rdg></app>
+	 
+	in den alten Schriften zur Traumdeutung (Artemidorus von Daldis, Scherner
+	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">,</lem><rdg wit="#sfe-1901-001__1931.xml">, „</rdg></app>
+	 
+	Das Leben des 
+	<app><lem wit="#sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1911.xml"/><rdg wit="#sfe-1901-001__1931.xml">„</rdg></app>
+	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">Traumes</lem><rdg wit="#sfe-1901-001__1931.xml">Traumes</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1911.xml"/><rdg wit="#sfe-1901-001__1931.xml">“,</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">1861) in der „Traumdeutung“ des Verfassers, in den mythologischen Arbeiten der psychoanalytischen Schule</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">1861) in der „Traumdeutung“ des Verfassers, in den mythologischen Arbeiten der psychoanalytischen Schule</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-001__1931.xml #sfe-1901-001__1925.xml"/><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">,</rdg></app>
+	 
+	und 
+	<app><lem wit="#sfe-1901-001__1921.xml #sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">auch</lem><rdg wit="#sfe-1901-001__1911.xml">vor allem</rdg></app>
+	 
+	in den Arbeiten von W. Stekel („Die Sprache des Traumes
+	<app><lem wit="#sfe-1901-001__1925.xml">“</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">"</rdg><rdg wit="#sfe-1901-001__1931.xml">“,</rdg></app>
+	 
+	1911). 
+	<app><lem wit="#sfe-1901-001__1925.xml">1</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">2</rdg><rdg wit="#sfe-1901-001__1931.xml">4</rdg></app>
+	) 
+	<app><lem wit="#sfe-1901-001__1925.xml">1922</lem><rdg wit="#sfe-1901-001__1911.xml">1911</rdg><rdg wit="#sfe-1901-001__1921.xml">1921</rdg><rdg wit="#sfe-1901-001__1931.xml">1930</rdg></app>
+	 
+	in 
+	<app><lem wit="#sfe-1901-001__1925.xml">siebenter</lem><rdg wit="#sfe-1901-001__1911.xml">dritter</rdg><rdg wit="#sfe-1901-001__1921.xml">sechster</rdg><rdg wit="#sfe-1901-001__1931.xml">8.</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml #sfe-1901-001__1925.xml">Auflage erschienen</lem><rdg wit="#sfe-1901-001__1931.xml">Auflage erschienen</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-001__1925.xml">. (</lem><rdg wit="#sfe-1901-001__1931.xml">[</rdg><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/></app>
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">Ges. Schriften, Bd</lem><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/></app>
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">.</lem><rdg wit="#sfe-1901-001__1911.xml #sfe-1901-001__1921.xml">.</rdg></app>
+	 
+	<app><lem wit="#sfe-1901-001__1925.xml #sfe-1901-001__1931.xml">II und III</lem><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/></app>
+	<app><lem wit="#sfe-1901-001__1925.xml">.)</lem><rdg wit="#sfe-1901-001__1931.xml">].</rdg><rdg wit="#sfe-1901-001__1921.xml #sfe-1901-001__1911.xml"/></app>
+</ab>
+      </body>
+  </text>
+</TEI>
