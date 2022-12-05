@@ -12,7 +12,7 @@
     </xsl:template>
     
     <xsl:template match="//tei:titleStmt/tei:title[@level='s']">
-        <title type="series" level="s">
+        <title xmlns="http://www.tei-c.org/ns/1.0" type="series" level="s">
             Sigmund Freud: Historisch-kritische Ausgabe (HKA)
         </title>
     </xsl:template>
