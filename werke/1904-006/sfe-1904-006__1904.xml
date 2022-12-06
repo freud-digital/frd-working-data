@@ -7,8 +7,7 @@
                L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
             <title type="manifestation" level="a">Rezension von: Löwenfeld, L[eopold] ›Die
                psychischen Zwangserscheinungen‹ (1904-006/1904)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische
-               Gesamtausgabe</title>
+            <title type="series" level="s"> Sigmund Freud: Historisch-kritische Ausgabe (HKA) </title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor><name>Huber, Christian</name><name>Kaufmann, Kira</name><name>Rohrwasser,
                   Michael</name></editor>
@@ -53,12 +52,8 @@
                <name>Rohrwasser, Michael</name>
             </respStmt>
             <respStmt>
-               <resp>TEI Schema ODD</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <resp>Datenexport aus Drupal und TEI Serialisierung, TEI Schema ODD und technische
+                  Umsetzung der Webapplikation.</resp>
                <name>Andorfer, Peter</name>
                <name>Stoxreiter, Daniel</name>
             </respStmt>
@@ -106,9 +101,10 @@
                   Untertitel angeführt wird, und wurde von Freud selbst verfasst. Zuvor erschien
                   1901 Freuds Schrift <rs type="bibl" ref="#zotero_7XC58JJ2"><hi rendition="#em"
                         >Über den Traum</hi></rs> in der Reihe <hi rendition="#em">Grenzfragen des
-                     Nerven- und Seelenlebens</hi>, welche von <rs type="person" ref="#frd_person_41"
-                     >Leopold Löwenfeld</rs> und <rs type="person" ref="#frd_person_44">Hans
-                     Kurella</rs> herausgegeben wurde. Ein Blick auf das <ref
+                     Nerven- und Seelenlebens</hi>, welche von <rs type="person"
+                     ref="#frd_person_41">Leopold Löwenfeld</rs> und <rs type="person"
+                     ref="#frd_person_44">Hans Kurella</rs> herausgegeben wurde. Ein Blick auf das
+                     <ref
                      target="https://archive.org/details/Freud_1901_Ueber_Traum/page/n1/mode/2up"
                         ><term>Inhaltsverzeichnis</term></ref> der Reihe zeigt die thematischen und
                   personellen Verschränkungen auf dem Gebiet von Traumforschung, Sexual- und
@@ -232,10 +228,11 @@
                </biblStruct>
             </listBibl>
             <listWit>
-               <witness xml:id="sfe-1904-002__1904.xml" sameAs="#bibl-1904-006-1904"><idno>E</idno>:
-                  Löwenfeld. Die psychischen Zwangserscheinungen.In: Journal für Psychologie und
-                  Neurologie [zugleich Zeitschrift für Hypnotismus, Bd. 13.], Hg. v. August Forel u.
-                  Oskar Vogt, Bd. 3, 1904, H. 4, S. 190-191. </witness>
+               <witness xml:id="sfe-1904-002__1904.xml" corresp="#bibl-1904-002-1904">
+                  <idno>E</idno>: Löwenfeld. Die psychischen
+                  Zwangserscheinungen.In: Journal für Psychologie und Neurologie [zugleich
+                  Zeitschrift für Hypnotismus, Bd. 13.], Hg. v. August Forel u. Oskar Vogt, Bd. 3,
+                  1904, H. 4, S. 190-191. </witness>
             </listWit>
          </sourceDesc>
       </fileDesc>
@@ -254,6 +251,12 @@
                Dokuments</rendition>
             <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
          </tagsDecl>
+         <listPrefixDef>
+            <prefixDef ident="frdhka" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/frd-hka/$1">
+               <p>Editionsregister</p>
+            </prefixDef>
+         </listPrefixDef>
       </encodingDesc>
       <profileDesc>
          <langUsage>

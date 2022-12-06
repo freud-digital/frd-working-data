@@ -73,10 +73,26 @@
     <xsl:template match="tei:lb[not(@break)]"/>
     -->
     
+    <xsl:template match="tei:hi[@rendition='smallcaps']">
+        <hi xmlns="http://www.tei-c.org/ns/1.0" rendition="#smallcaps">
+            <xsl:apply-templates/>
+        </hi>
+    </xsl:template>
+    
+    <xsl:template match="tei:hi[@rendition='bold']">
+        <hi xmlns="http://www.tei-c.org/ns/1.0" rendition="#bold">
+            <xsl:apply-templates/>
+        </hi>
+    </xsl:template>
+    
     <xsl:template match="tei:lb[@break='paragraph']">
         <xsl:if test="following-sibling::*">
             <xsl:text> </xsl:text>
         </xsl:if>
+    </xsl:template>
+    
+    <xsl:template match="tei:span">
+        <xsl:apply-templates select="node()|@*"/>
     </xsl:template>
     
     <xsl:template match="tei:span[@class='inlinequote']">
@@ -95,7 +111,7 @@
                     replacementPattern="https://id.acdh.oeaw.ac.at/frd-hka/$1">
                     <p>Editionsregister</p>
                 </prefixDef>
-                <prefixDef ident="lit" matchPattern="(.+)"
+                <!--<prefixDef ident="lit" matchPattern="(.+)"
                     replacementPattern="https://id.acdh.oeaw.ac.at/frd-hka/register/literatur.xml#$1">
                     <p>Literaturverzeichnis</p>
                 </prefixDef>
@@ -110,9 +126,19 @@
                 <prefixDef ident="drm" matchPattern="(.+)"
                     replacementPattern="https://id.acdh.oeaw.ac.at/frd-hka/register/traeume.xml#$1">
                     <p>Traumregister</p>
-                </prefixDef>
+                </prefixDef>-->
             </listPrefixDef>
         </encodingDesc>
+    </xsl:template>
+    
+    <xsl:template match="tei:listWit">
+        <listWit xmlns="http://www.tei-c.org/ns/1.0">
+            <xsl:for-each select="./tei:witness">
+                <witness xml:id="{@xml:id}" corresp="#{replace(replace(replace(@xml:id, '.xml', ''), 'sfe', 'bibl'), '__', '-')}">
+                    <xsl:apply-templates/>
+                </witness>
+            </xsl:for-each>
+        </listWit>
     </xsl:template>
     
 </xsl:stylesheet>
