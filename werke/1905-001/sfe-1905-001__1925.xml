@@ -698,7 +698,14 @@
                die interessanteste ist, uns allein<lb/> etwas über die Entstehung und den
                Zusammenhang der Krank<lb break="no"/>heitserscheinungen lehrt. Infolge der
                Einsichten in den Mecha<lb break="no"/>nismus des seelischen Krankseins, die sie uns
-               eröffnet, könnte sie<lb/> allein imstande sein, über sich selbst hinauszuführen und
+               eröffnet, könnte sie<lb/> allein imstande sein, über sich selbst <app>
+                  <lem
+                     wit="#sfe-1905-001__1911.xml #sfe-1905-001__1920.xml #sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1925.xml"
+                     >hinauszuführen</lem>
+                  <rdg
+                     wit="#sfe-1905-001__1905.2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1906.xml"
+                     >hinaus zu führen</rdg>
+               </app> und
                uns den<lb/> Weg zu noch anderen Arten therapeutischer Beeinflussung zu weisen.</p>
             <p>In <app>
                   <lem wit="#sfe-1905-001__1924.xml #sfe-1905-001__1925.xml">Bezug</lem>
@@ -1163,7 +1170,13 @@
             <p><hi rendition="#em">f)</hi> Zum Schlusse, meine Herren Kollegen, muß ich mir
                sagen,<lb/> es geht doch nicht an, Ihre Aufmerksamkeit so lange zugunsten<lb/> der
                analytischen Psychotherapie in Anspruch zu nehmen, ohne<lb/> Ihnen zu sagen, worin
-               diese Behandlung besteht und worauf sie<lb/> sich gründet. Ich kann es zwar, da ich
+               diese Behandlung <app>
+                  <lem
+                     wit="#sfe-1905-001__1922.xml #sfe-1905-001__1924.xml #sfe-1905-001__1905.2.xml #sfe-1905-001__1905.xml #sfe-1905-001__1925.xml">besteht</lem>
+                  <rdg
+                     wit="#sfe-1905-001__1906.xml #sfe-1905-001__1911.xml #sfe-1905-001__1920.xml"
+                     >besteht,</rdg>
+               </app> und worauf sie<lb/> sich gründet. Ich kann es zwar, da ich
                kurz sein muß, nur mit<lb/> einer Andeutung tun. Diese Therapie ist also auf die
                Einsicht<lb/> gegründet, daß unbewußte Vorstellungen — besser: die Unbe<lb break="no"
                />wußtheit gewisser seelischer Vorgänge — die nächste Ursache <pb n="12"
